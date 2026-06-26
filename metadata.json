@@ -1,0 +1,6 @@
+{
+  "name": "Physical Geology Test Bank",
+  "description": "An interactive, fully featured physical geology study platform and test bank containing comprehensive questions from J. Butler physical geology, Examveda, and Oxford University Press materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

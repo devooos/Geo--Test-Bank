@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+/* Styling for geologic tables parsed from HTML */
+.geology-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+}
+
+.geology-table th,
+.geology-table td {
+  border: 1px solid #cbd5e1 !important; /* border-slate-300 */
+  padding: 0.625rem 0.875rem !important;
+}
+
+.geology-table th, 
+.geology-table td strong {
+  background-color: #f1f5f9; /* slate-100 */
+  color: #0f172a;
+  font-weight: 700;
+}
+
+.geology-table tr:nth-child(even) {
+  background-color: #f8fafc; /* slate-50 */
+}
+
+.geology-table p {
+  margin: 0;
+}
+
+
