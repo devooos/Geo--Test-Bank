@@ -1,19503 +1,9939 @@
 import type { Question } from '../types';
 
-export const oxfordQuestions: Question[] = [
+export const oupQuestions: Question[] = [
   {
-    "id": "oxford-ch1-q1",
+    "id": "oup-ch1-q1",
     "globalId": 1,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Which of the following statements regarding the scientific methods is true?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Earth’s four major surface components, or reservoirs, are known as:",
     "choices": {
-      "a": "A hypothesis must be agreed upon by more than one scientist",
-      "b": "A theory is a hypothesis that has withstood many scientific tests",
-      "c": "A theory is proven to be true, and therefore may not be discarded",
-      "d": "A hypothesis cannot predict the outcome of scientific experiments"
+      "a": "Atmosphere, crust, mantle, core",
+      "b": "Continents, oceans, clouds, forest",
+      "c": "Geosphere, hydrosphere, atmosphere, and biosphere",
+      "d": "Lithosphere, asthenosphere, magnetosphere, ferrosphere"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q2",
+    "id": "oup-ch1-q2",
     "globalId": 2,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "According to the principle of uniformatarianism,",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Heat flow from Earth’s interior to its surface and atmosphere:",
     "choices": {
-      "a": "geologic processes we observe today have operated in the past",
-      "b": "geologic process in the past operated at the same rate as they do today",
-      "c": "all of the planets formed from a uniform solar nebula",
-      "d": "early Earth was covered by a uniform magma ocean"
+      "a": "Is negligible",
+      "b": "Is associated with plate tectonics",
+      "c": "Is roughly the same everywhere on Earth",
+      "d": "Varies randomly from place to place on Earth’s surface"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q3",
+    "id": "oup-ch1-q3",
     "globalId": 3,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Approximately how long ago did the Big Bang take place?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Mercury, Venus, and Mars are known as terrestrial planets because",
     "choices": {
-      "a": "10-15 thousand years ago",
-      "b": "10-15 million years ago",
-      "c": "100-150 million years ago",
-      "d": "10-15 billion years ago"
+      "a": "They orbit the Sun, like Earth",
+      "b": "They are 4.56 billion years old, like Earth",
+      "c": "They are made of rocky material, like Earth",
+      "d": "They formed from the solar nebula, like Earth"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q4",
+    "id": "oup-ch1-q4",
     "globalId": 4,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Under intense pressure and high temperature, hydrogen atoms combine to form helium. This process is called:",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "The table describes four samples of Earth materials. Which sample is a mineral?\n\nSample | Description\nA | Solid crystals;    chemical formula: CaCO 3\nB | Mixture of quartz,    mica, and feldspar crystals\nC | Solid bone\nD | Liquid; chemical    formula: Au",
     "choices": {
-      "a": "nuclear fusion",
-      "b": "nuclear fission",
-      "c": "metamorphism",
-      "d": "convection"
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q5",
+    "id": "oup-ch1-q5",
     "globalId": 5,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "What are the two most abundant elements in nebula (gas clouds) in the universe?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "A student who is interested in studying how earthquake waves travel through rocks should get a degree in:",
     "choices": {
-      "a": "nitrogen and oxygen",
-      "b": "oxygen and silicon",
-      "c": "hydrogen and helium",
-      "d": "iron and nickel"
+      "a": "Geochemistry",
+      "b": "Geophysics",
+      "c": "Hydrogeology",
+      "d": "Petrology"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q6",
+    "id": "oup-ch1-q6",
     "globalId": 6,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The process by which an originally homogeneous Earth developed a dense core and a light crust is called:",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "A scientist is writing a grant proposal to study a portion of the hydrosphere. Which is she most likely to be interested in?",
     "choices": {
-      "a": "metamorphism",
-      "b": "differentiation",
-      "c": "accretion",
-      "d": "compression"
+      "a": "Clouds",
+      "b": "Glaciers",
+      "c": "Plants",
+      "d": "Volcanoes"
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q7",
+    "id": "oup-ch1-q7",
     "globalId": 7,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The heat that caused melting in the Earth's early history was supplied from which of the following events or causes?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Over time, Earth’s interior is:",
     "choices": {
-      "a": "volcanic activity and radioactivity",
-      "b": "solar heating and volcanic activity",
-      "c": "a large impact event and radioactivity",
-      "d": "a large impact event and solar heating"
+      "a": "Cooling off",
+      "b": "Heating up",
+      "c": "Gaining and losing the same amount of thermal energy each year",
+      "d": "Cooling off during some periods of Earth history and warming up during others"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q8",
+    "id": "oup-ch1-q8",
     "globalId": 8,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "How thick is the crust of the Earth?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "The principal division of Earth’s interior into asthenosphere and lithosphere is based on variations in:",
     "choices": {
-      "a": "about 4 miles",
-      "b": "about 4 km",
-      "c": "about 40 km",
-      "d": "about 400 km"
+      "a": "Age",
+      "b": "Depth",
+      "c": "Physical properties",
+      "d": "Chemical composition"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q9",
+    "id": "oup-ch1-q9",
     "globalId": 9,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The layer that separates crust from core is the?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "What is the difference between the lithosphere and the asthenosphere?",
     "choices": {
-      "a": "magma layer",
-      "b": "lithosphere",
-      "c": "mantle",
-      "d": "continent"
+      "a": "The lithosphere is solid, while the asthenosphere is liquid.",
+      "b": "The lithosphere is rich in silicon, while the asthenosphere is rich in iron.",
+      "c": "The lithosphere is hard and rigid, while the asthenosphere is soft and weak.",
+      "d": "The lithosphere makes up the continents, while the asthenosphere underlies the oceans."
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q10",
+    "id": "oup-ch1-q10",
     "globalId": 10,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "What drives the Earth's internal heat engine?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Planets are thought to have formed in which way?",
     "choices": {
-      "a": "radioactivity",
-      "b": "solar energy",
-      "c": "volcanoes",
-      "d": "ocean tides"
+      "a": "Small stars cooled after exhausting the fuel in their cores.",
+      "b": "Particles of dust came together and settled around a central core.",
+      "c": "Star-sized bodies broke apart into smaller pieces after colliding with each other.",
+      "d": "Small bodies called planetesimals came together to form larger bodies, which then came together to form planets."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q11",
+    "id": "oup-ch1-q11",
     "globalId": 11,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "In general, igneous rocks:",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "When do scientists think that Earth formed?",
     "choices": {
-      "a": "form at relatively high temperatures",
-      "b": "form by crystallization of solids from a liquid",
-      "c": "form at high and low pressures",
-      "d": "all of the above"
+      "a": "About 13.8 billion years ago, during the Big Bang",
+      "b": "About 18 billion years ago, or 4.5 billion years before the Big Bang",
+      "c": "About 4.2 billion years ago, through the collision of a two other planets",
+      "d": "About 4.56 billion years ago, through the collapse of a disk of dust and gas"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q12",
+    "id": "oup-ch1-q12",
     "globalId": 12,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Metamorphic rocks are changed rocks. Which of the following rock types could be the \"parent\" of a metamorphic rock?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Which best defines the rock cycle?",
     "choices": {
-      "a": "sedimentary",
-      "b": "igneous",
-      "c": "metamorphic",
-      "d": "all of the above"
+      "a": "The motion of boulders down steep inclines",
+      "b": "The motion of the ocean crust from ridges to trenches",
+      "c": "The cyclical pattern of continent formation and breakup",
+      "d": "The continuous process of transformation of rocks from one type into another"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q13",
+    "id": "oup-ch1-q13",
     "globalId": 13,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "_______involves transfer of heat by the physical movement of the material:",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Running water, wind, waves, and glaciers are collectively known as:",
     "choices": {
-      "a": "conduction",
-      "b": "convection",
-      "c": "metamorphism",
-      "d": "radiation"
+      "a": "Crystal forms",
+      "b": "Metamorphism",
+      "c": "Agents of erosion",
+      "d": "Igneous processes"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q14",
+    "id": "oup-ch1-q14",
     "globalId": 14,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "__________is called the \"father\" of geology.",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "An igneous rock can become a metamorphic rock through the processes of:",
     "choices": {
-      "a": "John Butler",
-      "b": "Art Smith",
-      "c": "James Hutton",
-      "d": "Alfred Wegner"
+      "a": "Erosion and deposition",
+      "b": "Melting and solidification",
+      "c": "Cooling and crystallization",
+      "d": "Heating and recrystallization"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q15",
+    "id": "oup-ch1-q15",
     "globalId": 15,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "New seafloor is created at a ____________?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "An igneous rock can become a sedimentary rock through the processes of:",
     "choices": {
-      "a": "deep-sea trench",
-      "b": "mid-ocean ridge",
-      "c": "subduction zone",
-      "d": "transform fault"
+      "a": "Erosion and deposition",
+      "b": "Cooling and crystallization",
+      "c": "Decompression and melting",
+      "d": "Heating and recrystallization"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q16",
+    "id": "oup-ch1-q16",
     "globalId": 16,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The descent of oceanic lithosphere into the mantle is the process of _______?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "A geologist examines a rock formation that consists of flat layers. Under a microscope, the rocks appear to consist of grains of sand cemented together. What type of rock is this?",
     "choices": {
-      "a": "accretion",
-      "b": "subduction",
-      "c": "divergence zone",
-      "d": "contraction fault"
+      "a": "Fossil",
+      "b": "Igneous",
+      "c": "Sedimentary",
+      "d": "Metamorphic"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q17",
+    "id": "oup-ch1-q17",
     "globalId": 17,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Which of the following features is not associated with a convergent plate boundary?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Most rocks are made of:",
     "choices": {
-      "a": "a mid-ocean ridge",
-      "b": "earthquakes",
-      "c": "a deep-sea trench zone",
-      "d": "volcanic activity"
+      "a": "Fossils",
+      "b": "Minerals",
+      "c": "Native metals",
+      "d": "Soil, shell, and bone"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q18",
+    "id": "oup-ch1-q18",
     "globalId": 18,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The greatest threat to our environment is ___________?",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Students were asked to give examples or descriptions that demonstrate their understanding of absolute time versus relative time. Their responses are shown in the table. Whose response is best?\n\nExample | Relative Time | Absolute Time\nMary | The dinosaurs lived during the Paleozoic Era. | The dinosaurs lived during the Mesozoic Era.\nShen | The dinosaurs lived during the Mesozoic Era. | The dinosaurs lived during the Triassic Period of the Mesozoic Era\nAbe | The dinosaurs lived during the Mesozoic Era. | The dinosaurs lived 245 million years ago.\nArthur | The dinosaurs lived 245 million years ago. | The dinosaurs lived 245.3 million years old",
     "choices": {
-      "a": "volcanoes",
-      "b": "earthquakes",
-      "c": "humans",
-      "d": "bacteria"
+      "a": "Mary",
+      "b": "Shen",
+      "c": "Abe",
+      "d": "Arthur"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q19",
+    "id": "oup-ch1-q19",
     "globalId": 19,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Earth materials always trace the complete rock cycle from sediment through igneous rocks.",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Which is a practical and valid reason why it is important for people to understand geologic time?",
     "choices": {
-      "a": "True",
-      "b": "False"
+      "a": "Understanding geologic time allows us to prevent natural catastrophic events.",
+      "b": "Understanding geologic time allows us to better control geological processes.",
+      "c": "Understanding geologic time allows us to justify human activities that cause changes to Earth’s surface and atmosphere.",
+      "d": "Understanding geologic time allows us to differentiate between natural processes and those that result from human activity."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q20",
+    "id": "oup-ch1-q20",
     "globalId": 20,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The terms crust and lithosphere are synonymous.",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "When scientists refer to “geologic time,” they are generally referring to:",
     "choices": {
-      "a": "True",
-      "b": "False"
+      "a": "Processes that occur over millions of years",
+      "b": "Events that occur periodically (every 10 to 100 years)",
+      "c": "Events that occur instantaneously (on the order of nanoseconds)",
+      "d": "Processes that occurred in the distant past and are no longer active on Earth"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q21",
+    "id": "oup-ch1-q21",
     "globalId": 21,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The terms mantle and asthenosphere are synonymous.",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Evidence that Earth is more than 4.5 billion years old comes from:",
     "choices": {
-      "a": "True",
-      "b": "False"
+      "a": "The dating of meteorites",
+      "b": "The study of historical documents",
+      "c": "Calculations based on Earth’s cooling rate",
+      "d": "Measuring the thickness of sedimentary rock layers"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q22",
+    "id": "oup-ch1-q22",
     "globalId": 22,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Because we rarely witness dramatic changes in the Earth, we can conclude that the Earth is not changing very much.",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "James Hutton is known as the “father of modern geology.” On what did Hutton base his interpretations?",
     "choices": {
-      "a": "True",
-      "b": "False"
+      "a": "Biblical scriptures",
+      "b": "Peer-reviewed journal articles",
+      "c": "Careful observations and reasoning",
+      "d": "Conversations with other philosophers"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q23",
+    "id": "oup-ch1-q23",
     "globalId": 23,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The motions of the three types of plate boundaries would be described as divergent, convergent, and static.",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "Modern geological sciences began in the:",
     "choices": {
-      "a": "True",
-      "b": "False"
+      "a": "Early seventeenth century",
+      "b": "Late eighteenth century",
+      "c": "Late nineteenth century",
+      "d": "Mid twentieth century"
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q24",
+    "id": "oup-ch1-q24",
     "globalId": 24,
-    "source": "oxford",
+    "source": "oup",
     "chapter": "Chapter 1",
     "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The crust of the Earth is static and stable.",
+    "chapterTitle": "Earth as a System & Solar System",
+    "text": "The presence of a weathered crust on a rock on Mars would be evidence for:",
     "choices": {
-      "a": "True",
-      "b": "False"
+      "a": "Extreme heat",
+      "b": "Burial to extreme depth",
+      "c": "Bombardment by comets",
+      "d": "Interaction with water, ice, or atmospheric gases"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Earth as a System & Solar System",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Earth as a System & Solar System",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q25",
+    "id": "oup-ch2-q25",
     "globalId": 25,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Features useful in defining plate boundaries include all except:",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "The diagram shows a chain of hotspot volcanoes in an ocean. The arrow shows the direction of motion of the tectonic plate. What can a geologist assume about the ages of the volcanic rocks that form the islands?",
     "choices": {
-      "a": "shorelines between continents and oceans",
-      "b": "distribution of volcanoes",
-      "c": "distribution of earthquakes",
-      "d": "distribution of mountain ranges",
-      "e": "all are correct"
+      "a": "All of the rocks are about the same age.",
+      "b": "The rocks increase in age from Volcano A to Volcano D.",
+      "c": "The rocks decrease in age from Volcano A to Volcano D.",
+      "d": "There is a random distribution of rocks of various ages on the islands."
     },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Introduction to Geology",
+    "correctAnswer": "b",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch2/q20.jpg",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q26",
+    "id": "oup-ch2-q26",
     "globalId": 26,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The age of the Earth is currently thought to be",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "The orientation of a hotspot track can be used to infer:",
     "choices": {
-      "a": "about 6,000 years old",
-      "b": "about 6 billion years old",
-      "c": "about 4,500,000 years old",
-      "d": "about 4,500,000,000 years old",
-      "e": "none of the above"
+      "a": "The direction of motion of a tectonic plate",
+      "b": "Where strong earthquakes are likely to occur",
+      "c": "Where a new plate boundary is likely to form in the near future",
+      "d": "The approximate depth inside the Earth where the hotspot magma originates"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q27",
+    "id": "oup-ch2-q27",
     "globalId": 27,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The contribution made to geology by James Hutton was:",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "On Earth, hotspot volcanoes tend not to grow very large because:",
     "choices": {
-      "a": "the recognition that processes still active today could produce almost any known rock type.",
-      "b": "the description of plausible processes for converting one rock type to another.",
-      "c": "a change in outlook on Earth processes from a catastrophic to a uniformitarian one.",
-      "d": "all of the above",
-      "e": "none of the above"
+      "a": "The lava they produce is very dense",
+      "b": "Hotspots do not produce much magma",
+      "c": "The hotspot moves steadily beneath the lithosphere",
+      "d": "The lithosphere moves while the hotspot stays in one place"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q28",
+    "id": "oup-ch2-q28",
     "globalId": 28,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "One of geology's greatest contributions to human thought is:",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Which is the best example of a convergent plate boundary?",
     "choices": {
-      "a": "the realization that the world is round",
-      "b": "the realization that the sun not the Earth is the center of the solar system",
-      "c": "the recognition of the long span of time involved in Earth history",
-      "d": "the recognition that the Earth is the center of the solar system"
+      "a": "The Connecticut Valley, where rifting began but failed",
+      "b": "Iceland, where a hotspot and a mid-ocean ridge are located in the same place",
+      "c": "The Himalayas, where the Indo-Australian Plate is colliding with the Eurasian Plate",
+      "d": "The Alpine Fault in New Zealand, where the Pacific Plate slides past the Indo-Australian Plate"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q29",
+    "id": "oup-ch2-q29",
     "globalId": 29,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Evidence of uniformitarian change includes:",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "If rifting continues in a continental rift valley, which is most likely to form next?",
     "choices": {
-      "a": "glacial deposits in areas where no glaciers are presently found.",
-      "b": "fossils of marine animals found at high elevation",
-      "c": "continents covered by sediments deposited in an ocean",
-      "d": "wide canyons cut by small streams",
-      "e": "all of the above",
-      "f": "none of the above"
+      "a": "A hotspot track",
+      "b": "A new ocean basin",
+      "c": "A subduction zone",
+      "d": "A high, wide mountain belt"
     },
-    "correctAnswer": "e",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q30",
+    "id": "oup-ch2-q30",
     "globalId": 30,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Living organisms have been on Earth for ______ of Earth's history?",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Earth’s tectonic plates are made of:",
     "choices": {
-      "a": "less than 1%",
-      "b": "about 20%",
-      "c": "about 50%",
-      "d": "about 80%"
+      "a": "The uppermost crust only",
+      "b": "The entire crust only",
+      "c": "The crust and uppermost mantle",
+      "d": "The crust and entire mantle"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q31",
+    "id": "oup-ch2-q31",
     "globalId": 31,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Humans have been on Earth for _________ of Earth;s history?",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "A student needs to locate a transform boundary on a map. Where is the student most likely to find one?",
     "choices": {
-      "a": "less than 1%",
-      "b": "about 20%",
-      "c": "about 50%",
-      "d": "about 80%"
+      "a": "Perpendicular to a hotspot track",
+      "b": "In the middle of a plate, along the edge of a continent",
+      "c": "In the middle of a plate, directly between a ridge and a trench",
+      "d": "Along a plate boundary, between a segment that is divergent and a segment that is convergent"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q32",
+    "id": "oup-ch2-q32",
     "globalId": 32,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "What caused dust and condensing material to accrete into planetesimals?",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "How did Wegener’s hypothesis of continental drift differ from the current theory of plate tectonics?",
     "choices": {
-      "a": "heating of gases",
-      "b": "gravitational attraction and collisions",
-      "c": "nuclear fusion",
-      "d": "rotation of the proto-sun"
+      "a": "Wegener’s hypothesis was supported with evidence from fossils and rock formations.",
+      "b": "According to Wegener’s hypothesis, South America and Africa were father apart in the past.",
+      "c": "According to Wegener’s hypothesis, the driving force for plate tectonics was mantle convection.",
+      "d": "Wegener’s hypothesis was based on the assumption that the continents were much younger than the ocean basins."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q33",
+    "id": "oup-ch2-q33",
     "globalId": 33,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Which of the following is not one of the four inner planets?",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "The theory of plate tectonics explains:",
     "choices": {
-      "a": "Mars",
-      "b": "Earth",
-      "c": "Neptune",
-      "d": "Mars"
+      "a": "Why Earth’s magnetic field changes over time",
+      "b": "How Earth and other objects in the Solar System formed",
+      "c": "Why the planet’s gravitational pull varies slightly from place to place on Earth",
+      "d": "The origin of mountains and ocean basins and the shapes of the continents on Earth"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q34",
+    "id": "oup-ch2-q34",
     "globalId": 34,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The outer planets are composed mostly of ?",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Plate tectonics is a scientific theory. This means that it is:",
     "choices": {
-      "a": "rocks and ice",
-      "b": "oxygen and nitrogen",
-      "c": "hydrogen and helium",
-      "d": "helium and krypton"
+      "a": "A plausible idea that has not been fully tested yet",
+      "b": "The respected opinion of a single scientist or group of scientists",
+      "c": "An equation that can be applied in numerous situations throughout the universe",
+      "d": "An explanation that is supported by a wide variety of strong evidence and is generally accepted by the scientific community"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q35",
+    "id": "oup-ch2-q35",
     "globalId": 35,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The moon is ?",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Which best summarizes the process of subduction?",
     "choices": {
-      "a": "older than the sun",
-      "b": "older than most meteorites",
-      "c": "older than the Earth",
-      "d": "none of these"
+      "a": "Old, thick continental lithosphere slowly sinks under its own weight.",
+      "b": "Old, dense oceanic lithosphere dives beneath younger or lighter lithosphere.",
+      "c": "Extensive volcanism empties a magma chamber and causes the crust to collapse in on itself.",
+      "d": "Two tectonic plates move suddenly past each other when the rocks break and friction between them is overcome."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q36",
+    "id": "oup-ch2-q36",
     "globalId": 36,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The name of the layer of the Earth that separates the crust from the core is the ___?",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "A scientist wants to conduct field work to learn more about subduction. Where is the best place for the scientist to study?",
     "choices": {
-      "a": "magma",
-      "b": "lithosphere",
-      "c": "asthenosphere",
-      "d": "mantle"
+      "a": "Iceland",
+      "b": "Madagascar",
+      "c": "Chile",
+      "d": "Hawaii"
     },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Introduction to Geology",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch2/q9.jpg",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q37",
+    "id": "oup-ch2-q37",
     "globalId": 37,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "What powers the Earth's internal heat engine?",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Which best describes an ocean trench?",
     "choices": {
-      "a": "radioactivity",
-      "b": "solar energy",
-      "c": "volcanoes",
-      "d": "ocean tides"
+      "a": "A wide, flat basin with steep sides",
+      "b": "A straight, narrow valley along the center of a mid-ocean ridge",
+      "c": "A deep fracture perpendicular to and intersecting a mid-ocean ridge",
+      "d": "A deep, curved depression near the margin of a continent or chain of volcanic islands"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q38",
+    "id": "oup-ch2-q38",
     "globalId": 38,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The Earth's external heat engine is not responsible for which of the following:",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Which best summarizes the hypothesis of seafloor spreading?",
     "choices": {
-      "a": "climate",
-      "b": "erosion",
-      "c": "tides",
-      "d": "winds"
+      "a": "Lava erupts from hotspots and spreads over the ocean floor.",
+      "b": "The seafloor gradually spreads in size as a result of erosion of the continental shelves.",
+      "c": "Sediments from continents are carried to the ocean in rivers and spread out on the ocean floor.",
+      "d": "Lava erupts from the mid-ocean ridge and is carried away as the floor of the ocean spreads apart."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q39",
+    "id": "oup-ch2-q39",
     "globalId": 39,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Oxygen built up in the Earth's atmosphere because:",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Most new ocean crust forms:",
     "choices": {
-      "a": "the oceans separated from the crust",
-      "b": "rocks weathered and released their oxygen",
-      "c": "algae and other organisms employed photosynthesis",
-      "d": "oxygen settled on Earth from planets further from the sun"
+      "a": "At hotspots",
+      "b": "At mid-ocean ridges",
+      "c": "Along deep sea trenches",
+      "d": "At the edges of continents"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q40",
+    "id": "oup-ch2-q40",
     "globalId": 40,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Which of the planets is not geologically active?",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Strips of magnetized rock on the ocean floor are arranged in which pattern?",
     "choices": {
-      "a": "Mars",
-      "b": "Mercury",
-      "c": "Venus",
-      "d": "Earth"
+      "a": "Concentrically about the poles",
+      "b": "Concentrically about the continents",
+      "c": "Symmetrically about the mid-ocean ridges",
+      "d": "Symmetrically about the deep sea trenches"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q41",
+    "id": "oup-ch2-q41",
     "globalId": 41,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "When did geologists develop the theory of plate tectonics",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "After measuring the magnetism of thousands of rock samples of different ages from around the world, geologists discovered that:",
     "choices": {
-      "a": "in the mid 1800s",
-      "b": "in the early 1900s",
-      "c": "in the 1950s",
-      "d": "in the 1960s"
+      "a": "Earth’s magnetics poles switch every so often",
+      "b": "Earth’s magnetic poles rotate steadily from north to south",
+      "c": "The existence of Earth’s magnetic field is a relatively recent phenomenon",
+      "d": "At some times in our planet’s history, Earth has more than one set of magnetic poles"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q42",
+    "id": "oup-ch2-q42",
     "globalId": 42,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The lithosphere is approximately ______ kilometers thick.",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Which is a main reason why Wegener’s ideas about continental motion were not accepted by most geologists during his lifetime?",
     "choices": {
-      "a": "1-2",
-      "b": "5-10",
-      "c": "50-100",
-      "d": "100-200"
+      "a": "The idea that ocean floor could dive back into Earth’s interior seemed absurd.",
+      "b": "The idea did not explain the formation or location of hotspots on Earth’s surface.",
+      "c": "The idea that Earth was more than 6000 years old was inconsistent with all other geological evidence.",
+      "d": "The idea that continents could move went against preconceived notions that the major features on Earth’s crust are fixed in place."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q43",
+    "id": "oup-ch2-q43",
     "globalId": 43,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The asthenosphere is _________.",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Alfred Wegener’s hypothesis that continents move across Earth’s surface was based on which piece of evidence?",
     "choices": {
-      "a": "cool and strong",
-      "b": "cool and weak",
-      "c": "hot and strong",
-      "d": "hot and weak"
+      "a": "The shapes of continental coastlines",
+      "b": "The distribution of earthquake zones across the globe",
+      "c": "The pattern of magnetic anomalies on the ocean floor",
+      "d": "The location of volcanoes with respect to deep sea trenches"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q44",
+    "id": "oup-ch2-q44",
     "globalId": 44,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The Earth's lithosphere is broken into approximately ______ large, rigid plates.",
+    "source": "oup",
+    "chapter": "Chapter 2",
+    "chapterNum": 2,
+    "chapterTitle": "Plate Tectonics",
+    "text": "Which best summarizes Alfred Wegener’s idea of continental drift?",
     "choices": {
-      "a": "2",
-      "b": "12",
-      "c": "50",
-      "d": "100"
+      "a": "As new ocean crust forms along mid-ocean ridges, the continents drift apart.",
+      "b": "Over time, continents sink to form ocean floor as ocean floor rises to form new continents.",
+      "c": "All of the continents on Earth were once joined as a single continent, which has since split apart.",
+      "d": "All of the continents on Earth were once joined as a single continent, which has since been partially flooded to form separate landmasses."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Plate Tectonics",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Plate Tectonics",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q45",
+    "id": "oup-ch3-q45",
     "globalId": 45,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "A __________ plate boundary is illustrated in the figure show above.",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Many volcanic rocks contain volcanic glass. The glass is made of silica, SiO 2 . Why is volcanic glass not considered to be a mineral?",
     "choices": {
-      "a": "transform fault",
-      "b": "divergent",
-      "c": "convergent - subduction",
-      "d": "convergent - continent/continent collision"
+      "a": "It is organic.",
+      "b": "Glass can also be manufactured by people.",
+      "c": "It forms on Earth’s surface rather than underground.",
+      "d": "The molecules are not arranged in a regular, three-dimensional repeating pattern."
     },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap1fig1.gif",
-    "category": "Introduction to Geology",
+    "correctAnswer": "d",
+    "imageUrl": null,
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q46",
+    "id": "oup-ch3-q46",
     "globalId": 46,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Which of the following statements about convection is true?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "What do galena (PbS), chalcopyrite (CuFeS 2 ), sphalerite (ZnS 2 ), and magnetite (Fe 3 O 4 ) have in common?",
     "choices": {
-      "a": "heat is transferred from hot material to cool material without inducing a flow.",
-      "b": "cool material flows upward and displaces hot material",
-      "c": "hot material flows upward and displaces cool material",
-      "d": "random circulation occurs"
+      "a": "All are mined for metals.",
+      "b": "All have a tetrahedral structure.",
+      "c": "All are common in the ocean crust.",
+      "d": "All form from the evaporation of seawater."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q47",
+    "id": "oup-ch3-q47",
     "globalId": 47,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Approximately how fast does an Earth lithospheric plate move?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Kyanite, sillimanite, and andalusite are polymorphs of Al 2 SiO 5 . Lab experiments show that the three minerals are stable under different conditions, as shown in the table. What can geologists infer from this information?\n\nMineral | Stable Temperature | Stable Pressure\nKyanite | Low | High\nAndalusite | Low | Low\nSillimanite | High | High",
     "choices": {
-      "a": "several centimeters per year",
-      "b": "several centimeters per day",
-      "c": "several centimeters per hour",
-      "d": "several centimeters per second"
+      "a": "Rocks with andalusite probably do not exist on continents.",
+      "b": "Rocks that contain sillimanite form deeper than rocks that contain andalusite.",
+      "c": "Rocks that contain kyanite, andalusite, and sillimanite together are common on the ocean floor.",
+      "d": "Rocks that contain kyanite form in areas with more aluminum than those that contain sillimanite."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q48",
+    "id": "oup-ch3-q48",
     "globalId": 48,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Which of the following is not a type of plate boundary?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Which best describes the significance of minerals to people?",
     "choices": {
-      "a": "convergent",
-      "b": "divergent",
-      "c": "transform fault",
-      "d": "all of these are plate boundaries"
+      "a": "Minerals generally are only of importance to academics.",
+      "b": "The primary importance of minerals is to artists and jewelers.",
+      "c": "Minerals are important primarily because they are the source of metals used to make money.",
+      "d": "Minerals, along with plants, provide the elements required to make almost everything that people use on a daily basis."
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q49",
+    "id": "oup-ch3-q49",
     "globalId": 49,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "New seafloor is created at a ________.",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Some properties of anthracite coal include: Organic (made of the remains of plants) Metamorphic (forms under conditions of high temperature and pressure) Opaque (not transparent to light) Not crystalline How is coal best classified?",
     "choices": {
-      "a": "deep sea trench",
-      "b": "mid-ocean ridge",
-      "c": "subduction zone",
-      "d": "transform fault"
+      "a": "As a rock but not a mineral",
+      "b": "As a mineral but not a rock",
+      "c": "As both a rock and a mineral",
+      "d": "As neither a rock nor a mineral"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q50",
+    "id": "oup-ch3-q50",
     "globalId": 50,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The descent of oceanic lithosphere into the mantle is the process of ______.",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "What is the relationship between rocks and minerals?",
     "choices": {
-      "a": "subduction",
-      "b": "accretion",
-      "c": "divergence",
-      "d": "contraction"
+      "a": "Rocks are aggregates of one or more minerals.",
+      "b": "Rocks are made of specific ratios of particular minerals.",
+      "c": "Minerals are rocks that occur as regular geometric shapes.",
+      "d": "Minerals are rocks that form under certain environmental conditions."
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q51",
+    "id": "oup-ch3-q51",
     "globalId": 51,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Approximately how deep (below sea level) are deep-sea trenches?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Halite and gypsum are both evaporite minerals. A geologist finds a layer of gypsum in a rock outcrop. What can the geologist infer from the existence of this layer?",
     "choices": {
-      "a": "1 km",
-      "b": "10 km",
-      "c": "100 km",
-      "d": "1000 km"
+      "a": "The area was once volcanically active.",
+      "b": "The area was once covered in salt water.",
+      "c": "The area was once a region of active mountain building.",
+      "d": "The area was once buried deep under layers of other rocks."
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q52",
+    "id": "oup-ch3-q52",
     "globalId": 52,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Which of the following features is not associated with a transform plate boundary?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "A student is building a model of a pyroxene mineral using red Styrofoam balls to represent oxygen atoms, grey Styrofoam balls to represent silicon atoms, and toothpicks to represent bonds. First, she creates several chains of silica tetrahedra. How should she connect the chains together to build a pyroxene?",
     "choices": {
-      "a": "a mid-ocean ridge",
-      "b": "earthquakes",
-      "c": "a deep sea-trench",
-      "d": "volcanic activity"
+      "a": "Use toothpicks to connect the grey balls in one chain to the grey balls in the other chain.",
+      "b": "Use toothpicks to connect the red balls in one chain to the red balls in the other chain.",
+      "c": "Use purple balls to represent metal ions, and use toothpicks to connect the purple balls to each chain.",
+      "d": "Use purple balls to represent metal ions, and replace some of the red and grey balls with purple balls."
     },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Introduction to Geology",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch3/q17.jpg",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q53",
+    "id": "oup-ch3-q53",
     "globalId": 53,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Volcanism is associated with which of the following types of plate boundaries?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Earth’s ocean crust is dominated by:",
     "choices": {
-      "a": "convergent plate boundaries",
-      "b": "divergent plate boundaries",
-      "c": "transform fault plate boundaries",
-      "d": "divergent and convergent plate boundaries"
+      "a": "Nonsilicates",
+      "b": "Sheet silicates",
+      "c": "Potassium silicates",
+      "d": "Ferromagnesian silicates"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q54",
+    "id": "oup-ch3-q54",
     "globalId": 54,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The Andes Mountains of South America are a result of which type of plate boundary?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Silicate minerals are classified as either ferromagnesian or nonferromagnesian based on:",
     "choices": {
-      "a": "convergent",
-      "b": "divergent",
-      "c": "transform",
-      "d": "they are not related to a plate boundary"
+      "a": "Their presence or absence in the continental crust",
+      "b": "The presence or absence of iron and magnesium in the crystal structure",
+      "c": "Whether they are common rock-forming minerals or rare accessory minerals",
+      "d": "Whether they consist of sheets of silicate tetrahedra or three-dimensional networks of silicate tetrahedra"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q55",
+    "id": "oup-ch3-q55",
     "globalId": 55,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Mount St. Helen's. a part of the Cascade Range of volcanoes, result from the subduction of which plate?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Which is the best description of a silicate tetrahedron?",
     "choices": {
-      "a": "Pacific",
-      "b": "Cocos",
-      "c": "Juan de Fuca",
-      "d": "North American"
+      "a": "A pyramidal-shaped silicate crystal with a triangular base",
+      "b": "A group of four SiO4−2 ions arranged in a tetrahedral shape",
+      "c": "A group of four silicate crystals arranged in the shape of a triangular pyramid",
+      "d": "An SiO4−2 ion in which the four oxygen atoms are arranged in a tetrahedral shape around a central silicon atom"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q56",
+    "id": "oup-ch3-q56",
     "globalId": 56,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "What is the name of the large supercontinent that existed 200 million years ago when all of the continents were together?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "A woman is buying jewelry from a vendor at a fair. The vendor says that the pendant the woman is looking at is pure native gold. Picking up the pendant, however, the woman knows immediately that it is not pure gold. How can she tell?",
     "choices": {
-      "a": "San Andreas",
-      "b": "Andian",
-      "c": "Indian",
-      "d": "Pangaea"
+      "a": "It feels too soft.",
+      "b": "It feels too cold.",
+      "c": "It feels too light.",
+      "d": "It feels too smooth."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q57",
+    "id": "oup-ch3-q57",
     "globalId": 57,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Why is our vulnerability to natural disasters growing?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "The hardest mineral known is diamond. What does this mean?",
     "choices": {
-      "a": "because the frequency of volcanic eruptions is increasing",
-      "b": "because the human population is increasing",
-      "c": "because the number of earthquakes each year is increasing",
-      "d": "because the number of floods each year is increasing"
+      "a": "Diamonds cannot be broken.",
+      "b": "A diamond can be split apart only by another diamond.",
+      "c": "Nothing can scratch the surface of a diamond crystal.",
+      "d": "The surface of a diamond crystal can be scratched only by another diamond."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q58",
+    "id": "oup-ch3-q58",
     "globalId": 58,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "The theory of plate tectonics was not initially widely accepted because ______..",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "A man finds a rock on a beach and asks his geologist friend to identify a white mineral crystal in it. The man sends his friend a photograph, but the geologist says that she can’t tell from the picture and instructs him to try scratching the crystal with a knife. What property is the geologist trying to examine?",
     "choices": {
-      "a": "land bridges would have blocked plate movement",
-      "b": "rocks of the Earth's crust were considered too stiff for continents to move through them",
-      "c": "fossils on South America and Africa did not match",
-      "d": "ocean floor mapping showed that older rocks occur away from mid-ocean ridges"
+      "a": "Luster",
+      "b": "Fracture",
+      "c": "Hardness",
+      "d": "Specific gravity"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Introduction to Geology",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q59",
+    "id": "oup-ch3-q59",
     "globalId": 59,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Referring to the diagram above, path A is _______",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "The physical properties of a mineral crystal are related primarily to:",
     "choices": {
-      "a": "cooling and crystallization",
-      "b": "burial and lithification",
-      "c": "weathering and deposition",
-      "d": "cooling and uplift"
+      "a": "How large the crystal is",
+      "b": "Where on Earth the crystal formed",
+      "c": "The type of rock in which the mineral exists",
+      "d": "The mineral’s chemical composition and the bonds between its ions"
     },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap1fig2.gif",
-    "category": "Introduction to Geology",
+    "correctAnswer": "d",
+    "imageUrl": null,
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q60",
+    "id": "oup-ch3-q60",
     "globalId": 60,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Referring to the diagram above, path B is _______",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Approximately how many minerals are known to exist on Earth?",
     "choices": {
-      "a": "uplift, weathering and erosion, deposition",
-      "b": "deposition, heat and pressure, weathering",
-      "c": "melting, crystallization, heat and pressure",
-      "d": "deposition, lithification and crystallization"
+      "a": "90",
+      "b": "850",
+      "c": "4500",
+      "d": "90,000"
     },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap1fig2.gif",
-    "category": "Introduction to Geology",
+    "correctAnswer": "c",
+    "imageUrl": null,
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch1-q61",
+    "id": "oup-ch3-q61",
     "globalId": 61,
-    "source": "oxford",
-    "chapter": "Chapter 1",
-    "chapterNum": 1,
-    "chapterTitle": "Introduction to Geology",
-    "text": "Referring to the diagram what factor(s) are responsible for path C?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Which best defines “rock-forming minerals”?",
     "choices": {
-      "a": "melting",
-      "b": "crystallization",
-      "c": "heat and pressure",
-      "d": "burial and lithification"
+      "a": "All minerals found in all rocks",
+      "b": "Minerals that are common in rocks",
+      "c": "Minerals that form crystals large enough to be classified as rocks",
+      "d": "Minerals that exist in rocks composed of many grains of a single mineral"
     },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap1fig2.gif",
-    "category": "Introduction to Geology",
+    "correctAnswer": "b",
+    "imageUrl": null,
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Introduction to Geology",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q62",
+    "id": "oup-ch3-q62",
     "globalId": 62,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "How many neutrons are in an atom of 6C12?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "A crystal of galena that is 1 cm across has a cube shape. What is the most likely shape of a crystal of galena that is only 1 mm across?",
     "choices": {
-      "a": "6",
-      "b": "18",
-      "c": "12",
-      "d": "not enough information"
+      "a": "Cube",
+      "b": "Square pyramid",
+      "c": "Triangular pyramid",
+      "d": "Impossible to know"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q63",
+    "id": "oup-ch3-q63",
     "globalId": 63,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "How many electrons are in a neutral atom of 6C14?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "The external form of a mineral crystal is a reflection of:",
     "choices": {
-      "a": "6",
-      "b": "18",
-      "c": "12",
-      "d": "not enough information"
+      "a": "The arrangement of ions within the mineral",
+      "b": "The cooling history of the rock in which the mineral formed",
+      "c": "The arrangement of electrons in the atoms that make up the mineral",
+      "d": "The weathering and erosion history of the rock in which the mineral is found"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q64",
+    "id": "oup-ch3-q64",
     "globalId": 64,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Solids that do not possess an orderly 3-D arrangement of atoms are called_____.",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Many minerals have more than one type of bond that hold the atoms and molecules together. Mica crystals split very easily along flat planes, forming flat hexagonal sheets. What holds these sheets together in the crystal?",
     "choices": {
-      "a": "polymorphs",
-      "b": "amorphous",
-      "c": "crystalline",
-      "d": "minerals"
+      "a": "Ionic bonds",
+      "b": "Metallic bonds",
+      "c": "Covalent bonds",
+      "d": "Van der Waals forces"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q65",
+    "id": "oup-ch3-q65",
     "globalId": 65,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "An ion of 6C14 is formed by adding enough electrons to the L shell to completely fill it up. How many electrons are added?",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "Halite, also known as salt, is a mineral with the composition NaCl (sodium chloride). The bonding between atoms in halite is ionic. What does this mean?",
     "choices": {
-      "a": "2",
-      "b": "3",
-      "c": "4",
-      "d": "8"
+      "a": "Chlorine and sodium share electrons.",
+      "b": "Chlorine donates an electron to sodium.",
+      "c": "Chlorine and sodium are held together by very weak attractive forces.",
+      "d": "Chlorine and sodium each give up electrons that roam throughout the halite."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q66",
+    "id": "oup-ch3-q66",
     "globalId": 66,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "This ion has a charge of:",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "The way that an atom bonds with other atoms to form minerals is primarily a function of:",
     "choices": {
-      "a": "-4",
-      "b": "+4",
-      "c": "-2",
-      "d": "+2"
+      "a": "The number of neutrons in the nucleus",
+      "b": "The total number of electrons in all shells",
+      "c": "The number of electrons in its outermost shell",
+      "d": "The total number of protons and neutrons in the nucleus"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q67",
+    "id": "oup-ch3-q67",
     "globalId": 67,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "and is a(n):",
+    "source": "oup",
+    "chapter": "Chapter 3",
+    "chapterNum": 3,
+    "chapterTitle": "Minerals: Orderly Expressions of Matter",
+    "text": "An atom is best defined as:",
     "choices": {
-      "a": "anion",
-      "b": "cation"
+      "a": "The smallest unit of a rock that displays all of the physical and chemical properties of that rock",
+      "b": "The smallest unit of a mineral that displays all of the physical and chemical properties of that mineral",
+      "c": "The smallest unit of an element that displays all of the physical and chemical properties of that element",
+      "d": "The smallest unit of a compound that displays all of the physical and chemical properties of that compound"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Minerals: Orderly Expressions of Matter",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Minerals: Orderly Expressions of Matter",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q68",
+    "id": "oup-ch4-q68",
     "globalId": 68,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "For the element 21ZZ44, how many neutrons are present in the nucleus of an atom?",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "In a video game, players compete to create the most violent volcanic eruption. Each player must set the values for different variables, as shown in the table. Which player will win?\n\nPlayer’s Name | Composition | Viscosity | Volatile Content | Plate\nG.K. | 60%    SiO 2 | Low | High | African\nInge | 50%    SiO 2 | Low | Low | South    American\nJames | 70%    SiO 2 | High | High | North    American\nFlorence | 65%    SiO 2 | High | Low | Antarctic",
     "choices": {
-      "a": "21",
-      "b": "44",
-      "c": "23",
-      "d": "65"
+      "a": "G.K.",
+      "b": "Inge",
+      "c": "James",
+      "d": "Florence"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q69",
+    "id": "oup-ch4-q69",
     "globalId": 69,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "What is the most common structural element of the silicate mineral group?",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Olympus Mons on Mars is the largest known volcano in the Solar System. It is more than 600 km across and 25 km high, with a caldera 80 km wide, and is similar in profile to Mauna Loa in Hawaii. Olympus Mons is best classified as a:",
     "choices": {
-      "a": "a silicon-oxygen octahedron",
-      "b": "a silicon-oxygen tetrahedron",
-      "c": "a silicon-aluminum tetrahedron",
-      "d": "a silicon-nitrogen tetrahedron"
+      "a": "Lava dome",
+      "b": "Cinder cone",
+      "c": "Shield volcano",
+      "d": "Composite volcano"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q70",
+    "id": "oup-ch4-q70",
     "globalId": 70,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "The atomic mass number of an element is the __________.",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Bowen’s Reaction Series describes the evolution of the mineralogy of a crystallizing magma with:",
     "choices": {
-      "a": "number of protons",
-      "b": "number of neutrons",
-      "c": "number of protons plus neutrons",
-      "d": "number of electrons"
+      "a": "Decreasing pressure as the magma body rises",
+      "b": "Decreasing temperature as the magma cools",
+      "c": "Increasing water content as the magma turns solid",
+      "d": "Increasing density as the minerals crystallize out"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q71",
+    "id": "oup-ch4-q71",
     "globalId": 71,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "True or False : Quartz has a hardness of 7 and will scratch all minerals with a hardness of 8 and higher.",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Earth’s mantle is best described as:",
     "choices": {
-      "a": "True",
-      "b": "False"
+      "a": "Liquid metal",
+      "b": "A slush of crystals, liquids, and gas",
+      "c": "Mostly solid rock, with pockets of liquid rock",
+      "d": "Mostly liquid rock, with large pieces of solid rock"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q72",
+    "id": "oup-ch4-q72",
     "globalId": 72,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "______ is the most abundant cation in the continental crust.",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "A graduate student wants to study the evolution of stratovolcanoes. Which would be the best place to conduct field work?",
     "choices": {
-      "a": "aluminum",
-      "b": "iron",
-      "c": "oxygen",
-      "d": "silicon"
+      "a": "Iceland",
+      "b": "Hawaii",
+      "c": "Central Australia",
+      "d": "The Pacific Northwest"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q73",
+    "id": "oup-ch4-q73",
     "globalId": 73,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "______ is a common nesosilicate - single tetrahedron.",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "The formation of igneous rocks can be best understood in the context of which theory?",
     "choices": {
-      "a": "olivine",
-      "b": "quartz",
-      "c": "alkali feldspar",
-      "d": "pyroxene"
+      "a": "Evolution",
+      "b": "Gravitation",
+      "c": "The Big Bang",
+      "d": "Plate Tectonics"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q74",
+    "id": "oup-ch4-q74",
     "globalId": 74,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "_______ refers to two or more crystalline phases with the same composition but different structures.",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Why are mafic eruptions are generally less explosive than felsic eruptions?",
     "choices": {
-      "a": "solid solution",
-      "b": "polymorphism"
+      "a": "Mafic magma is hotter, allowing gases to remain dissolved in the magma.",
+      "b": "Mafic magma is denser, keeping gases from moving up toward the surface.",
+      "c": "Mafic magma is richer in iron, keeping gases in the crystalline phase.",
+      "d": "Mafic magma is more fluid, allowing gases to escape before they build up pressure."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q75",
+    "id": "oup-ch4-q75",
     "globalId": 75,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "_______ describes two atoms with the same atomic number but different mass numbers.",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Felsic magmas are more viscous than mafic magmas in part because:",
     "choices": {
-      "a": "solid solution",
-      "b": "polymorphism",
-      "c": "isotopes"
+      "a": "Silica tetrahedra are larger in felsic magmas than in mafic magmas",
+      "b": "Silica tetrahedra are less hydrated in felsic magmas than in mafic magmas",
+      "c": "Silica tetrahedra are linked together more in felsic magmas than in mafic magmas",
+      "d": "Silica tetrahedral are more angular and less rounded in felsic magmas than in mafic magmas"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q76",
+    "id": "oup-ch4-q76",
     "globalId": 76,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "_______ describes two solid phases (minerals) which can mix in all proportions.",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "A geologist examines an igneous rock body. The body is generally intermediate in composition but in places consists of a mixture of granitic rocks and gabbroic rocks. These characteristics are evidence for which process?",
     "choices": {
-      "a": "solid solution",
-      "b": "polymorphism",
-      "c": "isotopes"
+      "a": "Magma mixing",
+      "b": "Explosive volcanism",
+      "c": "Crystal fractionation",
+      "d": "Discontinuous reaction"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q77",
+    "id": "oup-ch4-q77",
     "globalId": 77,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which of the following statements about graphite and diamond is false?",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Which best describes “fractionation’?",
     "choices": {
-      "a": "graphite and diamond have the same density",
-      "b": "graphite and density have different mineral structures",
-      "c": "graphite and diamond are both made of carbon atoms",
-      "d": "graphite is stable in the crust whereas diamond is stable in the mantle"
+      "a": "As minerals crystallize, they are isolated from the remaining magma and unable to react with it.",
+      "b": "As magma turns solid, the fraction of mafic minerals decreases as the fraction of felsic minerals increases.",
+      "c": "As magma cools, only a fraction of it turns solid at any one time.",
+      "d": "Only a fraction of all magma chambers turn solid before erupting."
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q78",
+    "id": "oup-ch4-q78",
     "globalId": 78,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Clay minerals are common examples of _________ silicate structures.",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "As a magma crystallizes, it is most likely to evolve in which way?",
     "choices": {
-      "a": "framework",
-      "b": "single chains",
-      "c": "sheet silicates",
-      "d": "isolated tetrahedra"
+      "a": "By becoming more felsic and more viscous as mafic minerals crystallize out",
+      "b": "By becoming more mafic and less viscous as felsic minerals crystallize out",
+      "c": "By becoming more felsic and less viscous as mafic minerals crystallize out",
+      "d": "By becoming more mafic and more viscous as felsic minerals crystallize out"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q79",
+    "id": "oup-ch4-q79",
     "globalId": 79,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "The property \"cleavage\" refers to _______________?",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Geologists study the chemical composition of granitic rocks to learn more about:",
     "choices": {
-      "a": "development of crystal faces during mineral growth",
-      "b": "splitting of a mineral along planar surfaces",
-      "c": "development of irregular fractures when a mineral is broken",
-      "d": "the density or specific gravity of a mineral"
+      "a": "The temperature of Earth’s core",
+      "b": "The source of continental magmas",
+      "c": "How rocks are broken and transported by running water",
+      "d": "How minerals change when they are subjected to high temperature and pressure"
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q80",
+    "id": "oup-ch4-q80",
     "globalId": 80,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which of the following statements regarding the density of minerals is false?",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Granite, andesite, and basalt are three types of igneous rock. Rocks are classified into these categories based on what?",
     "choices": {
-      "a": "density depends on the atomic weight of the ions in a mineral",
-      "b": "density depends on the closeness of the atomic packing",
-      "c": "density decreases with increasing pressure",
-      "d": "density decreases with increasing temperature"
+      "a": "Their age",
+      "b": "The continents on which they form",
+      "c": "Their texture and chemical composition",
+      "d": "The size of the magma body where they originate"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q81",
+    "id": "oup-ch4-q81",
     "globalId": 81,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Given two minerals with the exact same chemical composition, which minerals is more likely to form at higher pressures",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Why are intrusive igneous rocks from a batholith generally coarser-grained than those from volcanic vents?",
     "choices": {
-      "a": "the mineral with the highest hardness",
-      "b": "the mineral with the lowest hardness",
-      "c": "the mineral with the lowest density",
-      "d": "the mineral with the greatest density"
+      "a": "They are older.",
+      "b": "They had more time to grow.",
+      "c": "They are more felsic in composition.",
+      "d": "They formed under greater pressure."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q82",
+    "id": "oup-ch4-q82",
     "globalId": 82,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Carbon has an atomic number of 6 and an atomic weight of 12.011. This means that ____________.",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "The texture of an igneous rock is best defined as a description of:",
     "choices": {
-      "a": "carbon atoms have 6 protons and 12.011 neutrons",
-      "b": "carbon atoms have 6 protons and a density of 12.011 grams per cubic centimeter",
-      "c": "carbon atoms have 6 neutrons and 12.011 protons",
-      "d": "carbon atoms have 6 protons and a varying number of neutrons"
+      "a": "The way the rock breaks",
+      "b": "What the weathered surface feels like",
+      "c": "The size, shape, and arrangement of the mineral grains",
+      "d": "The relationship between the rock and the surrounding rock into which it intrudes"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q83",
+    "id": "oup-ch4-q83",
     "globalId": 83,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Solid materials that do not possess an orderly arrangement of atoms are called :",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "A geology professor takes his class to Georgia to study the field relationships between the Elberton batholith and the rock surrounding the batholith. The professor hopes that by studying the batholith, the class will come to a better understanding of:",
     "choices": {
-      "a": "glasses",
-      "b": "minerals",
-      "c": "crystals",
-      "d": "polymorphs"
+      "a": "Plate motions",
+      "b": "Magma chambers",
+      "c": "Pyroclastic eruptions",
+      "d": "Depositional environments"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q84",
+    "id": "oup-ch4-q84",
     "globalId": 84,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Each element has a unique number of :",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Formation of magmas generally begins:",
     "choices": {
-      "a": "protons",
-      "b": "neutrons",
-      "c": "electrons",
-      "d": "all of these"
+      "a": "In the center of a rock body",
+      "b": "Along the surface of a rock body",
+      "c": "At the centers of mineral crystals",
+      "d": "At the junctions between different mineral grains."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q85",
+    "id": "oup-ch4-q85",
     "globalId": 85,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "The atomic weight of an element is equal to :",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Silicate rocks in the crust melt at temperatures as low as about:",
     "choices": {
-      "a": "number of protons",
-      "b": "number of neutrons",
-      "c": "number of protons plus neutrons",
-      "d": "none of these"
+      "a": "0°C",
+      "b": "100°C",
+      "c": "650°C",
+      "d": "1200°C"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q86",
+    "id": "oup-ch4-q86",
     "globalId": 86,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Atoms that have gained or lost electrons are no longer electrically neutral and are called :",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Magma rises toward Earth’s surface because:",
     "choices": {
-      "a": "polymorphs",
-      "b": "ions",
-      "c": "isotopes",
-      "d": "isobars"
+      "a": "It is hotter than the surrounding rocks",
+      "b": "It is less dense than the surrounding rocks",
+      "c": "It is more fluid than the surrounding rocks",
+      "d": "It is more mafic than the surrounding rocks"
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q87",
+    "id": "oup-ch4-q87",
     "globalId": 87,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "What does the symbol Ca+2 stand for?",
+    "source": "oup",
+    "chapter": "Chapter 4",
+    "chapterNum": 4,
+    "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
+    "text": "Igneous rocks form when:",
     "choices": {
-      "a": "a calcium electron",
-      "b": "a calcium cation",
-      "c": "a calcium anion",
-      "d": "a calcium isotope"
+      "a": "Liquid rock turns solid at or below Earth’s surface",
+      "b": "Crystals precipitate out of saturated solutions above ground",
+      "c": "Rocks on Earth’s surface break down and are transported elsewhere",
+      "d": "Rocks are buried deep under layers of other rock, where they recrystallize"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Igneous Rocks & Volcanic Eruptions",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Igneous Rocks & Volcanic Eruptions",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q88",
+    "id": "oup-ch5-q88",
     "globalId": 88,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "In the periodic table of the elements, as one goes from left to right along a row:",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Which is the best example of a mineral dissolution reaction?",
     "choices": {
-      "a": "the number of electrons in the outer shell increases",
-      "b": "the atomic number decreases",
-      "c": "the number electrons in the outer shell decreases",
-      "d": "the number of isotopes increases"
+      "a": "Iron reacts with oxygen to form iron oxides.",
+      "b": "Water reacts with carbon dioxide gas to form carbonic acid.",
+      "c": "Calcite reacts with hydrogen and bicarbonate ions to form calcium ions and more bicarbonate ions.",
+      "d": "Potassium feldspar reacts with hydrogen ions and water to form clay minerals, silicic acid, and potassium ions."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q89",
+    "id": "oup-ch5-q89",
     "globalId": 89,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which of the following elements commonly forms anions?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Based on the information in the table, in which area is the thickest soil layer most likely to develop?\n\nArea | Bedrock Type | Topographic    Location | Climate\nA | Granite | Hillside | Tropical\nB | Granite | Valley | Desert\nC | Diorite | Hillside | Arctic\nD | Diorite | Valley | Temperate",
     "choices": {
-      "a": "hydrogen",
-      "b": "silicon",
-      "c": "oxygen",
-      "d": "iron"
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q90",
+    "id": "oup-ch5-q90",
     "globalId": 90,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Diamond is an example of what type of bonding?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Broccoli is considered to be a god source of iron. Where does the iron in broccoli come from?",
     "choices": {
-      "a": "covalent",
-      "b": "ionic",
-      "c": "metallic",
-      "d": "bail"
+      "a": "Sunlight",
+      "b": "Rainwater",
+      "c": "Weathered rock",
+      "d": "The atmosphere"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q91",
+    "id": "oup-ch5-q91",
     "globalId": 91,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "The growth of a solid from a material whose atoms can come together in the proper chemical proportions and crystalline arrangement is called :",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Which would be the best way to figure out whether a soil should be classified as residual or transported?",
     "choices": {
-      "a": "density",
-      "b": "bonding",
-      "c": "melting",
-      "d": "crystallization"
+      "a": "Compare the grain size of the soil to that of the bedrock.",
+      "b": "Compare the mineralogy of the soil to that of the bedrock.",
+      "c": "Compare the porosity and permeability of the soil to that of the bedrock.",
+      "d": "Compare the climate under which the soil formed to that under which the bedrock formed."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q92",
+    "id": "oup-ch5-q92",
     "globalId": 92,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Large crystals with well-formed faces tend to form when :?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "The term “soil” is best defined as:",
     "choices": {
-      "a": "molten rock cools quickly",
-      "b": "rocks undergo melting",
-      "c": "minerals have the space to grow such as in open cavities and the time to grow slowly",
-      "d": "volcanoes erupt explosively"
+      "a": "Decaying plant matter",
+      "b": "The layer of loose mineral and rock fragments that overlies bedrock",
+      "c": "Any accumulation of rock or mineral grains less than 1 mm in diameter",
+      "d": "The portion of the weathered material on Earth’s surface that can support plants"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q93",
+    "id": "oup-ch5-q93",
     "globalId": 93,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Iron and magnesium ions are similar in size and both have a +2 charge. Therefore, we would expect :",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "The formation of caves in limestone is primarily a result of which type of chemical weathering?",
     "choices": {
-      "a": "iron and magnesium to bond easily",
-      "b": "iron and magnesium to share electrons",
-      "c": "iron and magnesium to be polymorphs",
-      "d": "iron and magnesium to substitute for each other in minerals"
+      "a": "Reduction of calcite to form gypsum",
+      "b": "Hydration of calcite to form kaolinite clay",
+      "c": "Replacement of calcium with magnesium to convert calcite into dolomite",
+      "d": "Dissolution of calcite in the presence of hydrogen ions and bicarbonate ions"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q94",
+    "id": "oup-ch5-q94",
     "globalId": 94,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Chemical substances that have exactly the same chemical formula. but different crystal structures are called :",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "What affects the rate of chemical weathering of a mineral?",
     "choices": {
-      "a": "ions",
-      "b": "polymorphs",
-      "c": "electrons",
-      "d": "isotopes"
+      "a": "The composition of the mineral only.",
+      "b": "The type of chemical weathering only.",
+      "c": "The type of chemical weathering and the size of the mineral grains only.",
+      "d": "The composition of the mineral, type of weathering, grain size, climate, and other factors."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q95",
+    "id": "oup-ch5-q95",
     "globalId": 95,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "The chemical formula (Mg,Fe)2SiO4 describes which of the following minerals?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Which is the best example of a hydration reaction?",
     "choices": {
-      "a": "feldspar",
-      "b": "mica",
-      "c": "olivine",
-      "d": "pyroxene"
+      "a": "Olivine reacts with water to form serpentine.",
+      "b": "Water reacts with carbon dioxide gas to form carbonic acid.",
+      "c": "Halite crystals separate into sodium and chlorine ions in the presence of water.",
+      "d": "Pyrite reacts with oxygen and water, resulting in the formation of sulfuric acid."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q96",
+    "id": "oup-ch5-q96",
     "globalId": 96,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Most common rock-forming minerals are:",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Marine organisms use dissolved calcium and dissolved carbon dioxide to form calcium carbonate (calcite) shells. When carbon dioxide is removed from the ocean water, it is replaced by carbon dioxide from the atmosphere. Thus, the formation of calcite helps remove carbon dioxide from the atmosphere. In which way is weathering an important part of this process?",
     "choices": {
-      "a": "carbonates",
-      "b": "oxides",
-      "c": "silicates",
-      "d": "sulfides"
+      "a": "Chemical weathering of continental rocks releases calcium, which travels to the ocean in river water.",
+      "b": "Mechanical weathering of fossil shells releases calcium and carbon dioxide to the ocean and atmosphere.",
+      "c": "Chemical weathering releases carbon dioxide to the atmosphere, increasing the availability to marine organisms.",
+      "d": "Mechanical weathering breaks down calcite-rich rocks like limestone, which are then transported to the ocean as calcite pebbles and sand."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q97",
+    "id": "oup-ch5-q97",
     "globalId": 97,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "The two most abundant elements in the Earth's crust are:",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "A social scientist is interested in the relationship between human populations and volcanoes. Given this, why might he become interested in soils? [5.5]",
     "choices": {
-      "a": "calcium and carbon",
-      "b": "oxygen and nitrogen",
-      "c": "iron and nickle",
-      "d": "silicon and oxygen"
+      "a": "Volcanic ash is generally rich in nutrients that plants need.",
+      "b": "People who live in volcanic regions rely on soil imported from nonvolcanic regions.",
+      "c": "The gases emitted by volcanoes can affect the acidity of rainwater in other parts of the world.",
+      "d": "The addition of fertilizers and pesticides to soils can affect the chemistry of underlying magma chambers."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q98",
+    "id": "oup-ch5-q98",
     "globalId": 98,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "The mineral pyroxene is an example of a ____ silicate:",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "A student wants to better understand how soil profiles develop over time. Which course would probably be most important for him to take?",
     "choices": {
-      "a": "framework",
-      "b": "single chain",
-      "c": "sheet",
-      "d": "ring"
+      "a": "Structural geology",
+      "b": "Inorganic chemistry",
+      "c": "Evolutionary biology",
+      "d": "Atmospheric physics"
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q99",
+    "id": "oup-ch5-q99",
     "globalId": 99,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "What type of mineral is calcite?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "A gardening supply company wants to mine soil to sell to its customers. Which layers of the soil would be best for them to exploit?",
     "choices": {
-      "a": "carbonate",
-      "b": "single chain silicate",
-      "c": "double chain silicate",
-      "d": "ring silicate"
+      "a": "A and B",
+      "b": "A and O",
+      "c": "E and B",
+      "d": "C and O"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q100",
+    "id": "oup-ch5-q100",
     "globalId": 100,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which of the following minerals is a common clay mineral used for making pottery?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "A geologist is studying a paleosols (ancient soil deposits) to understand the environments in which they formed. What assumption should she make when studying paleosols?",
     "choices": {
-      "a": "feldspar",
-      "b": "kaolinite",
-      "c": "olivine",
-      "d": "pyroxene"
+      "a": "The thicker a paleosol, the wetter the climate under which it formed.",
+      "b": "The mineralogy of a paleosol can be used to infer the mineralogy of the bedrock beneath.",
+      "c": "The thickness of a paleosol is likely to be a function only of the amount of time that the soil had to form.",
+      "d": "The paleoclimate, topography, bedrock mineralogy, and vegetation all influenced the development of a paleosol."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q101",
+    "id": "oup-ch5-q101",
     "globalId": 101,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which mineral has the greatest hardness?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "What causes most rainwater to be slightly acidic?",
     "choices": {
-      "a": "corundum",
-      "b": "feldspar",
-      "c": "quartz",
-      "d": "talc"
+      "a": "Iron particles react with oxygen in the air to form iron oxide.",
+      "b": "Carbon dioxide in the air reacts with water to form carbonic acid.",
+      "c": "Halite particles in the air dissolve to form sodium and chlorine ions.",
+      "d": "Calcium carbonate in the air reacts with water to form bicarbonate."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q102",
+    "id": "oup-ch5-q102",
     "globalId": 102,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which of the following minerals does not exhibit cleavage?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Which form of weathering only occurs in the presence of living things?",
     "choices": {
-      "a": "feldspar",
-      "b": "calcite",
-      "c": "quartz",
-      "d": "halite"
+      "a": "Oxidation",
+      "b": "Dissolution",
+      "c": "Thermal expansion",
+      "d": "Organic weathering"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q103",
+    "id": "oup-ch5-q103",
     "globalId": 103,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which of the following mineral properties is the least reliable clue to its identity?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Which property of water is most directly responsible for frost wedging?",
     "choices": {
-      "a": "hardness",
-      "b": "cleavage",
-      "c": "color",
-      "d": "density"
+      "a": "The chemical composition of water",
+      "b": "The freezing temperature of water as a function of air pressure",
+      "c": "The ability of water to dissolve a wide variety of other substances",
+      "d": "The decrease in the density of water as it changes from liquid to solid"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q104",
+    "id": "oup-ch5-q104",
     "globalId": 104,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "The shape in which an individual crystal grows is called the mineral's crystal ____.",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Jointing of rocks is a result of:",
     "choices": {
-      "a": "cleavage",
-      "b": "habit",
-      "c": "density",
-      "d": "streak"
+      "a": "High winds",
+      "b": "Dissolution of soluble minerals",
+      "c": "Dissolution of soluble minerals",
+      "d": "Decrease in the temperature or confining pressure of a rock"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q105",
+    "id": "oup-ch5-q105",
     "globalId": 105,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which of the following is not a mineral property?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Which best defines chemical weathering?",
     "choices": {
-      "a": "isotopic composition",
-      "b": "hardness",
-      "c": "cleavage",
-      "d": "streak"
+      "a": "The action of compounds such as water, oxygen, carbon dioxide, and sulfuric acid",
+      "b": "The reaction of minerals with other compounds to form new minerals",
+      "c": "The breakdown of rocks and minerals into smaller pieces as a result natural physical processes",
+      "d": "The conversion of unstable minerals into stable minerals as a result of heat and pressure deep underground"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q106",
+    "id": "oup-ch5-q106",
     "globalId": 106,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Given two minerals with the exact same chemical composition, which mineral is more likely to form at high pressures?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Mechanical weathering is associated with:",
     "choices": {
-      "a": "the mineral with the higher hardness",
-      "b": "the mineral with the lower hardness",
-      "c": "the mineral with the higher density",
-      "d": "the mineral with the lower density"
+      "a": "Decay of rock",
+      "b": "Corrosion of rock",
+      "c": "Disintegration of rock",
+      "d": "Decomposition of rock"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q107",
+    "id": "oup-ch5-q107",
     "globalId": 107,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which of the following is considered a mineral?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "The first step in the formation of sedimentary rock is generally:",
     "choices": {
-      "a": "seawater",
-      "b": "rock salt",
-      "c": "cast iron",
-      "d": "vegetation"
+      "a": "Cementation",
+      "b": "Deposition",
+      "c": "Erosion",
+      "d": "Weathering"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch2-q108",
+    "id": "oup-ch5-q108",
     "globalId": 108,
-    "source": "oxford",
-    "chapter": "Chapter 2",
-    "chapterNum": 2,
-    "chapterTitle": "Matter and Minerals",
-    "text": "Which of the following statements is false?",
+    "source": "oup",
+    "chapter": "Chapter 5",
+    "chapterNum": 5,
+    "chapterTitle": "Weathering and Soils",
+    "text": "Where do the processes of weathering occur?",
     "choices": {
-      "a": "pyroxenes and amphiboles are both silicates",
-      "b": "pyroxenes and amphiboles have cleavages at different angles",
-      "c": "pyroxenes and amphiboles are polymorphs",
-      "d": "pyroxenes and amphiboles consist of chains (1 or 2) of silicate tetrahedra"
+      "a": "In the atmosphere",
+      "b": "On or near Earth’s surface",
+      "c": "Primarily along tectonic plate boundaries",
+      "d": "Along the boundary between the crust and mantle"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Matter and Minerals",
+    "category": "Weathering and Soils",
     "tags": [
-      "Matter and Minerals",
-      "Oxford"
+      "Weathering and Soils",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q109",
+    "id": "oup-ch6-q109",
     "globalId": 109,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "The rate of cooling of a magma or lava is reflected by the ________ of the rock.",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "Which best describes the primary association between plate tectonics and sedimentation?",
     "choices": {
-      "a": "mineralogy",
-      "b": "texture",
-      "c": "color",
-      "d": "density"
+      "a": "Plate tectonics causes volcanism, which is the primary source of chemical weathering of source rocks.",
+      "b": "Plate tectonics causes mechanical weathering, which break down source rock along transform boundaries.",
+      "c": "Plate tectonics is responsible for most of the large-scale variations in Earth’s topography, which leads to sediment transport downhill via gravity.",
+      "d": "Plate tectonics releases energy that drives the water cycle and winds, leading to the motion of air and water that transport most sediments from their source to their depositional location."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q110",
+    "id": "oup-ch6-q110",
     "globalId": 110,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "The temperature (at least a minimum estimate) from which the melt cooled is reflected by the _________ of the rock.",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "A geologist is mapping Carboniferous rocks, all of about the same age, located in the middle of a continent. The geologist’s map reveals that the rocks are sandstone in one area, grading into shale in an adjacent area, and then grading into limestone. What can she infer about the depositional environment during the Carboniferous Period in this area?",
     "choices": {
-      "a": "mineralogy",
-      "b": "texture",
-      "c": "color",
-      "d": "density"
+      "a": "The area was probably located along a coastline.",
+      "b": "The area was probably located in a shallow inland sea.",
+      "c": "The area was probably located at the mouth of a large river.",
+      "d": "The area was probably located in a region covered by glacial ice."
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q111",
+    "id": "oup-ch6-q111",
     "globalId": 111,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Where would you expect to find the largest crystals in a lava flow?",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "“Sedimentary facies” is a term used to describe an association of sedimentary rocks that all formed:",
     "choices": {
-      "a": "near the top surface of the flow",
-      "b": "in the center of the flow",
-      "c": "near the bottom of the flow",
-      "d": "the crystals would have the same grain size throughout the flow"
+      "a": "At the same time but in different depositional environments",
+      "b": "From the same source rock but at different times in Earth history",
+      "c": "In the same depositional environment but at different times in Earth history",
+      "d": "From the same source rock but in different depositional environments"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q112",
+    "id": "oup-ch6-q112",
     "globalId": 112,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "According to Bowen's reaction series, which of the following pairs of phases are likely to be incompatible?",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "The photograph shows modern ripple marks in a loose sediment along a coastline. If you were to dig a shallow trench perpendicular to the ripples in order to look at a cross-section of the sediments, what would you most likely see? (Photo source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "quartz and alkali feldspar",
-      "b": "Ca-Plagioclase and olivine",
-      "c": "quartz and olivine",
-      "d": "Na-plagioclase and amphibole"
+      "a": "Deltas",
+      "b": "Flute casts",
+      "c": "Cross beds",
+      "d": "Mud cracks"
     },
     "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap2fig1.gif",
-    "category": "Plutonic Igneous Rocks",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch6/q14.jpg",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q113",
+    "id": "oup-ch6-q113",
     "globalId": 113,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "The last mineral (assuming that the composition is appropriate) to crystallize from a magma is:",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "Two rock layers are shown. The rock labeled “A” is best classified as which? (Photo source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "plagioclase",
-      "b": "olivine",
-      "c": "quartz",
-      "d": "pyroxene"
+      "a": "Shale",
+      "b": "Breccia",
+      "c": "Sandstone",
+      "d": "Conglomerate"
     },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "correctAnswer": "d",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch6/q13.jpg",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q114",
+    "id": "oup-ch6-q114",
     "globalId": 114,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "The fine grained (aphanatic) equivalent of a granite is a:",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "A man calls a science museum to find out about a rock he found on a hike. Based on the geologic map of the area, he knows it is a detrital sedimentary rock, but he does not know precisely what kind it is. The geologist at the museum needs to ask some questions to help identify the rock. Which question would most help the geologist determine the correct answer?",
     "choices": {
-      "a": "rhyolite",
-      "b": "gabbro",
-      "c": "andesite",
-      "d": "basalt"
+      "a": "What color is the rock?",
+      "b": "Did you find the rock on a hill or in a valley?",
+      "c": "In what depositional environment did the rock form?",
+      "d": "What are the size and shape of the grains that make up the rock?"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q115",
+    "id": "oup-ch6-q115",
     "globalId": 115,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "The diagram above most likely represents a ___________",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "Which is best classified as a biochemical sedimentary rock?",
     "choices": {
-      "a": "extrusive igneous rock",
-      "b": "intrusive igneous rock",
-      "c": "clastic sedimentary rock",
-      "d": "chemical sedimentary rock"
+      "a": "Halite that forms when seawater evaporates",
+      "b": "Limestone that is made of calcite extracted from seawater by marine organisms.",
+      "c": "Travertine that forms when calcium carbonate precipitates from water flowing through a caves.",
+      "d": "Oolitic limestone that forms when calcite precipitates in spherical layers around a central fragment."
     },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap2fig1.gif",
-    "category": "Plutonic Igneous Rocks",
+    "correctAnswer": "b",
+    "imageUrl": null,
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q116",
+    "id": "oup-ch6-q116",
     "globalId": 116,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "The coarse grained equivalent of a basalt is a:",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "Whether a sedimentary rock consists of a wide or a narrow range of grain sizes depends primarily on:",
     "choices": {
-      "a": "rhyolite",
-      "b": "gabbro",
-      "c": "andesite",
-      "d": "basalt"
+      "a": "The shape of the grains",
+      "b": "The mineralogy of the source rock",
+      "c": "The energy of the transporting agent",
+      "d": "The latitude in which the sediment was deposited"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q117",
+    "id": "oup-ch6-q117",
     "globalId": 117,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Describe the plate tectonic settings where you would expect to find granitic/rhyolitic rocks:",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "A geologist creates a table to record characteristics of sedimentary rocks. Part of the table is shown below. Assuming all other conditions were the same, which rock most likely formed closest to the source rock from which it was derived?\n\n | Sample A | Sample B | Sample D | Sample C\nClast composition | Granite | Feldspar | Quartz | Quartz\nClast size | 1–5 cm | 0.5–1 cm | 0.5–1 cm | 0.5–1 cm\nClast shape | Angular | Angular | Angular | Rounded",
     "choices": {
-      "a": "subduction zone",
-      "b": "continent/continent collision",
-      "c": "spreading center",
-      "d": "transform boundary"
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "e": "D"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q118",
+    "id": "oup-ch6-q118",
     "globalId": 118,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Describe the plate tectonic settings where you would expect to find andesites:",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "A geologist is classifying some sedimentary rock samples. Which information will be most important for classifying the rocks?",
     "choices": {
-      "a": "subduction zone",
-      "b": "continent/continent collision",
-      "c": "spreading center",
-      "d": "transform boundary"
+      "a": "The age of each sample",
+      "b": "The size of each sample",
+      "c": "The location where each sample was found",
+      "d": "The mineralogy and texture of each sample"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q119",
+    "id": "oup-ch6-q119",
     "globalId": 119,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Describe the plate tectonic settings where you would expect to find basaltic rocks:",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "The photograph shows towers of “tufa” at Mono Lake in California. The towers formed when spring water rich in dissolved calcium flowed up from the bottom of the lake and mixed with lake water rich in carbonate. Calcium carbonate precipitated to form these towers. A drop in the lake level exposed them to the air. The tufa towers are best classified as which sort of sedimentary rock? (Photo source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "subduction zone",
-      "b": "continent/continent collision",
-      "c": "spreading center",
-      "d": "transform boundary"
+      "a": "Alluvial",
+      "b": "Chemical",
+      "c": "Biochemical",
+      "d": "Marine Detrital"
     },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "correctAnswer": "b",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch6/q7.jpg",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q120",
+    "id": "oup-ch6-q120",
     "globalId": 120,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which should offer the least resistance to flow - a basaltic lava, an andesitic liquid or a rhyolitic liquid?",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "The table summarizes how the two main types of sedimentary rocks form. What should be in the cell marked “A”?\n\nType of Weathering | Transport Mechanism | Sedimentary Rock Type\nMechanical | Wind, water, ice, gravity | A\nChemical | Water | B",
     "choices": {
-      "a": "basalt",
-      "b": "andesite",
-      "c": "rhyolite"
+      "a": "Detrital sedimentary rock",
+      "b": "Chemical sedimentary rock",
+      "c": "Biological sedimentary rock",
+      "d": "Mechanical sedimentary rock"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q121",
+    "id": "oup-ch6-q121",
     "globalId": 121,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which is more likely, a granite dike, a diorite dike or a gabbro dike?",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "The graphic describes the process of lithification. Which step is missing at the end?",
     "choices": {
-      "a": "granite",
-      "b": "diorite",
-      "c": "gabbro"
+      "a": "Melting",
+      "b": "Dissolution",
+      "c": "Weathering",
+      "d": "Cementation"
     },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "correctAnswer": "d",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch6/q5.jpg",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q122",
+    "id": "oup-ch6-q122",
     "globalId": 122,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of the following minerals might be found in a granite dike?",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "Lithification is best defined as:",
     "choices": {
-      "a": "amphibole",
-      "b": "muscovite",
-      "c": "biotite",
-      "d": "all of these"
+      "a": "The compaction of sediments to reduce pore space",
+      "b": "The precipitation of natural cement in pore spaces within a sediment",
+      "c": "The binding together of sedimentary particles to form a coherent sedimentary rock",
+      "d": "The dissolution of a minerals within a sedimentary rock as a result of groundwater percolation"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q123",
+    "id": "oup-ch6-q123",
     "globalId": 123,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Crater Lake, Oregon, is a lake within a:",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "The continental shelf in the Atlantic, along the east coast of the United States, is covered in a thick layer of detritus. Where does this detritus come from?",
     "choices": {
-      "a": "sill",
-      "b": "crater",
-      "c": "caldera",
-      "d": "volcanic neck"
+      "a": "Mass wasting and erosion of the North American continental rocks",
+      "b": "Transport via waves from the Atlantic ocean floor",
+      "c": "Chemical precipitation of ions dissolved from the North American continental rocks",
+      "d": "Chemical precipitation of ions dissolved from sediments on the Atlantic ocean floor"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q124",
+    "id": "oup-ch6-q124",
     "globalId": 124,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Residents at the base of which one of the following would face the greatest danger of a nuee ardente?",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "How is mechanical weathering involved in the initial formation of sedimentary rocks?",
     "choices": {
-      "a": "shield volcano",
-      "b": "cinder cone",
-      "c": "geyser",
-      "d": "stratovolcano"
+      "a": "Mechanical weathering heats sediments and allows them to lithify more quickly.",
+      "b": "Mechanical weathering deposits minerals in the pore space between sediment grains.",
+      "c": "Mechanical weathering breaks bedrock down into small pieces that are then transported by wind and water.",
+      "d": "Mechanical weathering strips bedrock of soluble components so that the ions can be transported by water and deposited elsewhere."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q125",
+    "id": "oup-ch6-q125",
     "globalId": 125,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "The continental crust is most like _______________.",
+    "source": "oup",
+    "chapter": "Chapter 6",
+    "chapterNum": 6,
+    "chapterTitle": "Sedimentation and Sedimentary Rocks",
+    "text": "All sedimentary rocks form:",
     "choices": {
-      "a": "granite",
-      "b": "rhyolite",
-      "c": "basalt",
-      "d": "gabbro"
+      "a": "Under water",
+      "b": "At or near a planet’s surface",
+      "c": "By the compression of soil layers",
+      "d": "Through the settling of crystals in magma chambers"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Sedimentation and Sedimentary Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Sedimentation and Sedimentary Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q126",
+    "id": "oup-ch7-q126",
     "globalId": 126,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "The oceanic crust is most like _______________.",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Which list of metamorphic facies is in order from lowest to highest grade?",
     "choices": {
-      "a": "granite",
-      "b": "rhyolite",
-      "c": "basalt",
-      "d": "gabbro"
+      "a": "Amphibolite, zeolite, greenschist, granulite",
+      "b": "Granulite, amphibolite, greenschist, zeolite",
+      "c": "Greenschist, granulite, amphibolite, zeolite",
+      "d": "Zeolite, greenschist, amphibolite, granulite"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q127",
+    "id": "oup-ch7-q127",
     "globalId": 127,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "What type of volcanic rock contains a large number of cavities (bubbles) that form when gases escape from the molten rock?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Why can studying the mineral assemblage in a metamorphic rock give information about the temperature and pressure conditions under which it formed?",
     "choices": {
-      "a": "granite",
-      "b": "obsidian",
-      "c": "pumice",
-      "d": "basalt"
+      "a": "Some minerals are produced spontaneously under specific temperature and pressure conditions.",
+      "b": "Minerals formed under high temperature and pressure contain inclusions that preserve the metamorphic history of the rock.",
+      "c": "As pressure and temperature change, unstable minerals react to form minerals that are stable under the new conditions.",
+      "d": "All rocks formed under the same pressure and temperature conditions have the same mineral composition, regardless of the original parent rock composition."
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q128",
+    "id": "oup-ch7-q128",
     "globalId": 128,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "What is the effect of water on melting (assuming the rock does not contain any hydrous minerals)?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "A metamorphic facies is best defined as a group of rocks that:",
     "choices": {
-      "a": "water raises the melting temperature of rock",
-      "b": "water lowers the melting temperature of a rock",
-      "c": "water neither raises nor lowers the melting temperature"
+      "a": "Formed at similar latitudes on different continents",
+      "b": "Were metamorphosed under similar pressure and temperature conditions",
+      "c": "Experienced contact metamorphism due to exposure to the same type of magma",
+      "d": "Had the same parent rock before experiencing different grades of metamorphism"
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q129",
+    "id": "oup-ch7-q129",
     "globalId": 129,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "During crystallization of a melt plagioclase become richer in __________ .",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Nonfoliated metamorphic rocks can be classified according to:",
     "choices": {
-      "a": "potassium",
-      "b": "sodium",
-      "c": "calcium",
-      "d": "krypton"
+      "a": "Origin or composition",
+      "b": "Pressure or temperature",
+      "c": "Grain size or mineral types",
+      "d": "Layer thickness or parent rock"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q130",
+    "id": "oup-ch7-q130",
     "globalId": 130,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "At about what temperature do olivine and Ca-rich plagioclase crystallize from a magma?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "A geochemist is analyzing the chemical compositions of several foliated metamorphic rock samples to determine their metamorphic grade. Knowing the relative amount of which substance would be most helpful for the geochemist?",
     "choices": {
-      "a": "500 degrees C",
-      "b": "1000 degrees C",
-      "c": "1500 degrees C",
-      "d": "2000 degrees C"
+      "a": "Iron",
+      "b": "Silicon",
+      "c": "Water",
+      "d": "Ammonia"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q131",
+    "id": "oup-ch7-q131",
     "globalId": 131,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of the following is a concordant intrusive rock?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "The four types of foliated metamorphic rocks are classified based on their:",
     "choices": {
-      "a": "dike",
-      "b": "sill",
-      "c": "stock",
-      "d": "batholith"
+      "a": "Grain size and type of foliation",
+      "b": "Chemical composition and layer thickness",
+      "c": "Grade of metamorphism and type of parent rock",
+      "d": "Type of metamorphism and amount of confining pressure"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q132",
+    "id": "oup-ch7-q132",
     "globalId": 132,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "What type of igneous rock would contain 10 mm long plagioclase crystals surrounded by 0.5 mm long crystals?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Nonfoliated metamorphic rocks are typically associated with:",
     "choices": {
-      "a": "porphyry",
-      "b": "obsidian",
-      "c": "phaneritic",
-      "d": "aphanitic"
+      "a": "Burial and contact metamorphism",
+      "b": "Regional and shock metamorphism",
+      "c": "Hydrothermal and burial metamorphism",
+      "d": "Contact and hydrothermal metamorphism"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q133",
+    "id": "oup-ch7-q133",
     "globalId": 133,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of the following pairs of intrusive and extrusive rocks have the same chemical composition?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "The photograph shows an outcrop of phyllite. What gives the phyllite its glossy sheen? (Photo source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "granite and andesite",
-      "b": "diorite and basalt",
-      "c": "gabbro and basalt",
-      "d": "gabbro and rhyolite"
+      "a": "Minerals that occur in thin sheets",
+      "b": "Minerals that melted and cooled quickly",
+      "c": "Minerals that underwent shock metamorphism",
+      "d": "Minerals that have an abundance of water in their structure"
     },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "correctAnswer": "a",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch7/q12.jpg",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q134",
+    "id": "oup-ch7-q134",
     "globalId": 134,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of the following best describes a granite?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Which list of metamorphic foliation types is in order from lowest to highest metamorphic grade?",
     "choices": {
-      "a": "a light-colored, fine-grained igneous rock rich in silica",
-      "b": "a light-colored, fine-grained igneous rock poor in silica",
-      "c": "a light-colored, coarse-grained igneous rock rich in silica",
-      "d": "a light-colored, coarse-grained igneous rock poor in silica"
+      "a": "Schistosity, gneissic foliation, slaty cleavage",
+      "b": "Gneissic foliation, schistosity, slaty cleavage",
+      "c": "Slaty cleavage, schistosity, gneissic foliation",
+      "d": "Gneissic foliation, slaty cleavage, schistosity"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q135",
+    "id": "oup-ch7-q135",
     "globalId": 135,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of the following best describes a basalt?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Foliated metamorphic rocks would most likely be found in:",
     "choices": {
-      "a": "a dark-colored, fine-grained igneous rock rich in silica",
-      "b": "a dark-colored, fine-grained igneous rock poor in silica",
-      "c": "a dark-colored, coarse-grained igneous rock rich in silica",
-      "d": "a dark-colored, coarse-grained igneous rock poor in silica"
+      "a": "A river flood plain",
+      "b": "A volcanic island arc",
+      "c": "A recently glaciated region",
+      "d": "A collisional mountain range"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q136",
+    "id": "oup-ch7-q136",
     "globalId": 136,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Most igneous rocks contain ___________SiO2 by weight.",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Smearing-type dynamic metamorphism is most common under conditions of:",
     "choices": {
-      "a": "less than 40%",
-      "b": "between 40% and 70%",
-      "c": "between 70% and 90%",
-      "d": "greater than 90%"
+      "a": "Deep burial and high temperatures",
+      "b": "Shallow burial and low temperatures",
+      "c": "Rapid deformation and low temperatures",
+      "d": "Rapid deformation and high temperatures"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q137",
+    "id": "oup-ch7-q137",
     "globalId": 137,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of the following minerals is the most abundant mineral in ultramafic rocks?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Which type of metamorphic rock might you expect to find associated with fine-grained sedimentary rock deposited at the mouth of a river?",
     "choices": {
-      "a": "amphibole",
-      "b": "olivine",
-      "c": "sodium plagioclase",
-      "d": "quartz"
+      "a": "Burial metamorphic rock",
+      "b": "Contact metamorphic rock",
+      "c": "Regional metamorphic rock",
+      "d": "Regional metamorphic rock"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q138",
+    "id": "oup-ch7-q138",
     "globalId": 138,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of the following statements about mafic rocks is true?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "What would you expect to find in rocks formed through contact metamorphism?",
     "choices": {
-      "a": "mafic rocks are richer in silica than felsic rocks",
-      "b": "mafic rocks crystallize at higher temperatures than felsic rocks",
-      "c": "mafic rocks are more viscous than felsic rocks",
-      "d": "mafic rocks tend to be lighter in color than felsic rocks."
+      "a": "Minerals that are stable at high temperatures and low pressures",
+      "b": "Minerals that are stable at low temperatures and high pressures",
+      "c": "Rock that has experienced only low-grade metamorphism throughout",
+      "d": "Rock over widespread areas that has experienced similar degrees of metamorphism"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q139",
+    "id": "oup-ch7-q139",
     "globalId": 139,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of the following igneous rocks crystallizes near the Earth's surface?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "A geologist concludes that a particular metamorphic rock formed at high pressure. Which feature of the rock most likely led to this conclusion?",
     "choices": {
-      "a": "basalt",
-      "b": "gabbro",
-      "c": "diorite",
-      "d": "granite"
+      "a": "It contains dense minerals.",
+      "b": "Its parent rock contained large sediments.",
+      "c": "Its layers have been pulled and lengthened.",
+      "d": "It was found in close association with intrusive igneous rock."
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q140",
+    "id": "oup-ch7-q140",
     "globalId": 140,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "What is the approximate silica content of a granite?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Why is metamorphism more rapid in deeply buried rocks than in rocks closer to the surface?",
     "choices": {
-      "a": "20%",
-      "b": "50%",
-      "c": "70%",
-      "d": "100%"
+      "a": "Rocks near the surface are too stable to undergo metamorphism.",
+      "b": "Minerals become more reactive as they approach Earth’s surface.",
+      "c": "Increasing heat and pressure increase the rate of metamorphic chemical reactions.",
+      "d": "Convergent boundaries affect deeply buried rocks more significantly than shallow rocks."
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q141",
+    "id": "oup-ch7-q141",
     "globalId": 141,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of these minerals is commonly found in both mafic and felsic rocks?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Where are metamorphic rocks most likely to form?",
     "choices": {
-      "a": "quartz",
-      "b": "alkali feldspar",
-      "c": "plagioclase feldspar",
-      "d": "olivine"
+      "a": "A river delta",
+      "b": "A volcanic island",
+      "c": "A mid-ocean ridge",
+      "d": "A convergent plate boundary"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q142",
+    "id": "oup-ch7-q142",
     "globalId": 142,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Which of the following is NOT an extrusive igneous rock?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "Sedimentary rocks and metamorphic rocks can both be found on Earth’s surface. Unlike sedimentary rocks, however, most metamorphic rocks:",
     "choices": {
-      "a": "basalt",
-      "b": "andesite",
-      "c": "obsidian",
-      "d": "granite"
+      "a": "Form on or near Earth’s surface",
+      "b": "Cannot be broken down to form sediment",
+      "c": "Contain minerals that are stable at Earth’s surface",
+      "d": "Reach Earth’s surface only through uplift of deeper rocks"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch3-q143",
+    "id": "oup-ch7-q143",
     "globalId": 143,
-    "source": "oxford",
-    "chapter": "Chapter 3",
-    "chapterNum": 3,
-    "chapterTitle": "Plutonic Igneous Rocks",
-    "text": "Felsic => Intermediate => =>MaficWhich of the following properties increases in the direction of the arrows in the sentence above?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "The formation of metamorphic rocks involves all of the following EXCEPT:",
     "choices": {
-      "a": "melting temperature",
-      "b": "potassium content",
-      "c": "silica content",
-      "d": "viscosity"
+      "a": "Circulating fluids",
+      "b": "High pressures",
+      "c": "High pressures",
+      "d": "High altitude"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Plutonic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Plutonic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q144",
+    "id": "oup-ch7-q144",
     "globalId": 144,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "What type of magma forms at mid-ocean ridges?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "A metamorphic petrologist examines the chemical compositions of several mineral grains and notes that the compositions near the centers of the grains are different from those near the rims of the grains. What is the most likely explanation for this?",
     "choices": {
-      "a": "basalt",
-      "b": "andesite",
-      "c": "ultramafic",
-      "d": "granite"
+      "a": "The parent rock contained primarily stable minerals.",
+      "b": "The composition of the parent rock was not consistent throughout.",
+      "c": "The metamorphic rock was buried deeply when it started to form and over time moved closer to the surface.",
+      "d": "The mineral began forming in an igneous rock and was then transported to the metamorphic rock by circulating fluids."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q145",
+    "id": "oup-ch7-q145",
     "globalId": 145,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "A porphyritic igneous rock contains phenocrysts of olivine and calcium-rich plagioclase in an aphanitic groundmass. This is a __________?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "The diagram below shows a subduction zone. Which location is most likely to contain minerals that are stable at high pressures and low temperatures?",
     "choices": {
-      "a": "andesite porphyry",
-      "b": "basalt porphyry",
-      "c": "gabbro porphyry",
-      "d": "rhyolite porphyry"
+      "a": "Location A",
+      "b": "Location B",
+      "c": "Location C",
+      "d": "Location D"
     },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "a",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch7/q20.jpg",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q146",
+    "id": "oup-ch7-q146",
     "globalId": 146,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "A porphyritic igneous rock contains phenocrysts of olivine and calcium-rich plagioclase in an phaneritic groundmass. This is a __________?",
+    "source": "oup",
+    "chapter": "Chapter 7",
+    "chapterNum": 7,
+    "chapterTitle": "Metamorphism and Metamorphic Rocks",
+    "text": "The most widespread and common, but least preserved, type of metamorphism is:",
     "choices": {
-      "a": "andesite porphyry",
-      "b": "basalt porphyry",
-      "c": "gabbro porphyry",
-      "d": "rhyolite porphyry"
+      "a": "Burial metamorphism, because it occurs in river deltas",
+      "b": "Burial metamorphism, because it occurs in river deltas",
+      "c": "Contact metamorphism, because it occurs near magma chambers",
+      "d": "Hydrothermal metamorphism, because it occurs at mid-ocean ridges"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Metamorphism and Metamorphic Rocks",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Metamorphism and Metamorphic Rocks",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q147",
+    "id": "oup-ch8-q147",
     "globalId": 147,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "What is the dominant rock type on most of the Hawaiian Islands?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "Plate tectonics formed the Atlantic Ocean over the course of 180 million years. How does this span of time compare with the entire span of geologic time on Earth?",
     "choices": {
-      "a": "basalt",
-      "b": "andesite",
-      "c": "ultramafic",
-      "d": "granite"
+      "a": "It is about 4/100ths of the span of geologic time on Earth.",
+      "b": "It is about 30,000 times the span of geologic time on Earth.",
+      "c": "It is about one millionth of the span of geologic time on Earth.",
+      "d": "It is impossible to compare to the entire span of geologic time on Earth because geologic time is infinite."
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q148",
+    "id": "oup-ch8-q148",
     "globalId": 148,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "What is the dominant rock type at the center of the Sierra Nevada Mountains?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "Which factor is a challenge to geologists in establishing the boundaries of the geologic time scale?",
     "choices": {
-      "a": "basalt",
-      "b": "andesite",
-      "c": "ultramafic",
-      "d": "granite"
+      "a": "Some radiometric dating techniques are becoming more precise.",
+      "b": "Most rocks do not contain minerals that can be dated using radiometric dating.",
+      "c": "The rates at which past geologic events have occurred has varied through Earth’s history.",
+      "d": "The exponential decay of radioactive atoms means scientists are running out of time to obtain radiometric data."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q149",
+    "id": "oup-ch8-q149",
     "globalId": 149,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "What is the effect of water on melting?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "Which do geologists primarily use to determine the absolute ages of boundaries on the geologic time scale?",
     "choices": {
-      "a": "water raises the melting temperature of a rock",
-      "b": "water lowers the melting temperature of a rock",
-      "c": "water does not change the melting temperature of a rock",
-      "d": "this depends on how much water is present"
+      "a": "Correlation methods",
+      "b": "Cross-cutting methods",
+      "c": "Law of superposition",
+      "d": "Radiometric dating"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q150",
+    "id": "oup-ch8-q150",
     "globalId": 150,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which of the following scenarios would lead to melting of Albite plus Water?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "When using radiometric dating to determine the absolute age of a rock, which quantities does a geologist compare in a sample?",
     "choices": {
-      "a": "raise the Pressure (P)",
-      "b": "raise the Temperature (T)",
-      "c": "either raise the Pressure (P) or raise the Temperature (T)",
-      "d": "decrease either the Temperature (T) or Pressure (P)"
+      "a": "The half-lives of various isotopes",
+      "b": "The numbers of radioactive isotopes",
+      "c": "The concentrations of different minerals",
+      "d": "The amounts of daughter and parent isotopes"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q151",
+    "id": "oup-ch8-q151",
     "globalId": 151,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "During crystallization of a magma the plagioclase feldspar __________.",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "A geologist analyzes the amount of potassium-40 in a rock and determines that 25 percent of the original potassium-40 is still present. Assuming no potassium-40 has been lost to any process other than radioactive decay, what is the approximate absolute age of the rock?",
     "choices": {
-      "a": "is replaced by quartz",
-      "b": "is replaced by pyroxene",
-      "c": "becomes richer in calcium",
-      "d": "becomes richer in sodium"
+      "a": "750 million years",
+      "b": "312 million years",
+      "c": "2.5 billion years",
+      "d": "5 billion years"
     },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch8/q17.jpg",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q152",
+    "id": "oup-ch8-q152",
     "globalId": 152,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which mineral is not part of the discontinuous reaction series?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "The half-life of a radioactive isotope in a fossil is defined as:",
     "choices": {
-      "a": "plagioclase",
-      "b": "olivine",
-      "c": "pyroxene",
-      "d": "amphibole"
+      "a": "Half of the absolute age of a fossil",
+      "b": "The ratio of the daughter isotope to the parent isotope in the fossil",
+      "c": "The number of times the isotope undergoes radioactive decay in the fossil",
+      "d": "The time it takes for half of the parent isotope to decay into a daughter isotope in the fossil"
     },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/albite.gif",
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "d",
+    "imageUrl": null,
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q153",
+    "id": "oup-ch8-q153",
     "globalId": 153,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "At about what temperature do olivine and calcium-rich plagioclase crystallize from a melt? (answers are in degrees centigrade)",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "Carbon-12 and carbon-14 are both found in living organisms. What is the difference between carbon-14 and carbon-12?",
     "choices": {
-      "a": "500",
-      "b": "1000",
-      "c": "1500",
-      "d": "2000"
+      "a": "Carbon-14 has a greater atomic number.",
+      "b": "Carbon-14 has two more protons in its nucleus.",
+      "c": "Carbon-14 has two more neutrons in its nucleus.",
+      "d": "Carbon-14 has two more electrons surrounding its nucleus."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q154",
+    "id": "oup-ch8-q154",
     "globalId": 154,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which of the following minerals crystallizes first from a basaltic magma?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "The boundaries between various periods on the geologic time scale are based primarily on:",
     "choices": {
-      "a": "quartz",
-      "b": "biotite",
-      "c": "pyroxene",
-      "d": "olivine"
+      "a": "Fault planes",
+      "b": "Radiometric dating",
+      "c": "Nonconformities and disconformities",
+      "d": "Emergence or extinction of organisms preserved in the fossil record"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q155",
+    "id": "oup-ch8-q155",
     "globalId": 155,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "How does a magma make space for itself in order to rise through the crust?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "What property of index fossils makes them so useful for subdividing geologic time?",
     "choices": {
-      "a": "by wedging open the overlying rock",
-      "b": "by breaking off large blocks that sink into the magma chamber",
-      "c": "by melting the surrounding rocks",
-      "d": "all of these"
+      "a": "They are short-lived.",
+      "b": "They are radioactive.",
+      "c": "They are exceptionally old.",
+      "d": "They are present in both young and old layers of rock."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q156",
+    "id": "oup-ch8-q156",
     "globalId": 156,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "How can a sill be distinguished from a lava flow?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "What features of rock strata would be most useful for a geologist to analyze in order to correlate rock layers in two different locations?",
     "choices": {
-      "a": "a sill is generally coarser-grained than a lava flow",
-      "b": "the rocks above and below a sill will show evidence of heating but only the rocks below a lava flow will show evidence of heating",
-      "c": "sills generally do not have vesicles; lava flows generally have vesicles",
-      "d": "all of these"
+      "a": "Fossils",
+      "b": "Inclusions",
+      "c": "Angular unconformities",
+      "d": "Cross-cutting relationships"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q157",
+    "id": "oup-ch8-q157",
     "globalId": 157,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which of the following is not a volcanic arc that overlies a subduction zone?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "How does the principle of faunal succession allow geologists to correlate rock strata in different geographic locations?",
     "choices": {
-      "a": "Aleutian Islands",
-      "b": "Hawaiian Islands",
-      "c": "Cascade Range",
-      "d": "Japanese Islands"
+      "a": "It states that layers of rock strata at different locations can be correlated according to the unique set of fossils they contain.",
+      "b": "It states that fossils within rock strata are mostly homogeneous, suggesting that rock strata throughout a region should reveal similar sets of fossils.",
+      "c": "It states that the fossils in rock strata are older than the rock layers, allowing geologists to link younger and older layers across a region.",
+      "d": "It states that the evolution of fossils in one region should correlate with the evolution of fossils through different rock strata in another region."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q158",
+    "id": "oup-ch8-q158",
     "globalId": 158,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "What type of silicate minerals on the discontinuous side of the reaction series crystallize at the highest temperatures?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "An igneous rock intrudes into three tilted layers of sedimentary rock. Which set of relative dating methods is most useful to determine the chronological order of formation of the rocks?",
     "choices": {
-      "a": "isolated tetrahedral",
-      "b": "single chain",
-      "c": "sheet",
-      "d": "framework"
+      "a": "Law of superposition, cross-cutting relationships, and law of original horizontality",
+      "b": "Law of original horizontality, rule of original lateral continuity, and rule of inclusions",
+      "c": "Rule of inclusions, law of superposition, and cross-cutting relationships",
+      "d": "Law of original horizontality, rule of inclusions, and law of superposition"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q159",
+    "id": "oup-ch8-q159",
     "globalId": 159,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "As a magma changes from mafic to felsic, which of the following elements decreases?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "The photograph shows a sedimentary layer overlying metamorphic rocks. How is the boundary between the two formations best described? (Photo Source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "sodium",
-      "b": "potassium",
-      "c": "silicon",
-      "d": "iron"
+      "a": "A fault plane",
+      "b": "A bedding plane",
+      "c": "A disconformity",
+      "d": "A nonconformity"
     },
     "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch8/q9.jpg",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q160",
+    "id": "oup-ch8-q160",
     "globalId": 160,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which of the following statements is false?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "A geologist examines a layer of sedimentary rock strata that contains pebbles of granite. From this, the geologist could infer that:",
     "choices": {
-      "a": "mafic magmas are more viscous than felsic magmas",
-      "b": "mafic magmas are hotter than felsic magmas",
-      "c": "mafic magmas contain more calcium than felsic magmas",
-      "d": "mafic magmas contain less silicon than felsic magmas"
+      "a": "An older layer of granite is below the sedimentary rock",
+      "b": "An older layer of granite is above the sedimentary rock",
+      "c": "A younger layer of granite is below the sedimentary rock",
+      "d": "A younger layer of granite is above the sedimentary rock"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q161",
+    "id": "oup-ch8-q161",
     "globalId": 161,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which of the following properties does not depend on the chemical composition of an igneous rock?",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "Which would generally NOT be involved in determining the relative age of rock strata?",
     "choices": {
-      "a": "grain size",
-      "b": "melting temperature",
-      "c": "mineralogy",
-      "d": "viscosity"
+      "a": "Unconformities",
+      "b": "Radioactive decay",
+      "c": "Rule of superposition",
+      "d": "Cross-cutting relationships"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q162",
+    "id": "oup-ch8-q162",
     "globalId": 162,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Compared to felsic magmas, mafic magmas are relatively enriched in:",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "Which shows the correct order, from oldest to youngest, of the relative ages of the formations shown?",
     "choices": {
-      "a": "calcium",
-      "b": "iron",
-      "c": "magnesium",
-      "d": "all of the above"
+      "a": "A, B, C, D",
+      "b": "D, B, C, A",
+      "c": "A, C, B, D",
+      "d": "D, C, B, A"
     },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "b",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch8/q6.jpg",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q163",
+    "id": "oup-ch8-q163",
     "globalId": 163,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "A glassy texture indicates:",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "How does the principle of uniformitarianism differ from earlier views of the geologic processes that have shaped Earth?",
     "choices": {
-      "a": "very rapid cooling",
-      "b": "slow cooling",
-      "c": "slow followed by rapid cooling",
-      "d": "none of the above"
+      "a": "It claims that the structures on Earth are gradually becoming more uniform in shape and composition.",
+      "b": "It proposes that only gradual, slowly occurring, natural processes can significantly affect the structures on Earth.",
+      "c": "It suggests that the processes currently shaping the Earth are the same processes that shaped Earth throughout its history.",
+      "d": "It asserts that the processes shaping Earth have slowed to a more gradual pace compared with earlier catastrophic events that occurred more frequently in Earth’s past."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q164",
+    "id": "oup-ch8-q164",
     "globalId": 164,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Pyroclastic rocks form by:",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "“The present is the key to the past” best summarizes which principle in the history of geologic time?",
     "choices": {
-      "a": "a lava cooling on the surface of the Earth",
-      "b": "violent, explosive volcanic eruption",
-      "c": "a magma cooling slowing in the subsurface",
-      "d": "two phases of cooling, one fast and one slow"
+      "a": "Plutonism",
+      "b": "Gradualism",
+      "c": "Catastrophism",
+      "d": "Uniformitarianism"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q165",
+    "id": "oup-ch8-q165",
     "globalId": 165,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "The presence of phenocrysts in an igneous rocks indicate:",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "The principle of catastrophism is NOT supported by which observation?",
     "choices": {
-      "a": "a lava cooling on the surface of the Earth",
-      "b": "violent, explosive volcanic eruption",
-      "c": "a magma cooling slowing in the subsurface",
-      "d": "two phases of cooling, one fast and one slow"
+      "a": "Sudden floods can carve wide, deep valleys in a very short time.",
+      "b": "A volcanic eruption can form a mountain over the course of a few days.",
+      "c": "A rock from space can crash into Earth’s surface, forming a giant hole.",
+      "d": "A continent can drift from one side of the globe to the other over millions of years."
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q166",
+    "id": "oup-ch8-q166",
     "globalId": 166,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Vesicles in an igneous rock form from:",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "The absolute age of a rock is the:",
     "choices": {
-      "a": "escaping gases",
-      "b": "phenocrysts settle to the bottom of the magma chamber",
-      "c": "falling ash",
-      "d": "all of the above"
+      "a": "Length of time over which the rock formed",
+      "b": "Period of geologic time in which the rock formed",
+      "c": "Amount of time that has passed since the rock formed",
+      "d": "Age of the rock relative to older and younger rocks around it"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q167",
+    "id": "oup-ch8-q167",
     "globalId": 167,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "The discontinuous branch of Bowen's reaction series consists of minerals with ________ structures.",
+    "source": "oup",
+    "chapter": "Chapter 8",
+    "chapterNum": 8,
+    "chapterTitle": "Geologic Time & Dating",
+    "text": "A geologist determines the chronological order in which layers of rock were deposited in a canyon. How is this different from determining the absolute age of the rocks?",
     "choices": {
-      "a": "isolated tetrahedra",
-      "b": "single chains",
-      "c": "double chains",
-      "d": "all of the above"
+      "a": "The order of rock layers was not examined.",
+      "b": "The exact age in years of each rock layer was not calculated.",
+      "c": "The fossils contained in successive rock layers were not compared.",
+      "d": "The rock layers could not be classified in terms of period on the geologic time scale."
     },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap345fig1.gif",
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "b",
+    "imageUrl": null,
+    "category": "Geologic Time & Dating",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Geologic Time & Dating",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q168",
+    "id": "oup-ch9-q168",
     "globalId": 168,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Batholiths are associated with:",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "One possible mechanism of tectonic plate motion is ridge push. Which statement best describes ridge push?",
     "choices": {
-      "a": "plateau basalts",
-      "b": "oceanic islands",
-      "c": "folded mountains",
-      "d": "all of the above"
+      "a": "Mantle plumes move upward below the ridge, pushing lithosphere to either side.",
+      "b": "Plates on either side of the ridge slide downslope away from the ridge under the force of gravity.",
+      "c": "Convecting asthenosphere below the ridge pushes along the lithosphere above.",
+      "d": "Lava pushes the plates to either side as it erupts along the ridge."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q169",
+    "id": "oup-ch9-q169",
     "globalId": 169,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which of the following rock types is depicted in the diagram above?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "Which best describes what geologists think regarding the origin of hotspots?",
     "choices": {
-      "a": "basalt",
-      "b": "rhyolite",
-      "c": "gabbro",
-      "d": "diorite"
+      "a": "All evidence suggests that hotspots originate at the core–mantle boundary",
+      "b": "Some geologists think that hotspots originate at the core–mantle boundary, but others think they originate much closer to the surface.",
+      "c": "Geologists have no idea where hotspots originate.",
+      "d": "There are no more than a dozen competing ideas as to where hotspots originate."
     },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap345fig2.gif",
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "b",
+    "imageUrl": null,
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q170",
+    "id": "oup-ch9-q170",
     "globalId": 170,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which of the following rock types is depicted in the diagram above?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "A satellite map of the ocean floor reveals a linear chain of seamounts extending westward from volcanic islands. The seamounts increase in depth toward the west, away from the islands. The chain of seamounts and volcanoes can be used to infer:",
     "choices": {
-      "a": "felsic",
-      "b": "intermediate",
-      "c": "mafic",
-      "d": "ultramafic"
+      "a": "The motion of tectonic plates over a hotspot",
+      "b": "The location of an incipient subduction zone",
+      "c": "The line of a future spreading center",
+      "d": "The transform boundary between two ocean plates"
     },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap345fig4.gif",
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "a",
+    "imageUrl": null,
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q171",
+    "id": "oup-ch9-q171",
     "globalId": 171,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "In the basalt sample depicted above, the vesicles (small spherical cavities) most likely formed by ___________.",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "An earthquake of magnitude 7 occurs along a major transform fault underwater, but the tsunami risk is assessed as very low. Why?",
     "choices": {
-      "a": "the escape of gas bubbles dissolved in the lave during eruption",
-      "b": "the weathering and erosion of olivine crystals after the eruption",
-      "c": "air bubbles entrained in the flow during the eruption",
-      "d": "vaporization during underwater eruption"
+      "a": "The earthquake is not strong enough to cause a tsunami.",
+      "b": "The earthquake does not last long enough to cause a tsunami.",
+      "c": "The motion that occurs during the earthquake is primarily horizontal.",
+      "d": "The motion that occurs during the earthquake sucks the water down rather than pushing it up."
     },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chpa345fig3.gif",
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "c",
+    "imageUrl": null,
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q172",
+    "id": "oup-ch9-q172",
     "globalId": 172,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "What mineral occurs in box I of Bowen's Reaction Series (above)",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "Which best describes the general motion along a transform?",
     "choices": {
-      "a": "amphibole",
-      "b": "Ca-rich plagioclase",
-      "c": "olivine",
-      "d": "quartz"
+      "a": "Slow and continuous slipping at an even rate",
+      "b": "Continuous slipping that increases in rate over time",
+      "c": "Slow buildup of stress followed by sudden release as rocks break and move",
+      "d": "Regular pattern of stop-start motion that repeats on the order of several times per day"
     },
     "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chpa345fig3.gif",
-    "category": "Volcanic Igneous Rocks",
+    "imageUrl": null,
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q173",
+    "id": "oup-ch9-q173",
     "globalId": 173,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "What mineral occurs at point II of Bowen's Reaction Series (above)",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "Continents grow over time primarily as a result of:",
     "choices": {
-      "a": "Na-rich plagioclase",
-      "b": "Ca-rich plagioclase",
-      "c": "olivine",
-      "d": "quartz"
+      "a": ") Divergence of plates, which leads to igneous activity and creation of new crust",
+      "b": "Convergence of plates, which leads to igneous activity and accretion of landmasses",
+      "c": "Motion along transform faults, which brings together the continental rocks from two plates",
+      "d": "Upwelling of magma from the deep mantle, which leads to eruption of large volumes of magma"
     },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chpa345fig3.gif",
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "b",
+    "imageUrl": null,
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q174",
+    "id": "oup-ch9-q174",
     "globalId": 174,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "What mineral occurs in box III of Bowen's Reaction Series (above)",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "A geologist is designing an animation to illustrate subduction. To make the animation as accurate as possible, the geologist should make sure that:",
     "choices": {
-      "a": "Na-rich plagioclase",
-      "b": "muscovite",
-      "c": "olivine",
-      "d": "quartz"
+      "a": "The trench migrates toward the island arc over time",
+      "b": "The trench migrates parallel to the island arc over time",
+      "c": "The trench migrates away from the island arc over time",
+      "d": "The location of the trench does not change over time"
     },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap345fig5.gif",
-    "category": "Volcanic Igneous Rocks",
+    "correctAnswer": "c",
+    "imageUrl": null,
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q175",
+    "id": "oup-ch9-q175",
     "globalId": 175,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which of the following volcanic chains formed at a tectonic setting similar to \"A\"?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "The Pacific Ring of Fire is a chain of volcanoes associated with:",
     "choices": {
-      "a": "Aleutian Islands",
-      "b": "Andes Mountains",
-      "c": "Cascade Range",
-      "d": "Hawaiian Islands"
+      "a": "Subduction of oceanic lithosphere",
+      "b": "Shear stress along major transform faults",
+      "c": ") Extension and creation of new ocean crust",
+      "d": "Upwelling of magma from the core–mantle boundary"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q176",
+    "id": "oup-ch9-q176",
     "globalId": 176,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "What type of lava is most likely to erupt at tectonic setting \"B\"?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "An accretionary wedge is:",
     "choices": {
-      "a": "andesitic",
-      "b": "basaltic",
-      "c": "rhyolitic",
-      "d": "none of the above"
+      "a": "An arc-shaped array of volcanoes",
+      "b": "A collision zone between two continents",
+      "c": "A slab of lithosphere beneath a continent",
+      "d": "A body of sediments scraped off subducting crust"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch4-q177",
+    "id": "oup-ch9-q177",
     "globalId": 177,
-    "source": "oxford",
-    "chapter": "Chapter 4",
-    "chapterNum": 4,
-    "chapterTitle": "Volcanic Igneous Rocks",
-    "text": "Which of the following volcanoes formed at a tectonic setting similar to \"C\"?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "The topography of mid-ocean ridges can be mapped using satellites. While examining these images, a geologist notices that one ridge is narrow with steep slopes while another is broad with gentle slopes. What do geologists think causes these differences in topography?",
     "choices": {
-      "a": "Hekla, Iceland",
-      "b": "Mauna Loa",
-      "c": "Mount Pelee, Martinique",
-      "d": "Mount St. Helens"
+      "a": "Difference in spreading rate",
+      "b": "Difference in lava temperature",
+      "c": "Difference in sediment thickness",
+      "d": "Difference in mantle composition"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Volcanic Igneous Rocks",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Volcanic Igneous Rocks",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q178",
+    "id": "oup-ch9-q178",
     "globalId": 178,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which is more dense....water or steam?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "Based on the analysis of GPS data and sampling of ocean crusts, a typical rate of seafloor spreading is:",
     "choices": {
-      "a": "water",
-      "b": "steam"
+      "a": "5 cm/year",
+      "b": "5 cm/thousand years",
+      "c": "5 cm/million years",
+      "d": "5 cm/billion years"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q179",
+    "id": "oup-ch9-q179",
     "globalId": 179,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which is more dense....water or ice?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "Most of the current oceanic crust is less than 200 million years old. How do geologists interpret this observation?",
     "choices": {
-      "a": "water",
-      "b": "ice"
+      "a": "Prior to 200 million years ago, there was no dense basaltic crust.",
+      "b": "Oceanic crust older than 200 million years has buoyed up to form continents.",
+      "c": "Prior to 200 million years ago, there were no oceans to weigh down the continents.",
+      "d": "Oceanic crust older than 200 million years has been destroyed at convergent boundaries."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q180",
+    "id": "oup-ch9-q180",
     "globalId": 180,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which is more dense....ice or vapor?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "The graph describes the relationship between two characteristics of the ocean crust. What are the labels on the x- and y- axes most likely to be?",
     "choices": {
-      "a": "vapor",
-      "b": "ice"
+      "a": "x-axis: age ; y-axis: thickness",
+      "b": "x-axis: temperature; y-axis: age",
+      "c": "x-axis: distance from ridge; y-axis: iron content",
+      "d": "x-axis: depth; y-axis: heat flow"
     },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Weathering",
+    "correctAnswer": "a",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch9/q12.jpg",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q181",
+    "id": "oup-ch9-q181",
     "globalId": 181,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "If the pressure increases, what happens to the melting point of ice?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "A group of geologists are on a research cruise to collect samples from the East Pacific Rise. What types of rocks are they most likely to find?",
     "choices": {
-      "a": "increases",
-      "b": "decreases",
-      "c": "stays the same"
+      "a": "Young basalts",
+      "b": "Ancient granites",
+      "c": "Thick layers of gravel, sand, silt, and clay",
+      "d": "A mixture of young and old intermediate rocks"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q182",
+    "id": "oup-ch9-q182",
     "globalId": 182,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "A Thought Question....When a body of water begins to freeze, the ice \"floats\" rather than sinks. Imagine for a minute that ice was denser than water. Bodies of water would freeze from the bottom up. What influence on life might this have?",
-    "choices": {},
-    "correctAnswer": "a",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "A geologist trying to understand ancient continental rifts wants to study a present-day rift. Where is the best place to conduct the research?",
+    "choices": {
+      "a": "California",
+      "b": "Chile",
+      "c": "Kenya",
+      "d": "Antarctica"
+    },
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q183",
+    "id": "oup-ch9-q183",
     "globalId": 183,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "What happens to the boiling point of water as the pressure decreases?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "What is the first step in the formation of a new ocean basin?",
     "choices": {
-      "a": "increases",
-      "b": "decreases",
-      "c": "stays the same"
+      "a": "Flooding of low coastal areas",
+      "b": "Erosion of a continent to create a low area",
+      "c": "Stretching and thinning of the continental crust",
+      "d": "Deposition of clay and silt-rich sediments during a flood"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q184",
+    "id": "oup-ch9-q184",
     "globalId": 184,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "At 1 atmosphere total pressure water cannot be heated above 100oC. At that temperature water is converted to steam (vapor). According to the diagram, water can be heated to higher temperatures by:",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "Transform faults are referred to as “conservative” plate boundaries because:",
     "choices": {
-      "a": "increasing the pressure",
-      "b": "decreasing the pressure",
-      "c": "increasing the temperature"
+      "a": "One plate is destroyed while the other grows",
+      "b": "Lithosphere is neither created nor destroyed at the boundaries",
+      "c": "There is no relative motion between the plates along the boundary",
+      "d": "Seismic energy is transformed into other types of energy during earthquakes"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q185",
+    "id": "oup-ch9-q185",
     "globalId": 185,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Mechanical weathering produces ___________.",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "Because Earth’s surface is curved, the mid-ocean ridges are segmented rather than continuous. The segments of each ridge are connected by:",
     "choices": {
-      "a": "clay minerals",
-      "b": "quartz",
-      "c": "smaller particles",
-      "d": "calcium carbonate"
+      "a": "Island arcs",
+      "b": "Volcanic fissures",
+      "c": "Transform faults",
+      "d": "Deep sea trenches"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q186",
+    "id": "oup-ch9-q186",
     "globalId": 186,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "When liquid water freezes:",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "Divergent plate boundaries are characterized by landforms that result from:",
     "choices": {
-      "a": "it does not change in volume",
-      "b": "it expands by 5% in volume",
-      "c": "it expands by 9% in volume",
-      "d": "it decreases in volume"
+      "a": "Compression",
+      "b": "Destruction",
+      "c": "Extension",
+      "d": "Shear"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q187",
+    "id": "oup-ch9-q187",
     "globalId": 187,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "What is the term for the general process by which rocks are broken down at the Earth's surface?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "The principle of isostasy explains:",
     "choices": {
-      "a": "deposition",
-      "b": "erosion",
-      "c": "lithification",
-      "d": "weathering"
+      "a": "How continental crust and oceanic crust form",
+      "b": "How the volume of water in the ocean basins is increasing in volume",
+      "c": "Why oceanic crust has a different composition than continental crust",
+      "d": "Why continents have high elevation and ocean basins have low elevation"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q188",
+    "id": "oup-ch9-q188",
     "globalId": 188,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "which of the following affect the rate of weathering?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "The Himalayas are the tallest mountain range on Earth. Many of the peaks are at an elevation greater than 7000 meters. A geologist writes a proposal for funding to drill a continuous core through the crust of the Himalayas. Assuming it is vertical, approximately how long would this core be?",
     "choices": {
-      "a": "the soil type and extent",
-      "b": "the rock type",
-      "c": "the climate",
-      "d": "all of these affect weathering rates"
+      "a": "8 kilometers",
+      "b": "7000 meters",
+      "c": "80 kilometers",
+      "d": "700 kilometers"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q189",
+    "id": "oup-ch9-q189",
     "globalId": 189,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Soil is composed of ____________ .",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "Which best describes the topography of the Moho?",
     "choices": {
-      "a": "organic matter produced by organisms",
-      "b": "fragments of bedrock",
-      "c": "clay minerals formed by the chemical alteration of bedrock",
-      "d": "all of these"
+      "a": "It is generally flat and featureless.",
+      "b": "It mimics the topography of Earth’s surface.",
+      "c": "It mirrors the topography of Earth’s surface",
+      "d": "It has an apparently random pattern of hills and valleys."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q190",
+    "id": "oup-ch9-q190",
     "globalId": 190,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "In which of he following climates will chemical weathering be most rapid?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "hether a certain region of rock is considered to be part of the lithosphere or part of the asthenosphere is based on:",
     "choices": {
-      "a": "hot and dry",
-      "b": "hot and humid",
-      "c": "cold and dry",
-      "d": "cold and humid"
+      "a": "The depth of the rocks",
+      "b": "The mineralogy of the rocks",
+      "c": "The composition of the rocks",
+      "d": "The physical properties of the rocks"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q191",
+    "id": "oup-ch9-q191",
     "globalId": 191,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following statements about weathering is false?",
+    "source": "oup",
+    "chapter": "Chapter 9",
+    "chapterNum": 9,
+    "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
+    "text": "The Mohole Project (1958–1966) was a failed attempt to drill a hole all the way down to the Mohorovicic Discontinuity, or Moho. What would a core down to the Moho have included?",
     "choices": {
-      "a": "rocks of different compositions weather at different rates",
-      "b": "heat and heavy rainfall increase the rate of chemical weathering",
-      "c": "the presence of soil slows down the weathering of the underlying bedrock",
-      "d": "the longer a rock is exposed at the surface, the more weathered it becomes"
+      "a": "An entire section of crust, all the way down to the crust–mantle boundary.",
+      "b": "An entire section of lithosphere, all the way down to the asthenosphere–lithosphere boundary",
+      "c": "An entire section of both crust and mantle, all the way down to the core–mantle boundary",
+      "d": "An entire section of crust, mantle, and outer core, all the way down to the boundary between the inner and outer core"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Plate Tectonics & Plate-Driving Mechanisms",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Plate Tectonics & Plate-Driving Mechanisms",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q192",
+    "id": "oup-ch10-q192",
     "globalId": 192,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following minerals has a low solubility and therefore is least susceptible to chemical weathering at the Earth's surface?",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "Which statement regarding the supercontinent cycle is most accurate?",
     "choices": {
-      "a": "calcite",
-      "b": "plagioclase",
-      "c": "quartz",
-      "d": "olivine"
+      "a": "Rifting in one area is associated with collision in another.",
+      "b": "Earth as a whole goes through episodes of rifting followed by episodes of collision.",
+      "c": "At any given point in time, tectonic activity is concentrated in a small region on Earth’s surface.",
+      "d": "Throughout geologic history, tectonic activity has been roughly evenly distributed across Earth’s surface."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q193",
+    "id": "oup-ch10-q193",
     "globalId": 193,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "The rate of chemical weathering is increased by acids. The most common natural acid on the Earth's surface is ________ .",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "Geologists think that plate tectonics has been operating on Earth:",
     "choices": {
-      "a": "nitric",
-      "b": "hydrochloric",
-      "c": "carbonic",
-      "d": "sulfuric"
+      "a": "For the past 4.6 billion years",
+      "b": "Only over the past 200 million years",
+      "c": "At least for the past 2.5 billion years ago",
+      "d": "Episodically, every 100–300 million years"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q194",
+    "id": "oup-ch10-q194",
     "globalId": 194,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Carbon dioxide makes up about _______ of the Earth's atmosphere.",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "The site of a continental collision is generally characterized by:",
     "choices": {
-      "a": "0.l%",
-      "b": "1%",
-      "c": "10%",
-      "d": "25%"
+      "a": "A single broad, smooth, planar suture of rock from one continent to rock of another continent",
+      "b": "A zone of deformation that is only recognizable by examining thin sections of the rock under a microscope",
+      "c": "A fairly narrow zone of folds whose axes are all oriented roughly 90 degrees to the direction of relative plate motion",
+      "d": "A wide, complex zone of faulted and folded rock formations with evidence for compression, extension, and translation"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q195",
+    "id": "oup-ch10-q195",
     "globalId": 195,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Carbonic acid, the primary agent of chemical weathering is produced by ________ .",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "The Josephine Ophiolite is Jurassic formation of gabbros, peridotites, sheeted dikes, and pillow lavas in coastal northern California and southern Oregon. This formation is interpreted as evidence for:",
     "choices": {
-      "a": "carbon dioxide dissolving in rainwater",
-      "b": "plant roots",
-      "c": "bacteria that feed on plant and animal remains",
-      "d": "all of these"
+      "a": "Episodic mountain building",
+      "b": "Basaltic magmatism beneath the continental crust",
+      "c": "Strike-slip motion along an ancient transform fault",
+      "d": "Uplift of pieces of oceanic crust during subduction or collision"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q196",
+    "id": "oup-ch10-q196",
     "globalId": 196,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of these is least likely to form a clay mineral during weathering?",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "The ancient mountain belts that make up the core of North America primarily formed as a direct result of:",
     "choices": {
-      "a": "feldspar",
-      "b": "quartz",
-      "c": "amphibole",
-      "d": "olivine"
+      "a": "Seafloor spreading",
+      "b": "Subduction and collision",
+      "c": "Comet and asteroid impacts",
+      "d": "Mantle upwelling at hotspots"
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q197",
+    "id": "oup-ch10-q197",
     "globalId": 197,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Caves are most lively to form in which of the following rock types?",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "Deformation and fold mountain building can occur along transform faults where:",
     "choices": {
-      "a": "granite",
-      "b": "limestone",
-      "c": "basalt",
-      "d": "sandstone"
+      "a": "Motion along the fault is very slow",
+      "b": "Motion along the fault is relatively fast",
+      "c": "The fault curves, causing the rocks on either side to extend",
+      "d": "The fault curves, causing the rocks on either side of the fault to compress"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q198",
+    "id": "oup-ch10-q198",
     "globalId": 198,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the processes is not an example of chemical weathering?",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "Which statement about the relationship between plate tectonics and mountain building is true?",
     "choices": {
-      "a": "dissolution of calcite",
-      "b": "breakdown of feldspar to form clay",
-      "c": "splitting of a rock along a fracture",
-      "d": "rusting of a nail"
+      "a": "Mountains are found only along active plate boundaries.",
+      "b": "Plate boundaries tend to form along ancient mountain belts.",
+      "c": "Different types of mountains form along different types of plate boundaries.",
+      "d": "Mountains that form along plate boundaries are all very similar to each other."
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q199",
+    "id": "oup-ch10-q199",
     "globalId": 199,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "As a rock breaks into smaller pieces, the surface area to volume ratio ______ .",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "A geologist identifies an angular unconformity in a rock formation. What is the unconformity evidence for:",
     "choices": {
-      "a": "increases",
-      "b": "decreases",
-      "c": "stays the same",
-      "d": "can increase or decrease depending on the size of the pieces"
+      "a": "Deformation followed by intrusion",
+      "b": "Deformation followed by uplift, erosion, and deposition",
+      "c": "Two phases of deposition separated by a major gap in time",
+      "d": "Two phases of deformation separated by a major gap in time"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q200",
+    "id": "oup-ch10-q200",
     "globalId": 200,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "The physical and chemical weathering of a granite will produce ________ .",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "Why might it be difficult for a geologist to measure the hinge of the fold shown in the picture?",
     "choices": {
-      "a": "ions dissolved in rainwater and soil water",
-      "b": "mineral fragments and granite fragments",
-      "c": "clays and iron oxides",
-      "d": "all of these"
+      "a": "It plunges back into the rock formation, so it is not exposed.",
+      "b": "The fold is on its side, which means that it does not have a hinge.",
+      "c": "It is difficult to tell which layer is the youngest and which layer is the oldest.",
+      "d": "It has two hinges, one above the axial plane and one below, and each hinge is oriented differently."
     },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Weathering",
+    "correctAnswer": "a",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch10/q11.jpg",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q201",
+    "id": "oup-ch10-q201",
     "globalId": 201,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "The deep red color of solis found in Georgia and other warm, humid regions in caused by ______ .",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "Which part of the fold shown in the picture is the hinge?",
     "choices": {
-      "a": "reduced iron oxides",
-      "b": "oxidized iron oxides",
-      "c": "quartz",
-      "d": "feldspar"
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
     },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Weathering",
+    "correctAnswer": "d",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch10/q10.jpg",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q202",
+    "id": "oup-ch10-q202",
     "globalId": 202,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following factors would increase the rate of weathering?",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "Folds form primarily in which tectonic environment?",
     "choices": {
-      "a": "increasing rainfall",
-      "b": "increasing temperature",
-      "c": "increasing organic activity",
-      "d": "all of these"
+      "a": "Passive",
+      "b": "Extensional",
+      "c": "Gravitational",
+      "d": "Compressional"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q203",
+    "id": "oup-ch10-q203",
     "globalId": 203,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "The major source of aluminum metal, _______, is a clay-rich ore composed of aluminum hydroxide.",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "The photograph shows small folds, or crenulations, in phyllite. These folds are an example of:",
     "choices": {
-      "a": "hematite",
-      "b": "bauxite",
-      "c": "kaolinite",
-      "d": "montmorillonite"
+      "a": "Brittle deformation",
+      "b": "Plastic deformation",
+      "c": "Elastic deformation",
+      "d": "Metallic deformation"
     },
     "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Weathering",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch10/q8.jpg",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q204",
+    "id": "oup-ch10-q204",
     "globalId": 204,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Fe3+ refers to ________.",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "How are detachment faults and thrust faults similar?",
     "choices": {
-      "a": "iron metal",
-      "b": "ferrous iron",
-      "c": "ferric iron",
-      "d": "hematite"
+      "a": "Both are high-angle faults that occur near the surface.",
+      "b": "Both are low-angle faults that occur at depth in the crust.",
+      "c": "Both are characteristic of extensional tectonic environments.",
+      "d": "Both are characteristic of compressional tectonic environments."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q205",
+    "id": "oup-ch10-q205",
     "globalId": 205,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following minerals is most stable at the Earth's surface?",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "A dip-slip fault is defined as a fault in which:",
     "choices": {
-      "a": "hematite",
-      "b": "mica",
-      "c": "olivine",
-      "d": "feldspar"
+      "a": "Motion has tilted the block of rock sideways",
+      "b": "Motion has dropped the block of rock downward",
+      "c": "Motion has occurred generally parallel to the horizontal orientation of the fault plane",
+      "d": "Motion has occurred generally perpendicular to the horizontal orientation of the fault plane"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q206",
+    "id": "oup-ch10-q206",
     "globalId": 206,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "A substance that releases hydrogen ions (H+) to a solution is called a(n) ______.",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "A student is trying to figure out if a particular fracture is a joint or a fault. What question should she ask herself?",
     "choices": {
-      "a": "oxidizer",
-      "b": "reducer",
-      "c": "acid",
-      "d": "pedalfer"
+      "a": "How long is the fracture?",
+      "b": "How wide is the fracture?",
+      "c": "What type of rock is the fracture in?",
+      "d": "Is there evidence of motion along the fracture?"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q207",
+    "id": "oup-ch10-q207",
     "globalId": 207,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "What is the term geologists use for the layer of loose, heterogeneous weathered material lying on top of the bedrock?",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "The strike of a layer of tilted sedimentary rock is:",
     "choices": {
-      "a": "humus",
-      "b": "laterite",
-      "c": "regolith",
-      "d": "soil"
+      "a": "The orientation of the layer when it was deposited",
+      "b": "The direction that water would flow down the layer",
+      "c": "The orientation of a horizontal line on the surface of the layer",
+      "d": "The direction of the line where the layer intersects Earth’s surface"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q208",
+    "id": "oup-ch10-q208",
     "globalId": 208,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following farming practices helps to prevent the erosion of topsoil?",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "Which type of strain is associated with confining pressure?",
     "choices": {
-      "a": "plowing a field perpendicular to the contour lines",
-      "b": "plowing a field parallel to the contour lines",
-      "c": "plowing a field in the direction that the water drains",
-      "d": "none of these will help prevent soil erosion."
+      "a": "Rotation",
+      "b": "Thinning",
+      "c": "Change in shape",
+      "d": "Decrease in volume"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q209",
+    "id": "oup-ch10-q209",
     "globalId": 209,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "What is the name for soils that are rich in calcium",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "Which statement accurately describes the relationship between stress and strain?",
     "choices": {
-      "a": "laterites",
-      "b": "evaporites",
-      "c": "pedocals",
-      "d": "pedalfers"
+      "a": "Stress causes strain.",
+      "b": "Strain causes stress.",
+      "c": "Stress and strain both refer to the force applied to a rock.",
+      "d": "Stress and strain both refer to the permanent deformation of a rock."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q210",
+    "id": "oup-ch10-q210",
     "globalId": 210,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "The physical and chemical weathering of a granite will produce __________.",
+    "source": "oup",
+    "chapter": "Chapter 10",
+    "chapterNum": 10,
+    "chapterTitle": "Mountain Building & Crustal Deformation",
+    "text": "We can tell that many layers of rock on Earth have been deformed because:",
     "choices": {
-      "a": "ions dissolved in rainwater and soil water",
-      "b": "mineral fragments and granite fragments",
-      "c": "clay minerals and iron oxides",
-      "d": "all of these"
+      "a": "They form in horizontal layers but are now folded",
+      "b": "We can see rocks being deformed on other planets",
+      "c": "We can watch them being deformed as continents collide",
+      "d": "Earth is smaller now than when it was formed, so the rocks must be deformed"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Mountain Building & Crustal Deformation",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Mountain Building & Crustal Deformation",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q211",
+    "id": "oup-ch11-q211",
     "globalId": 211,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "In the atmosphere, carbonic acid forms from the reaction of carbon dioxide and ______.",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Which method have scientists used to determine that most minerals that are stable on Earth’s surface would not be stable within the mantle?",
     "choices": {
-      "a": "fossil fuels",
-      "b": "nitrogen",
-      "c": "oxygen",
-      "d": "water"
+      "a": "Direct observation",
+      "b": "Seismological imaging",
+      "c": "Laboratory experiments",
+      "d": "Earthquake shadow zones"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q212",
+    "id": "oup-ch11-q212",
     "globalId": 212,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following minerals found in a granite is not altered by chemical weathering?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Which statement correctly describes Earth’s interior?",
     "choices": {
-      "a": "biotite",
-      "b": "feldspar",
-      "c": "magnetite",
-      "d": "quartz"
+      "a": "It is uniform in density.",
+      "b": "It increases in density with depth.",
+      "c": "It decreases in density with depth.",
+      "d": "Its density varies randomly with depth."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q213",
+    "id": "oup-ch11-q213",
     "globalId": 213,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following minerals would be most likely to form a clay mineral during chemical weathering?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Which statement correctly describes the diagram?",
     "choices": {
-      "a": "iron oxide",
-      "b": "mica",
-      "c": "calcite",
-      "d": "quartz"
+      "a": "Point 1 is the focus, Point 2 is the epicenter, and Line 3 is the fault.",
+      "b": "Point 1 is the epicenter, Point 2 is the fault, and Line 3 is the focus.",
+      "c": "Point 1 is the epicenter, Point 2 is the focus, and Line 3 is the fault.",
+      "d": "Point 1 is the focus, Point 2 is the fault, and Line 3 is the epicenter."
     },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Weathering",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch11/q3.jpg",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q214",
+    "id": "oup-ch11-q214",
     "globalId": 214,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following factors would increase the chemical weathering rate?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "The major current limitation of using seismic tomography to study mantle convection is:",
     "choices": {
-      "a": "increasing rainfall",
-      "b": "increasing temperature",
-      "c": "increasing organic activity",
-      "d": "all of these"
+      "a": "The rapid speed of mantle convection",
+      "b": "The high propagation speed of S waves",
+      "c": "The low resolution of the images produced",
+      "d": "The refraction of P waves through melted rock"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q215",
+    "id": "oup-ch11-q215",
     "globalId": 215,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following conditions promotes slow chemical weathering?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Why are earthquakes less common in seismic gaps?",
     "choices": {
-      "a": "cold temperatures",
-      "b": "thick soils",
-      "c": "high rainfall",
-      "d": "fracturing"
+      "a": "The rock on either side of the fault in a seismic gap is locked and stores rather than releases energy.",
+      "b": "The rock on either side of the fault is softer than the surrounding rock and flows as strain builds up in it.",
+      "c": "Seismic gaps are areas that experienced many earthquakes in the past, weakening the fault and preventing future earthquakes.",
+      "d": "Seismic gaps are surrounded by thicker lithosphere, preventing the buildup of strain and the earthquakes that result."
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q216",
+    "id": "oup-ch11-q216",
     "globalId": 216,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Which of the following human activities has resulted in increased rates of weathering?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "According to elastic rebound theory, earthquakes occur when:",
     "choices": {
-      "a": "the release of sulfur and nitrogen oxides that cause acid rain",
-      "b": "the physical disintegration of rocks during construction and mining",
-      "c": "both A and B",
-      "d": "neither A nor B"
+      "a": "Stress is dissipated through tectonic plate motion",
+      "b": "Strain on a fault is released abruptly as the fault ruptures",
+      "c": "Convection in the mantle causes a transform fault to form",
+      "d": "A seismic gap builds up on a fault due to motion at an epicenter"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q217",
+    "id": "oup-ch11-q217",
     "globalId": 217,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "One expects talus cones to be most abundant in areas:",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Most of the damage from earthquakes is caused by:",
     "choices": {
-      "a": "where abundant rainfall is available to dissolve limestone",
-      "b": "in tropical areas where thick soil and abundant vegetation occurs",
-      "c": "in high mountains that have many days of sub-freezing temperatures",
-      "d": "none of the above"
+      "a": "Surface waves",
+      "b": "Microseismic waves",
+      "c": "Primary body waves",
+      "d": "Secondary body waves"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q218",
+    "id": "oup-ch11-q218",
     "globalId": 218,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Exfoliation domes form from:",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "The diagram shows the effects of a seismic wave on the rock it travels through. Which type of seismic wave is shown? (Source: US Geological Survey.)",
     "choices": {
-      "a": "frost wedging",
-      "b": "pressure release",
-      "c": "hydrolysis",
-      "d": "root wedging"
+      "a": "Surface wave",
+      "b": "S wave",
+      "c": "Transverse wave",
+      "d": "P wave"
     },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Weathering",
+    "correctAnswer": "d",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch11/q7.jpg",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch5-q219",
+    "id": "oup-ch11-q219",
     "globalId": 219,
-    "source": "oxford",
-    "chapter": "Chapter 5",
-    "chapterNum": 5,
-    "chapterTitle": "Weathering",
-    "text": "Laterite solis:",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "The table shows the densities of several common crust and mantle rocks. Through which type of rock would you expect seismic wave to travel fastest?\n\nRock | Average Density (g/cm3)\nGranite | 2.7\nBasalt | 2.8\nGabbro | 3.0\nRhyolite | 2.5",
     "choices": {
-      "a": "are red in color",
-      "b": "are formed in tropical climates",
-      "c": "often contain high concentrations of aluminum",
-      "d": "all of the above"
+      "a": "Granite",
+      "b": "Basalt",
+      "c": "Gabbro",
+      "d": "Rhyolite"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Weathering",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Weathering",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q220",
+    "id": "oup-ch11-q220",
     "globalId": 220,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Shale refers to a rock formed from:",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Compared to an earthquake with a Richter magnitude of 4.0, an earthquake with a Richter magnitude of 8.0:",
     "choices": {
-      "a": "sand sized material",
-      "b": "plant remains",
-      "c": "clay minerals",
-      "d": "carbonate"
+      "a": "Releases twice as much energy",
+      "b": "Creates 40 times as much damage",
+      "c": "Generates twice as many P and S waves",
+      "d": "Produces 100,000 times as much ground motion"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q221",
+    "id": "oup-ch11-q221",
     "globalId": 221,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which one of the following is a biochemical sedimentary rock?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "An earthquake occurs in San Francisco. Seismic waves from this earthquake are detected at a variety of seismographs worldwide. Information from which recording station would probably provide the most information about Earth’s interior?",
     "choices": {
-      "a": "sand sized material",
-      "b": "coal",
-      "c": "shale",
-      "d": "conglomerate"
+      "a": "Beijing",
+      "b": "Hawaii",
+      "c": "New York",
+      "d": "Sacramento"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q222",
+    "id": "oup-ch11-q222",
     "globalId": 222,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "A clastic rock is:",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Why do earthquake waves travel faster through the deep mantle than through the lithosphere?",
     "choices": {
-      "a": "a rock formed from the cementation of transported grains",
-      "b": "a rock formed from evaporation of sea water",
-      "c": "transformed by heat into limestone",
-      "d": "transformed by pressure into limestone"
+      "a": "The deep mantle is hotter than the lithosphere.",
+      "b": "The deep mantle is denser than the lithosphere.",
+      "c": "The deep mantle is more plastic than the lithosphere.",
+      "d": "The deep mantle is more silica-rich than the lithosphere."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q223",
+    "id": "oup-ch11-q223",
     "globalId": 223,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which one of the following features is NOT associated with sedimentary rocks?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Seismic wave reflection has helped scientists identify:",
     "choices": {
-      "a": "bedding",
-      "b": "foliation",
-      "c": "fossils",
-      "d": "all may be associated with sedimentary rocks"
+      "a": "The positions of mantle plumes",
+      "b": "The liquid nature of the outer core",
+      "c": "The chemical composition of the mantle",
+      "d": "The boundaries between the crust, mantle, and core"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q224",
+    "id": "oup-ch11-q224",
     "globalId": 224,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following types of sediments are most abundant?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "The general compositions, respectively, of the upper continental crust, lower continental crust, and ocean crust are:",
     "choices": {
-      "a": "coarse clastics",
-      "b": "fine clastics",
-      "c": "chemical",
-      "d": "biochemical"
+      "a": "Granite, diorite, basalt",
+      "b": "Basalt, diorite, rhyolite",
+      "c": "Gneiss, diabase, rhyolite",
+      "d": "Granite, gabbro, diabase"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q225",
+    "id": "oup-ch11-q225",
     "globalId": 225,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "The tendency for variations in current velocity to segregate sediments on the basis of particle size is called _____.",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Information about the mantle comes primarily from:",
     "choices": {
-      "a": "lilthification",
-      "b": "compaction",
-      "c": "metamorphism",
-      "d": "sorting"
+      "a": "Drilling and direct sample analysis",
+      "b": "Seismic wave velocities and mineral experiments",
+      "c": "Submarine expeditions and earthquake generation",
+      "d": "Seismic wave reflection and direct sample evaluation"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q226",
+    "id": "oup-ch11-q226",
     "globalId": 226,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following types of currents can transport sand grains?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "How do scientists know that the outer core is not pure iron?",
     "choices": {
-      "a": "rivers",
-      "b": "wind",
-      "c": "ocean waves",
-      "d": "all of these"
+      "a": "It flows too quickly to be pure iron.",
+      "b": "Its density is too low to be pure iron.",
+      "c": "Its temperature is too high to be pure iron.",
+      "d": "It conducts electrical current too well to be pure iron."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q227",
+    "id": "oup-ch11-q227",
     "globalId": 227,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "In which of the following sedimentary environments would you expect the sand deposits to be poorly sorted?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Seismic tomography suggests that Earth’s mantle exhibits:",
     "choices": {
-      "a": "alluvial",
-      "b": "beach",
-      "c": "desert",
-      "d": "glacial"
+      "a": "Mantle plume convection",
+      "b": "Whole mantle convection",
+      "c": "Layered mantle convection",
+      "d": "A combination of different convection methods"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q228",
+    "id": "oup-ch11-q228",
     "globalId": 228,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following environments is an example of a shoreline/transitional environment?",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Which is thought to change the composition of the outer core enough to produce convection?",
     "choices": {
-      "a": "alluvial",
-      "b": "continental shelf",
-      "c": "deltaic",
-      "d": "organic reef"
+      "a": "Solidification of molten iron",
+      "b": "Decay of radioactive elements",
+      "c": "Chemical reactions with mantle rock",
+      "d": "Conduction of heat from the inner core"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q229",
+    "id": "oup-ch11-q229",
     "globalId": 229,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Most shells of marine organisms are composed of ________ .",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Which is the best description of seismic tomography?",
     "choices": {
-      "a": "silica",
-      "b": "calcium carbonate",
-      "c": "calcium phosphate",
-      "d": "calcium sulfate"
+      "a": "The use of shadow zones to infer the structure of the mantle and core",
+      "b": "Production of simulated earthquakes to produce changes in Earth’s outer core",
+      "c": "The use of seismic ray paths to create three-dimensional images of Earth’s interior",
+      "d": "Computer-based modeling of temperature and composition differences in the crust"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q230",
+    "id": "oup-ch11-q230",
     "globalId": 230,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Coarse clastic material can be transported into a deep marine environment by ______ .",
+    "source": "oup",
+    "chapter": "Chapter 11",
+    "chapterNum": 11,
+    "chapterTitle": "Earthquakes & Earth's Interior",
+    "text": "Mantle tomography shows the presence of what are thought to be the remains of subducted slabs at the core–mantle boundary. These remains are known as:",
     "choices": {
-      "a": "rivers",
-      "b": "wind",
-      "c": "turbidity currents",
-      "d": "all of these"
+      "a": "Seismic gaps",
+      "b": "Mantle plumes",
+      "c": "Regions of partial melt",
+      "d": "Zones of low seismic velocity"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Earthquakes & Earth's Interior",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Earthquakes & Earth's Interior",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q231",
+    "id": "oup-ch12-q231",
     "globalId": 231,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Marine sediments deposited in water depths greater than about 12,000 feet usually lack ________ .",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "What force is primarily responsible for mass wasting?",
     "choices": {
-      "a": "carbonate shells",
-      "b": "silica-rich shells",
-      "c": "fine grained material transported by the wind",
-      "d": "all of these"
+      "a": "Wind",
+      "b": "Gravity",
+      "c": "Running water",
+      "d": "Thermal convection"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q232",
+    "id": "oup-ch12-q232",
     "globalId": 232,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "In which of the following environments would you expect to find oscillation ripples?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "A student notices that sand castles made with wet quartz sand are more stable than those made with dry quartz sand. He infers that the more water is added, the more stable the castle will be. Which is the most accurate evaluation of his inference?",
     "choices": {
-      "a": "alluvial",
-      "b": "beach",
-      "c": "deep-sea",
-      "d": "desert"
+      "a": "He is incorrect because too much water will dissolve the quartz.",
+      "b": "He is correct because water reacts with the quartz and turns it into clay.",
+      "c": "He is incorrect because once the sand is saturated, the water will push apart the grains.",
+      "d": "He is correct because adding more water increases the surface tension between the sand grains."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q233",
+    "id": "oup-ch12-q233",
     "globalId": 233,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following processes is not an important cause of subsidence during the development of a sedimentary basin?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Which is an example of mass wasting?",
     "choices": {
-      "a": "cooling and contraction of the crust",
-      "b": "deposition of sediments",
-      "c": "erosion of sediments",
-      "d": "tectonic down faulting"
+      "a": "A volcano erupts on Io, covering a large region with sulfur.",
+      "b": "A glacier slowly erodes a valley, bulldozing rocks ahead of it.",
+      "c": "A massive meteorite crashes and explodes on the Moon, leaving a large crater.",
+      "d": "A wall of a canyon on Mars collapses, leaving an apron of debris on the valley floor."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q234",
+    "id": "oup-ch12-q234",
     "globalId": 234,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following lists is written in order of decreasing particle size?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Where is mass wasting is most likely to occur?",
     "choices": {
-      "a": "sandstone, siltstone, conglomerate",
-      "b": "sandstone, conglomerate, siltstone",
-      "c": "conglomerate, sandstone, siltstone",
-      "d": "siltstone, sandstone, conglomerate"
+      "a": "On the Great Plains",
+      "b": "In the Rocky Mountains",
+      "c": "In the Everglades swamp",
+      "d": "On the Atlantic abyssal plain"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q235",
+    "id": "oup-ch12-q235",
     "globalId": 235,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "What is the difference between a breccia and a conglomerate?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Earth’s surface is not completely flat because Earth materials have an inherent ability to resist sliding downhill. This is known as:",
     "choices": {
-      "a": "breccias are coarse grained and conglomerates are fine grained",
-      "b": "conglomerates are coarse grained and breccias are fine grained",
-      "c": "breccias have rounded fragments and conglomerates have angular fragments",
-      "d": "breccias have angular fragments and conglomerates have rounded fragments"
+      "a": "Repose",
+      "b": "Solifluction",
+      "c": "Shear strength",
+      "d": "Gravitational stability"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q236",
+    "id": "oup-ch12-q236",
     "globalId": 236,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "A feldspar-rich sandstone is called a(n) ________ .",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Which statement about the angle of repose is correct?",
     "choices": {
-      "a": "arkose",
-      "b": "litharenite",
-      "c": "quartz arenite",
-      "d": "shale"
+      "a": "The angle of repose is about 30 degrees.",
+      "b": "The angle of repose is the minimum angle at which a slope is stable.",
+      "c": "The angle of repose is used to refer to bedrock or unconsolidated sediment.",
+      "d": "The angle of repose varies depending on the grain size and shape of the sediment."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q237",
+    "id": "oup-ch12-q237",
     "globalId": 237,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "A sandstone with abundant rock fragments and clay minerals is a(n) ______ .",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "A road is constructed north-south through a hill of layered sedimentary rock. After a few years, geologists notice that the rock face on the west side of the road is still clean and vertical, while the rock face on the east side of the road has experienced significant mass wasting. Which is the most likely cause of this difference?",
     "choices": {
-      "a": "arkose",
-      "b": "litharenite",
-      "c": "quartz arenite",
-      "d": "shale"
+      "a": "The layers on both sides of the road dip toward the east.",
+      "b": "The layers on both sides of the road dip toward the west.",
+      "c": "The layers on the west side dip toward the west, while those on the east side dip toward the east.",
+      "d": "The layers on the west side dip toward the east, while those on the east side dip toward the west."
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q238",
+    "id": "oup-ch12-q238",
     "globalId": 238,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following rocks is deposited only by non-biological, chemical precipitation ?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "The photographs show an area burned by the Rim Fire in the Sierra Nevada Mountains of California in 2013 and a warning sign for debris flows in the area. Why are debris flows more common in the burned area than in surrounding areas? (Photo source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "halite",
-      "b": "limestone",
-      "c": "chert arenite",
-      "d": "coal"
+      "a": "The fire destroyed vegetation, making the slopes less stable.",
+      "b": "The fire made the slopes steeper, making them more likely to collapse.",
+      "c": "The fire changed the microclimate, making heavy downpours more common.",
+      "d": "The fire weakened the faults in the region, making earthquake-induced landslides more likely."
     },
     "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch12/q8.jpg",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q239",
+    "id": "oup-ch12-q239",
     "globalId": 239,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "The most common lithification process for fine clastics is _______ .",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "The photograph shows mass wasting along the south coast of England. This type of mass wasting is best described as: (Photo source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "cementation",
-      "b": "compaction"
+      "a": "Creep",
+      "b": "Slump",
+      "c": "Rockfall",
+      "d": "Debris flow"
     },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch12/q9.jpg",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q240",
+    "id": "oup-ch12-q240",
     "globalId": 240,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following lists is written in the order of increasing temperature ?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "A geologist is writing a storyboard for an animation that shows creep. (A storyboard tells an animator what the animation should show.) Which would be the most accurate instructions for the geologist to give?",
     "choices": {
-      "a": "sedimentation, metamorphism, diagenesis",
-      "b": "diagenesis, sedimentation, metamorphism",
-      "c": "sedimentation, diagenesis, metamorphism",
-      "d": "metamorphism, diagenesis, sedimentation"
+      "a": "Show a layer of sediment slip and rotate and then slide downhill.",
+      "b": "Show sediment becoming saturated with water and then pulled downhill suddenly by gravity.",
+      "c": "Show an earthquake fracturing a rock face and then fragments of the rock falling to the ground.",
+      "d": "Show particles being lifted perpendicular to the surface and then set down vertically such that there is a small net motion downslope."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q241",
+    "id": "oup-ch12-q241",
     "globalId": 241,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following processes does not occur during diagenesis?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Which category of mass wasting would you NOT expect to observe on both the Moon and Mars?",
     "choices": {
-      "a": "compaction",
-      "b": "cementation",
-      "c": "lithification",
-      "d": "metamorphism"
+      "a": "Slumps",
+      "b": "Rock falls",
+      "c": "Rock slides",
+      "d": "Debris flows"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q242",
+    "id": "oup-ch12-q242",
     "globalId": 242,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "The term \"aeolian\" refers to transport and deposition by:",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "A developer has completed hazard assessments on several potential sites for a new housing development. Which site is LEASTrisky in terms of mass wasting threats?\n\n | Hazard Threat\nSite | Rock Falls and Rock Slides | Slumps and Debris Flows | Earthflows, Creep, and    Solifluction\nA | Intermediate | Low | Low\nB | Low | Low | High\nC | Low | High | Low\nD | High | Low | Low",
     "choices": {
-      "a": "the wind",
-      "b": "streams",
-      "c": "ocean waves",
-      "d": "pocket gophers"
+      "a": "Site A",
+      "b": "Site B",
+      "c": "Site C",
+      "d": "Site D"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q243",
+    "id": "oup-ch12-q243",
     "globalId": 243,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "With time, sediment transported by glaciers ___________.",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "A geologist collects some samples of sediment and bedrock to help evaluate the mass wasting threat of a particular hillside. Which property would be LEAST useful for her evaluation?",
     "choices": {
-      "a": "becomes rounded",
-      "b": "becomes smaller",
-      "c": "becomes rounded and smaller",
-      "d": "none of these"
+      "a": "Strength",
+      "b": "Cohesion",
+      "c": "Hardness",
+      "d": "Permeability"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q244",
+    "id": "oup-ch12-q244",
     "globalId": 244,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "WIth time, sediment transported by a fluvial system ___________.",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "A geologist is setting up a station to monitor an area for landslide hazards. Which piece of equipment would probably be LEAST useful for predicting a landslide?",
     "choices": {
-      "a": "becomes rounded",
-      "b": "becomes smaller",
-      "c": "becomes rounded and smaller",
-      "d": "none of these"
+      "a": "A rain gauge to measure rainfall",
+      "b": "A thermometer to measure air temperature",
+      "c": "A seismometer to measure earthquake activity",
+      "d": "A tensiometer to measure water pressure in the pores of the soil"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q245",
+    "id": "oup-ch12-q245",
     "globalId": 245,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the sand grains above has been transported the furthest?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Consider the preliminary hazard map of the Colby area of Southern California, which was burned by a forest fire in 2014. The map is used to show the relative probability of mass wasting in different parts of the area. Which most likely explains the difference between the areas in red and the areas in yellow? (Source: US Geological Survey.)",
     "choices": {
-      "a": "1",
-      "b": "2",
-      "c": "3",
-      "d": "4"
+      "a": "The areas in red consist of steeper slopes and looser rocks than the areas in yellow.",
+      "b": "The areas in yellow consist of steeper slopes and looser rocks than the areas in red.",
+      "c": "The areas in red are more likely to experience heavy rainfall than the areas in yellow.",
+      "d": "The areas in yellow are more likely to experience heavy rainfall than the areas in red."
     },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q7.gif",
-    "category": "Sedimentary Rocks",
+    "correctAnswer": "a",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch12/q15.jpg",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q246",
+    "id": "oup-ch12-q246",
     "globalId": 246,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Coal is formed from ______.",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Mass wasting can be prevented by which measures?",
     "choices": {
-      "a": "natural gas",
-      "b": "oil",
-      "c": "limestone",
-      "d": "preserved plant material"
+      "a": "Increasing the slope gradient or increasing the slope water content",
+      "b": "Decreasing the slope gradient or decreasing the slope water content",
+      "c": "Increasing the slope gradient while decreasing the slope water content",
+      "d": "Decreasing the slope gradient while increasing the slope water content"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q247",
+    "id": "oup-ch12-q247",
     "globalId": 247,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "In which of the following sedimentary environments would you least expect to find gravel?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Given that Earth is more than 4.5 billion years old, why haven’t all of the steep slopes become gentler through mass wasting?",
     "choices": {
-      "a": "active margin beach",
-      "b": "alluvial fans",
-      "c": "glacial",
-      "d": "deep marine"
+      "a": "Mass wasting is not a very common process.",
+      "b": "Mass wasting processes act extremely slowly.",
+      "c": "Plate tectonics is continuously building new landforms.",
+      "d": "When Earth formed, it had even more steep slopes than it does now."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q248",
+    "id": "oup-ch12-q248",
     "globalId": 248,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following sedimentary environments is characterized by sand, gravel and mud?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Where is mass wasting most common?",
     "choices": {
-      "a": "active margin beach",
-      "b": "alluvial fans",
-      "c": "glacial",
-      "d": "deep marine"
+      "a": "Wide river valleys",
+      "b": "Passive continental margins",
+      "c": "Sites of ancient impact craters",
+      "d": "Regions that are or were tectonically active"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q249",
+    "id": "oup-ch12-q249",
     "globalId": 249,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following sedimentary environments is dominated by waves and tidal currents?",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "Mass wasting is most common along convergent boundaries because of their:",
     "choices": {
-      "a": "glacial",
-      "b": "alluvial fans",
-      "c": "deltaic",
-      "d": "deep marine"
+      "a": "Light vegetation and heavy rainfall",
+      "b": "Dry climate and frequent forest fires",
+      "c": "Rugged topography and high seismicity",
+      "d": "Unconsolidated sediments and large groundwater reservoirs"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q250",
+    "id": "oup-ch12-q250",
     "globalId": 250,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Siliceous environments, named for the silica-rich shells deposited in them, occur ________.",
+    "source": "oup",
+    "chapter": "Chapter 12",
+    "chapterNum": 12,
+    "chapterTitle": "Mass Wasting: Downslope Movement",
+    "text": "How are plate boundaries and mass wasting related?",
     "choices": {
-      "a": "in an evaporite environment",
-      "b": "in a swamp environment",
-      "c": "in a reef environment",
-      "d": "in a deep-sea environment"
+      "a": "Mass wasting occurs only along plate boundaries.",
+      "b": "Mass wasting contributes to motion at plate boundaries.",
+      "c": "The presence of mass wasting is used to define plate boundaries.",
+      "d": "Motion along plate boundaries creates landforms that are susceptible to mass wasting."
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Mass Wasting: Downslope Movement",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Mass Wasting: Downslope Movement",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q251",
+    "id": "oup-ch13-q251",
     "globalId": 251,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "In the cross section of a sand dune given above, the wind was blowing?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which is classified as running water?",
     "choices": {
-      "a": "<-------",
-      "b": "-------->",
-      "c": "<------->",
-      "d": "cannot determine direction from information given."
+      "a": "Water moving in ocean currents",
+      "b": "Water droplets in a cloud blown by the wind",
+      "c": "Water flowing on the surface through a channel",
+      "d": "Water flowing through pores in sediment underground"
     },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q72.gif",
-    "category": "Sedimentary Rocks",
+    "correctAnswer": "c",
+    "imageUrl": null,
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q252",
+    "id": "oup-ch13-q252",
     "globalId": 252,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "In the cross section of a sand dune given above, the diagonal layers are called_____.",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "How would the hydrologic cycle change if running water did not play a role in it?",
     "choices": {
-      "a": "cross beds",
-      "b": "graded beds",
-      "c": "point bars",
-      "d": "ripple marks."
+      "a": "Water would no longer infiltrate into the ground.",
+      "b": "The process of transpiration would cease to occur.",
+      "c": "Water would no longer flow from land to the oceans.",
+      "d": "The total volume of water on Earth would gradually decrease."
     },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q72.gif",
-    "category": "Sedimentary Rocks",
+    "correctAnswer": "c",
+    "imageUrl": null,
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q253",
+    "id": "oup-ch13-q253",
     "globalId": 253,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "What is the most abundant biochemical precipitate in the oceans?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which description is NOT typical of a turbulent stream?",
     "choices": {
-      "a": "halite",
-      "b": "limestone",
-      "c": "chert",
-      "d": "coal"
+      "a": "The water flows slowly.",
+      "b": "The stream bed is rough.",
+      "c": "There are many whirlpools and eddies.",
+      "d": "Different parts of the stream mix together."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q254",
+    "id": "oup-ch13-q254",
     "globalId": 254,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Ripples occur:",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Examine the measurements of four different streams provided in the table. Which stream has the steepest gradient?\n\nStream | Headwater Elevation (m) | Distance to Sea Level (m)\nA | 1500 | 300\nB | 450 | 400\nC | 1000 | 100\nD | 750 | 375",
     "choices": {
-      "a": "on sand beneath the waves at beaches",
-      "b": "on underwater sandbars in streams",
-      "c": "on the surface of windswept dunes",
-      "d": "all of these can have ripples"
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q255",
+    "id": "oup-ch13-q255",
     "globalId": 255,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "In which of the following environments would you expect to find symmetrical ripples?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which is the best explanation for why the gradient of a waterfall decreases over time?",
     "choices": {
-      "a": "alluvial",
-      "b": "beach",
-      "c": "deep-sea",
-      "d": "desert"
+      "a": "The base level of the plunge pool erodes and becomes deeper over time.",
+      "b": "The discharge of the stream gradually increases, causing the channel to widen over time.",
+      "c": "The stream is initially graded and becomes ungraded due to changing sediment flow over time.",
+      "d": "The step in the stream becomes eroded by the waterfall, causing it to become less steep over time."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q256",
+    "id": "oup-ch13-q256",
     "globalId": 256,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "What is the approximate temperature of a sediment that is buried to a depth of 3 km?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which is NOT a method by which running water erodes a stream channel?",
     "choices": {
-      "a": "0 degrees C",
-      "b": "100 degrees C",
-      "c": "300 degrees C",
-      "d": "1000 degrees C"
+      "a": "Stream piracy",
+      "b": "Headward erosion",
+      "c": "Removal of rock debris",
+      "d": "Downcutting by abrasion"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q257",
+    "id": "oup-ch13-q257",
     "globalId": 257,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following processes occurs during lithification?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "As shown in the photograph, the Devil’s Gate is a gorge cut through a large granite ridge in Wyoming. The Sweetwater River flowing through the gorge is an example of superposed stream. What does this mean? (Photo source: U.S. National Archives and Records Administration.)",
     "choices": {
-      "a": "recrystallization",
-      "b": "compaction",
-      "c": "cementation",
-      "d": "all may occur"
+      "a": "The Sweetwater River formed as water drained down into the valley along the sides of the gorge.",
+      "b": "The Sweetwater River originally flowed around the base of the ridge and eroded a gorge over time.",
+      "c": "The Sweetwater River originally flowed over the granite, and the ridge was uplifted into the path over time.",
+      "d": "The Sweetwater River originally flowed on top of the ridge and gradually cut down through the granite to form a gorge."
     },
     "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch13/q7.jpg",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q258",
+    "id": "oup-ch13-q258",
     "globalId": 258,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following is an example of a physical, as opposed to a chemical, diagenetic process?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Meandering streams typically form:",
     "choices": {
-      "a": "recrystallization",
-      "b": "compaction",
-      "c": "cementation",
-      "d": "all are physical in nature"
+      "a": "Potholes",
+      "b": "Waterfalls",
+      "c": "Floodplains",
+      "d": "V-shaped valleys"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q259",
+    "id": "oup-ch13-q259",
     "globalId": 259,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "What is the porosity of newly deposited mud?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which situation would produce a rectangular drainage system?",
     "choices": {
-      "a": "less than 5%",
-      "b": "between 5% and 25%",
-      "c": "between 25% and 50%",
-      "d": "> 50%"
+      "a": "The streams in the system flow across a volcano.",
+      "b": "The trunk streams in the system flow through valleys of resistant rock.",
+      "c": "The stream channels in the system are located along bedrock fractures.",
+      "d": "The streams in the system flow over homogenous material that resists erosion uniformly."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q260",
+    "id": "oup-ch13-q260",
     "globalId": 260,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following groups represent the most abundant sedimentary rocks?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "A student observes that a stream is quite cloudy. The student is observing:",
     "choices": {
-      "a": "limestones and dolomites",
-      "b": "sandstones and conglomerates",
-      "c": "cherts and evaporites",
-      "d": "mudstones and shales"
+      "a": "Bed load",
+      "b": "Stream capacity",
+      "c": "Dissolved sediment",
+      "d": "Suspended sediment"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q261",
+    "id": "oup-ch13-q261",
     "globalId": 261,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "What type of sandstone is depicted in the illustration above?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "The velocity of a river increases during a flood. Because of this, the stream is able to transport more:",
     "choices": {
-      "a": "quartz arenite",
-      "b": "litharenite",
-      "c": "arkose",
-      "d": "this is a granite!!"
+      "a": "Suspended sediment only",
+      "b": "Dissolved sediment and bed load only",
+      "c": "Suspended sediment and bed load only",
+      "d": "Suspended sediment, bed load, and dissolved sediment"
     },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q73.gif",
-    "category": "Sedimentary Rocks",
+    "correctAnswer": "c",
+    "imageUrl": null,
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q262",
+    "id": "oup-ch13-q262",
     "globalId": 262,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following sandstone types is most likely to form by the mechanical weathering of a granite?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "The dissolved load in a stream will no longer increase once the stream reaches its maximum:",
     "choices": {
-      "a": "quartz arenite",
-      "b": "litharenite",
-      "c": "arkose",
-      "d": "shale"
+      "a": "Velocity",
+      "b": "Capacity",
+      "c": "Suspension",
+      "d": "Competence"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch6-q263",
+    "id": "oup-ch13-q263",
     "globalId": 263,
-    "source": "oxford",
-    "chapter": "Chapter 6",
-    "chapterNum": 6,
-    "chapterTitle": "Sedimentary Rocks",
-    "text": "Which of the following sandstone types is most likely to form by the mechanical and intense chemical weathering of a granite?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which would inhibit the formation of a delta at the mouth of a river?",
     "choices": {
-      "a": "quartz arenite",
-      "b": "litharenite",
-      "c": "arkose",
-      "d": "shale"
+      "a": "Flooding",
+      "b": "Foreset beds",
+      "c": "High sediment load",
+      "d": "Strong ocean currents"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Sedimentary Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Sedimentary Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q264",
+    "id": "oup-ch13-q264",
     "globalId": 264,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "In regional metamorphism the source of increased temperature and pressure is _________ .",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "A channel bar forms in the middle of a river. This can cause the river to:",
     "choices": {
-      "a": "a local intrusive heat source",
-      "b": "impact metamorphism",
-      "c": "the increase in temperature with increasing depth of burial",
-      "d": "due to increased rate of radioactive decay"
+      "a": "Increase in width",
+      "b": "Increase in velocity",
+      "c": "Decrease in capacity",
+      "d": "Decrease in sediment"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q265",
+    "id": "oup-ch13-q265",
     "globalId": 265,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "A Geologist suffers from a black eye after yelling \"Gneiss!!!\" to a classmate, who happened to be sunning on a large boulder. The geologist really meant to tell the classmate that the rock they were laying on _______________ .",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which is crucial to the formation of point bars?",
     "choices": {
-      "a": "would fizz with the application of acid",
-      "b": "is commonly used in billiard table construction",
-      "c": "demonstrates schistosity",
-      "d": "is a high-grade, silicate-rich, mineralogically banded metamorphic rock"
+      "a": "A stream overflows its banks during a flood.",
+      "b": "Stream velocity slows at the inside of a curve.",
+      "c": "Stream velocity increases at the outside of a curve.",
+      "d": "Erosion on one stream bank is balanced by deposition at the other bank."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q266",
+    "id": "oup-ch13-q266",
     "globalId": 266,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "A combination of shallow earthquakes, tension, and contact metamorphism characterizes ___________ .",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "The photo shows an agricultural area adjacent to mountains in the southwestern United States. The area in the circle is probably not farmed because a stream is continuously depositing sediments at the base of the mountains. What is this landform called? (Photo source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "transform fault margins",
-      "b": "spreading centers",
-      "c": "continent/continent margins",
-      "d": "subduction type margins"
+      "a": "A delta",
+      "b": "A flood Plain",
+      "c": "An alluvial fan",
+      "d": "A stream terrace"
     },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch13/q16.jpg",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q267",
+    "id": "oup-ch13-q267",
     "globalId": 267,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "In contact metamorphism there is a ____________ .",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which does NOT cause floods?",
     "choices": {
-      "a": "local heat source",
-      "b": "frictional heat source",
-      "c": "regional heat source"
+      "a": "Ice jams",
+      "b": "Spillways",
+      "c": "Artificial dams",
+      "d": "Prolonged rainfall"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q268",
+    "id": "oup-ch13-q268",
     "globalId": 268,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Within a 50 mile traverse you walk from a shale into a slate into a phyllite. You are walking in the direction of _________ .",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "How do artificial levees help control flooding?",
     "choices": {
-      "a": "increasing metamorphic grade",
-      "b": "decreasing metamorphic grade",
-      "c": "increasing degree of contact metamorphism"
+      "a": "They increase the width of stream channels.",
+      "b": "They divert water along a new system of channels.",
+      "c": "They block a stream from flowing along its natural path.",
+      "d": "They prevent water from rising over the edges of the stream banks."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q269",
+    "id": "oup-ch13-q269",
     "globalId": 269,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Marble is a metamorphic rock that forms from a ___________ parent .",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which products of plate tectonics directly affect the formation of most streams on Earth?",
     "choices": {
-      "a": "granite",
-      "b": "limestone",
-      "c": "sandstone",
-      "d": "shale"
+      "a": "Earthquakes",
+      "b": "Mountain ranges",
+      "c": "Oceanic trenches",
+      "d": "Volcanic eruptions"
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q270",
+    "id": "oup-ch13-q270",
     "globalId": 270,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "The pressure and heat that drive metamorphism result from which three forces?",
+    "source": "oup",
+    "chapter": "Chapter 13",
+    "chapterNum": 13,
+    "chapterTitle": "Running Water & Hydrologic Cycle",
+    "text": "Which Martian landforms are NOT evidence for the presence of running water at some point in its history?",
     "choices": {
-      "a": "The internal heat of the Earth, the weight of overlying rocks, and horizontal pressures developed as rocks become deformed",
-      "b": "The weight of the overlying rocks, solar heating, and nuclear fusion",
-      "c": "Horizontal pressures developed as rocks deform, bonding, heat released during crystallization",
-      "d": "Internal heat of the Earth, nuclear fission, heat released during chemical weathering"
+      "a": "Rocky deserts",
+      "b": "Terraced canyons",
+      "c": "Dendritic drainage systems",
+      "d": "Cross-bedded conglomerates"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Running Water & Hydrologic Cycle",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Running Water & Hydrologic Cycle",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q271",
+    "id": "oup-ch14-q271",
     "globalId": 271,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "A geothermometer is?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Most of Earth’s freshwater is in the form of:",
     "choices": {
-      "a": "a device that measures temperature in deep drill holes",
-      "b": "a device that measures current rock temperatures at the surface",
-      "c": "a mineral assemblage that can reveal the minimum temperature attained during heating",
-      "d": "the range of temperatures experienced by a rock during its geologic history"
+      "a": "Oceans",
+      "b": "Groundwater",
+      "c": "Surface water",
+      "d": "Glaciers and ice sheets"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q272",
+    "id": "oup-ch14-q272",
     "globalId": 272,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which type of pressure will result in the alignment of metamorphic minerals?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Which statement best describes the importance of groundwater?",
     "choices": {
-      "a": "contact pressure",
-      "b": "directed pressure",
-      "c": "confining pressure",
-      "d": "chemical pressure"
+      "a": "Groundwater is an unlimited source of freshwater.",
+      "b": "Groundwater is the most accessible reservoir of freshwater.",
+      "c": "Groundwater makes up more than 75 percent of Earth’s freshwater.",
+      "d": "Groundwater experiences less pollution than other forms of freshwater."
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q273",
+    "id": "oup-ch14-q273",
     "globalId": 273,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "During metamorphism, changes in the bulk composition of a rock occur primarily as a result of __________?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "The lower boundary of the zone of saturation occurs where:",
     "choices": {
-      "a": "increases in pressure",
-      "b": "increases in temperature",
-      "c": "reaction with hydrothermal fluids",
-      "d": "all of these"
+      "a": "Gravity becomes too weak to pull water downward",
+      "b": "The bedrock begins to react chemically with percolating water",
+      "c": "The pressure of the overlying rock has closed all the fractures in the rock",
+      "d": "Saltwater from lower down prevents freshwater from moving downward"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q274",
+    "id": "oup-ch14-q274",
     "globalId": 274,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "What type of metamorphism is caused by high temperature and high pressure imposed over a large volume of crust?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Which statement about the sediment that lies above the water table is true?",
     "choices": {
-      "a": "burial",
-      "b": "contact",
-      "c": "regional",
-      "d": "cataclastic"
+      "a": "Only large pore spaces are filled with water.",
+      "b": "There are no pore spaces between sediment particles.",
+      "c": "The pore spaces are filled with a mixture of air and water.",
+      "d": "All pore spaces between sediment particles are filled with water."
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q275",
+    "id": "oup-ch14-q275",
     "globalId": 275,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "A rock that has undergone cataclastic metamorphism would most likely display which of the following?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Where is the water table located in the diagram?",
     "choices": {
-      "a": "preserved sedimentary layering",
-      "b": "pulverized rock fragments",
-      "c": "new minerals",
-      "d": "large olivine crystals"
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
     },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "a",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch14/q5.jpg",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q276",
+    "id": "oup-ch14-q276",
     "globalId": 276,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "What is the most prominent textural feature of regional metamorphic rocks??:",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Rock layers that are rich in clay minerals can prevent the downward percolation of groundwater because these layers are:",
     "choices": {
-      "a": "foliation",
-      "b": "bedding",
-      "c": "cataclasis",
-      "d": "ripples"
+      "a": "Not porous or permeable",
+      "b": "Highly porous and highly permeable",
+      "c": "Highly porous but not very permeable",
+      "d": "Highly permeable but not very porous"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q277",
+    "id": "oup-ch14-q277",
     "globalId": 277,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following statements about metamorphism of a shale is false?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "In which area would you expect groundwater recharge to be greatest?",
     "choices": {
-      "a": "with increasing metamorphism, the clay minerals breakdown to form micas",
-      "b": "with increasing metamorphism, the grain size of the minerals gets smaller",
-      "c": "with increasing metamorphism, foliation develops",
-      "d": "with increasing metamorphism, the amount of water decreases"
+      "a": "A densely forested region",
+      "b": "A highly mountainous region",
+      "c": "A sandy region with little ground cover",
+      "d": "An area with clay-rich rock at the surface"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q278",
+    "id": "oup-ch14-q278",
     "globalId": 278,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which mineral is responsible for the strong foliation in a schist?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Aquifers must be:",
     "choices": {
-      "a": "quartz",
-      "b": "calcite",
-      "c": "mica",
-      "d": "foliate"
+      "a": "Porous and permeable",
+      "b": "Permeable but not porous",
+      "c": "Porous but not permeable",
+      "d": "Neither porous nor permeable"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q279",
+    "id": "oup-ch14-q279",
     "globalId": 279,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following metamorphic rocks can not form from a shale?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "A geologist drills a sediment core that intersects with an unconfined aquifer. How does the geologist know that the aquifer is unconfined?",
     "choices": {
-      "a": "schist",
-      "b": "marble",
-      "c": "hornfels",
-      "d": "slate"
+      "a": "It is exposed at the surface.",
+      "b": "Its upper surface coincides with the water table.",
+      "c": "It is sandwiched between two impermeable layers of rock.",
+      "d": "The sediments that make it up are both porous and permeable."
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q280",
+    "id": "oup-ch14-q280",
     "globalId": 280,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following metamorphic rocks is not paired with its true parent rock?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Groundwater flows:",
     "choices": {
-      "a": "greenstone-basalt",
-      "b": "quartzite - quartz arenite",
-      "c": "schist - shale",
-      "d": "hornfels - dolomite"
+      "a": "From low elevations to high elevations",
+      "b": "From the zone of saturation into the zone of aeration",
+      "c": "From areas of high hydraulic pressure to areas of low hydraulic pressure",
+      "d": "From areas of low hydraulic pressure to areas of high hydraulic pressure"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q281",
+    "id": "oup-ch14-q281",
     "globalId": 281,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following index minerals forms at the highest metamorphic grade?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Unlike the water in an unconfined aquifer, the water in a confined aquifer:",
     "choices": {
-      "a": "chlorite",
-      "b": "sillmanite",
-      "c": "biotite",
-      "d": "garnet"
+      "a": "Experiences hydraulic head",
+      "b": "Never intersects Earth’s surface",
+      "c": "Flows only through low-porosity rocks",
+      "d": "Is typically recharged from distant regions"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q282",
+    "id": "oup-ch14-q282",
     "globalId": 282,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following processes will cause metamorphism?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Which condition is NOT necessary for a geyser to form?",
     "choices": {
-      "a": "a change in the chemical environment",
-      "b": "an increase in temperature",
-      "c": "an increase in pressure",
-      "d": "all of these"
+      "a": "A gap in the overlying rock",
+      "b": "Soluble minerals in the aquifer",
+      "c": "Confining pressure from overlying rocks",
+      "d": "Groundwater that has penetrated deep below the surface"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q283",
+    "id": "oup-ch14-q283",
     "globalId": 283,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "What is the pressure on a rock at 15 kilometers depth?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Why is chemical weathering by groundwater less common in polar regions than in tropical regions?",
     "choices": {
-      "a": "about 5 times atmospheric pressure",
-      "b": "about 50 times atmospheric pressure",
-      "c": "about 500 times atmospheric pressure",
-      "d": "about 5000 times atmospheric"
+      "a": "Polar regions receive less solar radiation, which slows the rate of chemical reaction.",
+      "b": "Tropical regions have more plant life, which generates acids that dissolve in the groundwater.",
+      "c": "The soil in tropical regions is thicker, which allows the groundwater to achieve a higher pressure before it reaches bedrock.",
+      "d": "The soil in polar regions is frozen much of the year, which reduces the rate at which groundwater infiltrates to bedrock."
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q284",
+    "id": "oup-ch14-q284",
     "globalId": 284,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "______ is the process where rocks previously metamorphosed under high-grade conditions are later metamorphosed under low-grade conditions.",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Karst topography would be most likely to form in an area with which type of bedrock?",
     "choices": {
-      "a": "metasomatism",
-      "b": "cataclasis",
-      "c": "foliation",
-      "d": "retrograde metamorphism"
+      "a": "Gneiss",
+      "b": "Granite",
+      "c": "Sandstone",
+      "d": "Limestone"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q285",
+    "id": "oup-ch14-q285",
     "globalId": 285,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Metasomatism is ________.",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Consider the cave shown in the photograph. Which structure formed as dissolved calcite deposited from dripping water joined with calcite deposited from water falling to the cave’s floor? (Photo source: Wikimedia Commons.)",
     "choices": {
-      "a": "the change in the bulk composition of a rock during metamorphism",
-      "b": "metamorphism caused by nearby intrusions",
-      "c": "metamorphism caused by tectonic movements along faults",
-      "d": "the parallel alignment of minerals in a metamorphic rock"
+      "a": "Structure A",
+      "b": "Structure B",
+      "c": "Structure C",
+      "d": "Structure D"
     },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "b",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch14/q15.jpg",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q286",
+    "id": "oup-ch14-q286",
     "globalId": 286,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Hydrothermal metamorphism is very common in which of the following settings?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "A hydrogeologist using subsurface conductivity measurements to find fresh groundwater would look for regions of relatively:",
     "choices": {
-      "a": "at continental collision zones",
-      "b": "along shallow faults",
-      "c": "at mid-ocean ridges",
-      "d": "in mid-continental regions"
+      "a": "High conductivity",
+      "b": "Low conductivity",
+      "c": "Variable conductivity",
+      "d": "Undetectable conductivity"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q287",
+    "id": "oup-ch14-q287",
     "globalId": 287,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Metamorphism occurs ______.",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Residents of an area with which type of bedrock would be LEAST likely to have problems with hard water?",
     "choices": {
-      "a": "adjacent to igneous intrusions",
-      "b": "along faults",
-      "c": "in subduction zones",
-      "d": "in all of these settings"
+      "a": "Marble",
+      "b": "Gypsum",
+      "c": "Sandstone",
+      "d": "Limestone"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q288",
+    "id": "oup-ch14-q288",
     "globalId": 288,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "In which of the following metamorphic environments would you expect to find bedding and other sedimentary structures to be preserved.",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "Under which conditions would subsidence be most likely to occur?",
     "choices": {
-      "a": "burial metamorphism",
-      "b": "along faults",
-      "c": "contact metamorphism",
-      "d": "regional metamorphism"
+      "a": "Rapid recharge of groundwater into a confined aquifer",
+      "b": "Gradual removal of groundwater from fractured bedrock",
+      "c": "Gradual recharge of groundwater into an unconfined aquifer",
+      "d": "Rapid removal of groundwater from unconsolidated sediment"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q289",
+    "id": "oup-ch14-q289",
     "globalId": 289,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "The parallel alignment of mica in a metamorphic rock is an example of ______.",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "How does plate tectonics relate to the formation of geysers?",
     "choices": {
-      "a": "porphyroblasts",
-      "b": "bedding",
-      "c": "metasomatism",
-      "d": "foliation"
+      "a": "Earthquakes produce aquifers, and geysers form in aquifers.",
+      "b": "Subduction forms volcanoes, and geysers form in ancient volcanic craters.",
+      "c": "Magma heats groundwater, and faults allow the groundwater to move toward the surface.",
+      "d": "Divergent boundaries produce new crust, and seawater percolates through it."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q290",
+    "id": "oup-ch14-q290",
     "globalId": 290,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "What is the relationship between metamorphic foliation and sedimentary bedding?",
+    "source": "oup",
+    "chapter": "Chapter 14",
+    "chapterNum": 14,
+    "chapterTitle": "Groundwater: A Vital Resource",
+    "text": "A landowner in a rural area installs a septic tank. The tank meets the requirements for a building permit and passes the “percolation test.” Several years later, however, local groundwater has become contaminated from the tank. Which is the best explanation for this?",
     "choices": {
-      "a": "sedimentary bedding is required in order for a rock to develop metamorphic foliation",
-      "b": "sedimentary bedding and metamorphic foliation are two terms for the same phenomenon",
-      "c": "sedimentary bedding and metamorphic foliation are generally parallel",
-      "d": "there is no regular relationship between sedimentary bedding and metamorphic foliation"
+      "a": "The water table fell due to subsidence.",
+      "b": "The zone of depression of the tank became too large.",
+      "c": "The underlying sediment metamorphosed into more soluble rock.",
+      "d": "The water table rose due to higher-than-average rainfall over many years."
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Groundwater: A Vital Resource",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Groundwater: A Vital Resource",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q291",
+    "id": "oup-ch15-q291",
     "globalId": 291,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following is not used to classify foliated rocks?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which description of how glacial ice forms is correct?",
     "choices": {
-      "a": "crystal size",
-      "b": "the texture of the parent rock",
-      "c": "the degree to which minerals are segregated into lighter and darker bands",
-      "d": "the metamorphic grade"
+      "a": "Rain falls onto cold surfaces. The liquid rain then freezes to form solid glacial ice.",
+      "b": "Snow falls and accumulates. The snowflakes then join together to form glacial ice.",
+      "c": "Rain falls and mixes with snow. The rain then freezes the snowflakes together to form glacial ice.",
+      "d": "Snow falls and accumulates. Pressure then causes the snow to form firn and the firn to form glacial ice."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q292",
+    "id": "oup-ch15-q292",
     "globalId": 292,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following sets is arranged in order of increasing metamorphic grade?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Under what conditions will a glacier grow?",
     "choices": {
-      "a": "shale - slate - phyllite",
-      "b": "phyllite - gneiss - schist",
-      "c": "phyllite - slate - schist",
-      "d": "schist - shale - gneiss"
+      "a": "When accumulation exceeds ablation",
+      "b": "When ablation exceeds accumulation",
+      "c": "When compaction exceeds expansion",
+      "d": "When basal sliding exceeds plastic flow"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q293",
+    "id": "oup-ch15-q293",
     "globalId": 293,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following rocks represents the highest metamorphic grade?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "A glacier that covers all or most of a large land mass at high latitudes is:",
     "choices": {
-      "a": "slate",
-      "b": "schist",
-      "c": "phyllite",
-      "d": "gneiss"
+      "a": "A valley glacier",
+      "b": "An alpine glacier",
+      "c": "A piedmont glacier",
+      "d": "A continental glacier"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q294",
+    "id": "oup-ch15-q294",
     "globalId": 294,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Metamorphic rocks with segregated light and dark minerals are called _______.",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "What causes plastic flow in a glacier?",
     "choices": {
-      "a": "slate",
-      "b": "schist",
-      "c": "phyllite",
-      "d": "gneiss"
+      "a": "Recrystallization of ice crystals reduces the volume of the overlying snow.",
+      "b": "Heat from the ground under the glacier causes meltwater to form at its base.",
+      "c": "Pressure from overlying ice causes crystals at the bottom of the glacier to change shape.",
+      "d": "Compaction of snow crystals produces an increase in thermal energy that produces melting."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q295",
+    "id": "oup-ch15-q295",
     "globalId": 295,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "During metamorphism a quartz arenite will change into what type of rock?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which statement about the glacier shown in the diagram is correct?",
     "choices": {
-      "a": "slate",
-      "b": "schist",
-      "c": "quartzite",
-      "d": "gneiss"
+      "a": "Ablation dominates in Region A.",
+      "b": "Accumulation dominates in Region C.",
+      "c": "Accumulation and ablation do not occur in Region B.",
+      "d": "Accumulation and ablation are balanced in Region B."
     },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "d",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch15/q5.jpg",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q296",
+    "id": "oup-ch15-q296",
     "globalId": 296,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "A normal geothermal gradient is approximately _________ .",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which statement correctly describes the processes occurring in the diagram?",
     "choices": {
-      "a": "3000 degrees C per km",
-      "b": "300 degrees C per km",
-      "c": "30 degrees C per km",
-      "d": "3 degrees C per km"
+      "a": "Plucking occurs at both A and B.",
+      "b": "Abrasion occurs at both A and B.",
+      "c": "Abrasion occurs primarily at B, and plucking occurs primarily at A.",
+      "d": "Abrasion occurs primarily at A, and plucking occurs primarily at B."
     },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "d",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch15/q6.jpg",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q297",
+    "id": "oup-ch15-q297",
     "globalId": 297,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following metamorphic rocks forms in the forearc of a subduction zone?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which landform is NOT created by alpine glacier erosion?",
     "choices": {
-      "a": "amphibolite",
-      "b": "blueschist",
-      "c": "quartzite",
-      "d": "gneiss"
+      "a": "Horn",
+      "b": "Cirque",
+      "c": "Hanging valley",
+      "d": "V-shaped valley"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q298",
+    "id": "oup-ch15-q298",
     "globalId": 298,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "Which of the following rocks can be considered gradational between an igneous rock and a metamorphic rock?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "The photograph shows a surface of bedrock in Yosemite National Park in California. What are the series of roughly parallel, light-colored lines shown by the arrows? (Photo source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "geniss",
-      "b": "quartzite",
-      "c": "migmatite",
-      "d": "schist"
+      "a": "Cracks caused by thawing of the ground",
+      "b": "Varves caused by deposition in a glacial lake",
+      "c": "U-shaped valleys caused by erosion by moving ice",
+      "d": "Striations caused by ice dragging rocks along the bedrock"
     },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "d",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch15/q8.jpg",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q299",
+    "id": "oup-ch15-q299",
     "globalId": 299,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "For the Barrovian sequence given above intensity of metamorphism:",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which landforms are created where cirques meet?",
     "choices": {
-      "a": "increases from left to right",
-      "b": "increases from right to left",
-      "c": "cannot be determined from the diagram"
+      "a": "Arêtes and horns",
+      "b": "Moraines and troughs",
+      "c": "Hanging valleys and tarns",
+      "d": "Fjords and roches moutonnées"
     },
     "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q81.gif",
-    "category": "Metamorphic Rocks",
+    "imageUrl": null,
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q300",
+    "id": "oup-ch15-q300",
     "globalId": 300,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "In the figure above, the A isograd is the ________ isograd",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "What are striations?",
     "choices": {
-      "a": "amphibole",
-      "b": "muscovite",
-      "c": "biotite",
-      "d": "garnet"
+      "a": "Gently sloping valleys produced by plucking",
+      "b": "Scratches on bedrock produced by abrasion",
+      "c": "Deposits of glacial sediment produced by meltwater",
+      "d": "Hump-shaped deposits of sediment deposited by melting ice"
     },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q81.gif",
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "b",
+    "imageUrl": null,
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q301",
+    "id": "oup-ch15-q301",
     "globalId": 301,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "In the figure above, what mineral would not be present in zone B?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "What characteristics might a geologist use to differentiate glacial till from river sediment?",
     "choices": {
-      "a": "garnet",
-      "b": "chlorite",
-      "c": "biotite",
-      "d": "quartz"
+      "a": "Glacial drift is finer-grained than river sediment.",
+      "b": "Glacial drift is more rounded than river sediment.",
+      "c": "Glacial drift is more poorly sorted than river sediment.",
+      "d": "Glacial drift contains more silicate minerals than river sediment."
     },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q81.gif",
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "c",
+    "imageUrl": null,
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q302",
+    "id": "oup-ch15-q302",
     "globalId": 302,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "In the figure above, the C isograd is the _________ isograd",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which statement correctly describes the landscape shown in the diagram.",
     "choices": {
-      "a": "kyanite",
-      "b": "muscovite",
-      "c": "staurolite",
-      "d": "sillmanite"
+      "a": "A is a lateral moraine, B is a medial moraine, and C is a terminal moraine.",
+      "b": "A is a terminal moraine, B is a lateral moraine, and C is a medial moraine.",
+      "c": "A is a medial moraine, B is a terminal moraine, and C is a lateral moraine.",
+      "d": "A is a lateral moraine, B is a terminal moraine, and C is a medial moraine."
     },
     "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q81.gif",
-    "category": "Metamorphic Rocks",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch15/q12.jpg",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q303",
+    "id": "oup-ch15-q303",
     "globalId": 303,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "In the figure above, zone D should contain which of the following minerals?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which CANNOT be used to differentiate between drumlins and roches moutonnées?",
     "choices": {
-      "a": "amphibole",
-      "b": "sillmanite",
-      "c": "calcite",
-      "d": "kyanite"
+      "a": "Whether they form by erosion or deposition",
+      "b": "Whether they form by erosion or deposition",
+      "c": "Whether they are made of bedrock or glacial drift",
+      "d": "Whether they have higher or lower elevation than the surrounding land"
     },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q81.gif",
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "b",
+    "imageUrl": null,
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q304",
+    "id": "oup-ch15-q304",
     "globalId": 304,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "A rock rich in garnet and pyroxene that forms at extremely high pressures and moderate to high temperatures is called a(n) _________ .",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which features form by deposition from glacial meltwater?",
     "choices": {
-      "a": "amphibolite",
-      "b": "hornfels",
-      "c": "granulite",
-      "d": "eclogite"
+      "a": "Kettles, kames, and eskers",
+      "b": "Moraines, erratics, and drumlins",
+      "c": "Tarns, hanging valleys, and horns",
+      "d": "Roches moutonnées, arêtes, and fjords"
     },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q82.gif",
-    "category": "Metamorphic Rocks",
+    "correctAnswer": "a",
+    "imageUrl": null,
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q305",
+    "id": "oup-ch15-q305",
     "globalId": 305,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "The zeolite facies occurs in which pressure-temperature regime?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "What typically happens to global sea level during an ice age?",
     "choices": {
-      "a": "area A",
-      "b": "area B",
-      "c": "area C",
-      "d": "area D"
+      "a": "It increases.",
+      "b": "It decreases.",
+      "c": "It increases, then decreases rapidly.",
+      "d": "It decreases, then increases rapidly."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q306",
+    "id": "oup-ch15-q306",
     "globalId": 306,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "The eclogite facies occurs in which pressure-temperature regime?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "What is a land bridge?",
     "choices": {
-      "a": "area A",
-      "b": "area C",
-      "c": "area E",
-      "d": "area G"
+      "a": "A pile of glacial till that connects multiple kettle lakes",
+      "b": "A varve deposit that spans multiple glacial outwash plains",
+      "c": "A ridge of resistant rock that is left behind after a glacier moves through an area",
+      "d": "A narrow region of land that connects two larger landmasses during a time of low sea level"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch7-q307",
+    "id": "oup-ch15-q307",
     "globalId": 307,
-    "source": "oxford",
-    "chapter": "Chapter 7",
-    "chapterNum": 7,
-    "chapterTitle": "Metamorphic Rocks",
-    "text": "The greenschist facies occurs in which pressure-temperature regime?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "The salty lakes in Utah are the remnants of a:",
     "choices": {
-      "a": "area C",
-      "b": "area D",
-      "c": "area E",
-      "d": "area F"
+      "a": "Fjord",
+      "b": "Carve",
+      "c": "Kettle lake",
+      "d": "Pluvial lake"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Metamorphic Rocks",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Metamorphic Rocks",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q308",
+    "id": "oup-ch15-q308",
     "globalId": 308,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Atoms of AA decay to atoms of BB with a half-life of 100,000 years. If there are 20,000 atoms of AA to begin with (and 0 atoms of BB), how long will it take for there to be 2,500 atoms of AA?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which would be LEAST likely to occur during a glacial retreat?",
     "choices": {
-      "a": "100,000 years",
-      "b": "200,000 years",
-      "c": "300,000 years"
+      "a": "Rise of sea level",
+      "b": "Formation of pluvial lakes",
+      "c": "Submergence of land bridges",
+      "d": "Rebound of continental crust"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q309",
+    "id": "oup-ch15-q309",
     "globalId": 309,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "In the past there were (more or less) atoms of radioactive Uranium?",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Evidence for pre-Pleistocene ice ages comes primarily from:",
     "choices": {
-      "a": "less",
-      "b": "more",
-      "c": "no way to tell"
+      "a": "Eskers and moraines",
+      "b": "Kettle lakes and fjords",
+      "c": "Varved shales and tillites",
+      "d": "Raised beaches and pluvial lakes"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q310",
+    "id": "oup-ch15-q310",
     "globalId": 310,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Therefore, there was (more or less) heat produced in the crust in the past:",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Increased volcanism due to plate tectonics generates carbon dioxide, which increases average global temperatures. However, continental collisions and uplift do not always result in global warming. Why is this?",
     "choices": {
-      "a": "more",
-      "b": "less",
-      "c": "no way to tell"
+      "a": "Weathering of uplifted mountains absorbs carbon dioxide from the atmosphere.",
+      "b": "Melting of glaciers as temperatures rise removes carbon dioxide from the atmosphere.",
+      "c": "Alpine glaciers form on uplifted mountains and absorb carbon dioxide from the atmosphere.",
+      "d": "Decreased sea level due to glaciation offsets the increased carbon dioxide in the atmosphere."
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q311",
+    "id": "oup-ch15-q311",
     "globalId": 311,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following represents the longest time period",
+    "source": "oup",
+    "chapter": "Chapter 15",
+    "chapterNum": 15,
+    "chapterTitle": "Glaciers and Glacier Ice",
+    "text": "Which body in the Solar System does NOT show evidence of ever having had water ice on or near its surface?",
     "choices": {
-      "a": "Precambrian",
-      "b": "Paleozoic",
-      "c": "Mesozoic",
-      "d": "Cenozoic"
+      "a": "Titan",
+      "b": "Mars",
+      "c": "Jupiter",
+      "d": "Europa"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Glaciers and Glacier Ice",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Glaciers and Glacier Ice",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q312",
+    "id": "oup-ch16-q312",
     "globalId": 312,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The Paleozoic does not include the",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Which desert feature or process is currently prominent on Mars?",
     "choices": {
-      "a": "Ordovician",
-      "b": "Jurassic",
-      "c": "Mississippian",
-      "d": "Permian"
+      "a": "Oases",
+      "b": "Hot, dry air",
+      "c": "Flash floods",
+      "d": "Dust storms"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q313",
+    "id": "oup-ch16-q313",
     "globalId": 313,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The _________ was an era dominated by the dinosaurs",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Satellite images of Mars indicate that the planet’s surface contains which desert features?",
     "choices": {
-      "a": "Precambrian",
-      "b": "Paleozoic",
-      "c": "Mesozoic",
-      "d": "Cenozoic"
+      "a": "Playa lakes",
+      "b": "Dune fields",
+      "c": "Polar ice caps",
+      "d": "Eroded mountain ranges"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q314",
+    "id": "oup-ch16-q314",
     "globalId": 314,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The boundaries between _______ seem to coincide with major changes in the life forms present on Earth.",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Which best accounts for the fact that ancient deserts seemed to have formed in places that now experience temperate climates?",
     "choices": {
-      "a": "Precambrian",
-      "b": "systems",
-      "c": "eras",
-      "d": "epochs"
+      "a": "Human factors have contributed to desertification over time.",
+      "b": "Plate tectonics has shifted the location of the region over time.",
+      "c": "No evidence for ancient deserts has been preserved in the rock record.",
+      "d": "Global wind and ocean current cycles have evolved dramatically over time."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q315",
+    "id": "oup-ch16-q315",
     "globalId": 315,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Radiometric age is often referred to as __________ age.",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Which is NOT a cause of desertification?",
     "choices": {
-      "a": "total",
-      "b": "absolute",
-      "c": "historic",
-      "d": "geologic"
+      "a": "Deforestation of trees",
+      "b": "Overcultivation of crops",
+      "c": "Above-average rainfall and flash flooding",
+      "d": "Subtle changes in the orbital path of Earth over vast periods of time"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q316",
+    "id": "oup-ch16-q316",
     "globalId": 316,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The principal of original horizontality states that ________ .",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "The bedload that is carried by wind to form dunes is primarily composed of:",
     "choices": {
-      "a": "most rocks in the Earth's crust are layered horizontally",
-      "b": "igneous rocks form essentially horizontal layers",
-      "c": "metamorphic gradients are essentially horizontal before deformation",
-      "d": "sediments are deposited as essentially horizontal layers"
+      "a": "Fine-grained silt",
+      "b": "Microscopic silica",
+      "c": "Pebbles and cobbles",
+      "d": "Coarse grains of sand"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q317",
+    "id": "oup-ch16-q317",
     "globalId": 317,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "An undeformed sedimentary layer is __________ than the layer above and _______ than the layer below.",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Loess deposits are different from sand dunes in that they:",
     "choices": {
-      "a": "younger ---younger",
-      "b": "younger --- older",
-      "c": "older --- younger",
-      "d": "older --- older"
+      "a": "Are deposited by water",
+      "b": "Are composed of silt and clay",
+      "c": "Form through the process of saltation",
+      "d": "Are the product of chemical weathering"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q318",
+    "id": "oup-ch16-q318",
     "globalId": 318,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Fossils are most common in which rock types?",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "These sand dunes on Mars are an example of a which type of dune? (Photo source: NASA/JPL-Caltech/Univ. of Arizona.)",
     "choices": {
-      "a": "sedimentary",
-      "b": "igneous",
-      "c": "metamorphic",
-      "d": "all of these commonly contain fossils"
+      "a": "Star",
+      "b": "Barchan",
+      "c": "Parabolic",
+      "d": "Transverse"
     },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Geologic Time",
+    "correctAnswer": "b",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch16/q15.jpg",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q319",
+    "id": "oup-ch16-q319",
     "globalId": 319,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The study of faunal succession allows ___________ .",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Which statement about sand dune formation is inaccurate?",
     "choices": {
-      "a": "matching of similarly-aged rocks from different outcrops",
-      "b": "absolute dating of fossil-bearing strata",
-      "c": "recognition of the kings of the beasts in past times",
-      "d": "the study of habits of extinct mammals"
+      "a": "A sand dune is asymmetric in shape.",
+      "b": "Sand dunes migrate downwind as they grow in size.",
+      "c": "The sand dune forms when wind falls into two wind shadows around an obstruction.",
+      "d": "The slope of the leeward face of a sand dune increases indefinitely as the dune grows in size."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q320",
+    "id": "oup-ch16-q320",
     "globalId": 320,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "A disconformity is ___________ .",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Deflation in the desert can lead to the formation of:",
     "choices": {
-      "a": "a rock unit that does not contain fossils",
-      "b": "an erosional surface between igneous and metamorphic rocks",
-      "c": "an erosional surface between horizontal sedimentary rocks",
-      "d": "an erosional surface between different rock types"
+      "a": "Blow outs",
+      "b": "Ventifacts",
+      "c": "Cross beds",
+      "d": "Sand dunes"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q321",
+    "id": "oup-ch16-q321",
     "globalId": 321,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "What is the name for an erosion surface that separates two sets of sedimentary layers with non-parallel bedding planes?",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Most wind-blown transport in the desert occurs via:",
     "choices": {
-      "a": "cross-bedding",
-      "b": "formation",
-      "c": "angular unconformity",
-      "d": "fault"
+      "a": "Suspension in the air",
+      "b": "Rotation in a column of dust",
+      "c": "Deflation at the ground surface",
+      "d": "Saltation along the desert floor"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q322",
+    "id": "oup-ch16-q322",
     "globalId": 322,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following is used by geologists to determine the relative ages in a rock sequence?",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "A playa lake forms because:",
     "choices": {
-      "a": "stratigraphy",
-      "b": "fossils",
-      "c": "cross-cutting relationships",
-      "d": "all of these"
+      "a": "Desert water contains high amounts of dissolved salts",
+      "b": "Groundwater from springs seeps up to the desert floor",
+      "c": "Intermittent streams erode a flat, shallow bed on the desert floor",
+      "d": "The ground cannot absorb all of the water from flash floods in deserts"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q323",
+    "id": "oup-ch16-q323",
     "globalId": 323,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following could be used to tell if a rock layer was right side up or up side down__________ .",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "The photograph shows a triangular landform at the base of a mountain range in an arid region. How did this landform form?",
     "choices": {
-      "a": "asymmetrical ripple marks",
-      "b": "symmetrical ripple marks",
-      "c": "faults",
-      "d": "all of these could be used"
+      "a": "Temporary lakes dried up, leaving deposits on the valley floor.",
+      "b": "Flash floods eroded the base of the mountains, leaving apron-shaped landforms.",
+      "c": "Flash floods carried sediment down from the mountains and deposited it on the desert floor.",
+      "d": "Wind blew down canyons in the mountain, eroding and then depositing sediment on the desert floor."
     },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Geologic Time",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch16/q10.jpg",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q324",
+    "id": "oup-ch16-q324",
     "globalId": 324,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Radiometric dating is least useful for ___________ rocks.",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "The photograph shows the Badwater Basin, a depression in the desert in Death Valley, California. What will form here during a period of heavy rain?",
     "choices": {
-      "a": "granitic",
-      "b": "basaltic",
-      "c": "metamorphic",
-      "d": "sedimentary"
+      "a": "Butte",
+      "b": "Oasis",
+      "c": "Playa lake",
+      "d": "Alluvial fan"
     },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Geologic Time",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch16/q9.jpg",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q325",
+    "id": "oup-ch16-q325",
     "globalId": 325,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "A rock formed with 1,000 atoms of a radioactive parent element, but only contains 250 radioactive parent atoms today. If the half-life is 1,000,000 years, how old is the rock?",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Which landform does NOT form as a result of weathering and erosion in the desert?",
     "choices": {
-      "a": "250,000 years",
-      "b": "500,000 years",
-      "c": "1,000,000 years",
-      "d": "2,000,000 years"
+      "a": "Butte",
+      "b": "Mesa",
+      "c": "Oasis",
+      "d": "Inselberg"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q326",
+    "id": "oup-ch16-q326",
     "globalId": 326,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "A Potassium-Argon (K-Ar) age measures _________ .",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Why does chemical weathering play a relatively small role in the weathering of desert landforms?",
     "choices": {
-      "a": "the time since last cooling below the gas retention temperature - Potassium is the gas",
-      "b": "the time since last cooling below the gas retention temperature - Argon is the gas",
-      "c": "the time since the tree containing the Potassium died",
-      "d": "the time since crystallization of a mineral containing Potassium"
+      "a": "There is little moisture and vegetation",
+      "b": "Mechanical weathering occurs too frequently.",
+      "c": "There are few iron-rich minerals that would oxidize.",
+      "d": "Desert varnish provides a protective layer on rock surfaces."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q327",
+    "id": "oup-ch16-q327",
     "globalId": 327,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following radioactive isotopes is most useful for dating a very young sample (<20,000 years) of wood?",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "The main agent that contributes to erosion and weathering in deserts is:",
     "choices": {
-      "a": "rubidium-87",
-      "b": "uranium-238",
-      "c": "carbon-14",
-      "d": "potassium-40"
+      "a": "Ice",
+      "b": "Wind",
+      "c": "Running water",
+      "d": "Rusting of minerals"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q328",
+    "id": "oup-ch16-q328",
     "globalId": 328,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "A stratigraphic sequence is a vertical set of strate",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Which type of desert is primarily a result of the circulation of ocean currents?",
     "choices": {
-      "a": "used as a chronological record of the geologic history of a region",
-      "b": "that is unique to a specific area",
-      "c": "that represents a repeating set of evens such as recurring floods, debris flows, etc.",
-      "d": "bounded above and below by igneous and/or metamorphic rocks"
+      "a": "Polar deserts",
+      "b": "Coastal deserts",
+      "c": "Subtropical deserts",
+      "d": "Rain-shadow deserts"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q329",
+    "id": "oup-ch16-q329",
     "globalId": 329,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "We cannot accurately measure time in years with stratigraphy for several reasons. Which of the following is false.",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Which of the desertsis primarily a continental interior desert?",
     "choices": {
-      "a": "sediments accumulate at different rates in different sedimentary environments",
-      "b": "many sedimentary rocks contain fossils that have not been identified",
-      "c": "the rock record does not tell us how many years have passed between periods of deposition",
-      "d": "stratigraphy alone cannot be used to determine the relative ages of widely separated beds"
+      "a": "Thar",
+      "b": "Gobi",
+      "c": "Sahara",
+      "d": "Atacama"
     },
     "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Geologic Time",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch16/q4.jpg",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q330",
+    "id": "oup-ch16-q330",
     "globalId": 330,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following will not make a fossil?",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "How do subtropical deserts generally differ from polar deserts?",
     "choices": {
-      "a": "decomposed organic material",
-      "b": "plant impressions (casts)",
-      "c": "animal footprints",
-      "d": "loose animal bones"
+      "a": "A subtropical desert is more humid and wet than a polar desert.",
+      "b": "A subtropical desert is located at a lower latitude than a polar desert.",
+      "c": "A subtropical desert forms on a coast, while a polar desert forms near a mountain belt.",
+      "d": "A subtropical desert forms as a result of atmospheric circulation, while a polar desert forms due to its cold, dry climate."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q331",
+    "id": "oup-ch16-q331",
     "globalId": 331,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The most common fossils in rocks of the last 500 million years are _______",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "How does atmospheric circulation contribute to the formation of some deserts?",
     "choices": {
-      "a": "vertebrate bones",
-      "b": "vertebrate teeth",
-      "c": "invertebrate shells",
-      "d": "leaves"
+      "a": "Deserts form in low-pressure regions where cool air rises and becomes dry.",
+      "b": "Deserts form in high-pressure regions where cool air descends and warms.",
+      "c": "Deserts form in high-pressure regions where warm air rises, condenses, and cools.",
+      "d": "Deserts form in low-pressure regions where warm air remains close to Earth’s surface."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q332",
+    "id": "oup-ch16-q332",
     "globalId": 332,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Who is credited with developing the principle of faunal succession?",
+    "source": "oup",
+    "chapter": "Chapter 16",
+    "chapterNum": 16,
+    "chapterTitle": "Deserts, Wind, and Mars Deserts",
+    "text": "Which is NOT a type of desert?",
     "choices": {
-      "a": "Charles Lyell",
-      "b": "Charles Darwin",
-      "c": "William \"Strata\" Smith",
-      "d": "John C. Butler"
+      "a": "Polar desert",
+      "b": "Wetland desert",
+      "c": "Subtropical desert",
+      "d": "Rain-shadow desert"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Deserts, Wind, and Mars Deserts",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Deserts, Wind, and Mars Deserts",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q333",
+    "id": "oup-ch17-q333",
     "globalId": 333,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "A nonconformity is _________ .",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "Which location is located closest to a passive continental margin?",
     "choices": {
-      "a": "a rock unit that is different than units above or below it",
-      "b": "a gap in the geologic record bounded below by metamorphic or igneous rocks and bounded above by sedimentary rocks",
-      "c": "a rock unit that does not contain fossils",
-      "d": "a sequence of rocks that does not contain any gaps in the geologic record"
+      "a": "Lima, Peru",
+      "b": "Portland, Oregon",
+      "c": "Anchorage, Alaska",
+      "d": "Baltimore, Maryland"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q334",
+    "id": "oup-ch17-q334",
     "globalId": 334,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "What is the name for an erosion surface that separates two sets of sedimentary layers with non-parallel bedding planes?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "Why do the coastlines of South America and Africa have complementary shapes?",
     "choices": {
-      "a": "cross-bedding",
-      "b": "formation",
-      "c": "fault unconformity",
-      "d": "angular unconformity"
+      "a": "They are shaped by the same oceanic currents.",
+      "b": "They were joined in the past when the supercontinent Pangaea existed.",
+      "c": "They form as a result of tectonic uplift, which affects divergent boundaries such as the mid-Atlantic ridge.",
+      "d": "They mimic the shapes of the continental shelves, which were connected in the past when the supercontinent Pangaea existed."
     },
     "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q91.gif",
-    "category": "Geologic Time",
+    "imageUrl": null,
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q335",
+    "id": "oup-ch17-q335",
     "globalId": 335,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following units is the youngest?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "To maximize coastal stability and preservation, most coastal region management organizations currently recommend:",
     "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "D"
+      "a": "Reduced development of coastal regions",
+      "b": "Construction of larger jetties, groins, and breakwaters",
+      "c": "Rebuilding structures that have been damaged by storms",
+      "d": "Construction of more coastal buildings to stabilize shoreline sediment"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q336",
+    "id": "oup-ch17-q336",
     "globalId": 336,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following units is the oldest?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "Which statement about jetties and groins is true?",
     "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "D"
+      "a": "They prevent longshore drift from occurring.",
+      "b": "They prevent wave refraction from occurring.",
+      "c": "They are intended to increase backwash but end up decreasing it.",
+      "d": "They are intended to prevent beach erosion but end up producing it."
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q337",
+    "id": "oup-ch17-q337",
     "globalId": 337,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following happened most recently?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "In which tectonic setting would erosional coastlines be most likely?",
     "choices": {
-      "a": "deposition of unit C",
-      "b": "deposition of unit B",
-      "c": "deposition of unit F",
-      "d": "tilting of C,D,E, and F"
+      "a": "A rift valley",
+      "b": "A mid-ocean ridge",
+      "c": "A oceanic-continental convergent boundary",
+      "d": "A continental-continental convergent boundary"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q338",
+    "id": "oup-ch17-q338",
     "globalId": 338,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following statements is true?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "Which features will probably become more common as sea level rises?",
     "choices": {
-      "a": "the granite is younger than unit B",
-      "b": "unit B is younger than the granite",
-      "c": "unit B and the granite are the same age",
-      "d": "the relative ages of the granite and unit B cannot be determined from the information given"
+      "a": "Barrier islands and berms",
+      "b": "Dunes and marine terraces",
+      "c": "Raised beaches and sea stacks",
+      "d": "Estuaries and irregular coastlines"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q339",
+    "id": "oup-ch17-q339",
     "globalId": 339,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "George Geologist finds that unit F contains eroded pieces of unit G. Which of the following statements is true?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "The presence of which features indicates an erosional coastline?",
     "choices": {
-      "a": "the granite is younger than unit B",
-      "b": "unit B is younger than the granite",
-      "c": "unit B and the granite are the same age",
-      "d": "the relative ages of the granite and unit B cannot be determined from the information given"
+      "a": "Reefs, atolls, and lagoons",
+      "b": "Dunes, berms, and barrier islands",
+      "c": "Strands, spits, and baymouth bars",
+      "d": "Headlands, sea caves, and sea stacks"
     },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q92.gif",
-    "category": "Geologic Time",
+    "correctAnswer": "d",
+    "imageUrl": null,
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q340",
+    "id": "oup-ch17-q340",
     "globalId": 340,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The horizontal line labeled X-X' is a(n) ________ .",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "Why are atolls found primarily in warm, clear water?",
     "choices": {
-      "a": "fault",
-      "b": "angular unconformity",
-      "c": "non conformity",
-      "d": "disconformity"
+      "a": "The limestone that forms a reef can precipitate only from warm water.",
+      "b": "Most volcanoes form in tropical regions, and atolls require volcanoes to form.",
+      "c": "The organisms that form a reef require sunlight and warm temperatures to grow.",
+      "d": "Cold water with lots of suspended sediment easily dissolves the limestone of a reef."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q341",
+    "id": "oup-ch17-q341",
     "globalId": 341,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following statements is false?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "In which type of location are barrier islands most likely to form?",
     "choices": {
-      "a": "unit A was deposited after unit B was deposited",
-      "b": "erosion took place prior to deposition of unit B",
-      "c": "unit C is younger than unit A",
-      "d": "unit E is older than unit B"
+      "a": "Regions with steep coastlines and little sediment supply",
+      "b": "Regions with long backshore regions and strong coastal winds",
+      "c": "Regions with weak waves, lots of sediment, and small tide changes",
+      "d": "Regions with strong waves, large-grained sediment, and only one tide per day"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q342",
+    "id": "oup-ch17-q342",
     "globalId": 342,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following occurred most recently?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "The photograph shows a bar of sand that connects the island of St. Michael’s Mount to the mainland of Cornwall, England. Which correctly identifies and explains this bar of sand? (Photo source: Margaret W. Carruthers.)",
     "choices": {
-      "a": "deposition of unit A",
-      "b": "deposition of unit D",
-      "c": "emplacement of unit G (see question 39)",
-      "d": "cannot tell from the information given"
+      "a": "A dune formed by wind",
+      "b": "A berm formed by storm surge",
+      "c": "A tombolo formed by wave refraction",
+      "d": "A platform formed by undercutting and mass wasting"
     },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Geologic Time",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch17/q11.jpg",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q343",
+    "id": "oup-ch17-q343",
     "globalId": 343,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The age estimate for point A in the diagram above is ______ million years",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "Why do spits and baymouth bars form at the mouths of inlets and bays?",
     "choices": {
-      "a": "0.16",
-      "b": "1.6",
-      "c": "16",
-      "d": "160"
+      "a": "Inlets and bays act as windbreaks, and the reduced wind speed leads to smaller waves that deposit their suspended sediment.",
+      "b": "Erosion by surface water runoff is greatest at the headlands that surround inlets, and the sediment produced by that erosion is deposited at the inlet mouth.",
+      "c": "Most inlets and bays are places where streams flow into the ocean, and as the stream enters the ocean, limestone and dolomite precipitate out of the water.",
+      "d": "Longshore currents slow substantially when they reach the deeper water of an inlet or bay, and as their speed decreases, they deposit much of the suspended sediment."
     },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q92.gif",
-    "category": "Geologic Time",
+    "correctAnswer": "d",
+    "imageUrl": null,
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q344",
+    "id": "oup-ch17-q344",
     "globalId": 344,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The age estimate for point B in the diagram above is ______ million years",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "A beach in a particular region is becoming narrower and smaller over time. What is the most likely explanation for this?",
     "choices": {
-      "a": "35",
-      "b": "65",
-      "c": "245",
-      "d": "570"
+      "a": "Wind speed on the backshore is decreasing.",
+      "b": "Longshore drift along the beach is decreasing.",
+      "c": "The difference between spring tides and neap tides is increasing.",
+      "d": "The inland streams that supply the beach are transporting less sediment."
     },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q92.gif",
-    "category": "Geologic Time",
+    "correctAnswer": "d",
+    "imageUrl": null,
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q345",
+    "id": "oup-ch17-q345",
     "globalId": 345,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The age estimate for point C in the diagram above is ______ million years",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "For the coastal area shown in the diagram, where is the destructive energy of the waves most concentrated?",
     "choices": {
-      "a": "35",
-      "b": "65",
-      "c": "245",
-      "d": "570"
+      "a": "Point A",
+      "b": "Point B",
+      "c": "Point C",
+      "d": "Point D"
     },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q92.gif",
-    "category": "Geologic Time",
+    "correctAnswer": "b",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch17/q8.jpg",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q346",
+    "id": "oup-ch17-q346",
     "globalId": 346,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The age estimate for point D in the diagram above is ______ million years",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "A coastal region contains a variety of different rock layers that are exposed at the shore. Which part of the shore will probably extend farthest into the ocean?",
     "choices": {
-      "a": "65",
-      "b": "245",
-      "c": "570",
-      "d": "2500"
+      "a": "A shale layer",
+      "b": "A granite layer",
+      "c": "A limestone layer",
+      "d": "A sandstone layer"
     },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q92.gif",
-    "category": "Geologic Time",
+    "correctAnswer": "b",
+    "imageUrl": null,
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q347",
+    "id": "oup-ch17-q347",
     "globalId": 347,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The age estimate for point E in the diagram above is ______ million years",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "To maximize fuel economy, a shipping company wants to bring its ships into port during the highest possible high tides. To accomplish this, the shipping company should plan their arrivals to coincide with which moon phase?",
     "choices": {
-      "a": "570",
-      "b": "2500",
-      "c": "3000",
-      "d": "4500"
+      "a": "First quarter",
+      "b": "Waxing gibbous",
+      "c": "Third quarter",
+      "d": "New moon"
     },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/q92.gif",
-    "category": "Geologic Time",
+    "correctAnswer": "d",
+    "imageUrl": null,
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q348",
+    "id": "oup-ch17-q348",
     "globalId": 348,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Most periods in the geologic time scale are named for _______.",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "Why is the Moon’s influence on the tides much greater than that of the Sun, even though the Sun is many millions of times more massive than the Moon?",
     "choices": {
-      "a": "geographic localities",
-      "b": "fossils",
-      "c": "catastrophic events",
-      "d": "paleontologists"
+      "a": "The Moon orbits Earth, but the Sun does not.",
+      "b": "The Moon is much closer to Earth than the Sun is.",
+      "c": "The Moon’s rate of rotation is the same as its orbital period.",
+      "d": "The Moon’s composition causes it to generate a stronger gravitational field."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q349",
+    "id": "oup-ch17-q349",
     "globalId": 349,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "What scientific avenue of investigation gave scientists the best estimate of the age of the Earth?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "A wave with which wavelength would produce movement at the greatest depth below the surface?",
     "choices": {
-      "a": "dating fossils",
-      "b": "archaeological dating",
-      "c": "radiometric dating",
-      "d": "carbon dating"
+      "a": "0.5 m",
+      "b": "1.0 m",
+      "c": "1.5 m",
+      "d": "2.0 m"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q350",
+    "id": "oup-ch17-q350",
     "globalId": 350,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Radiometric dating is possible if a rock contains a measurable amount of ________ .",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "The height of the wave in the diagram is indicated by:",
     "choices": {
-      "a": "only parent isotopes",
-      "b": "only daughter isotopes",
-      "c": "both parent and daughter isotopes",
-      "d": "either parent or daughter isotopes"
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
     },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Geologic Time",
+    "correctAnswer": "b",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch17/q3.jpg",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q351",
+    "id": "oup-ch17-q351",
     "globalId": 351,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Radiometric dating is least useful for dating _________ rocks.",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "Some coastal communities are investigating using wave-driven turbines to generate electricity. These turbines use the energy of waves to generate electricity. Why can these turbines NOT be used to generate energy in deep water?",
     "choices": {
-      "a": "granitic",
-      "b": "basaltic",
-      "c": "sedimentary",
-      "d": "metamorphic"
+      "a": "Waves occur only near the coast.",
+      "b": "Waves can move only in one direction.",
+      "c": "Wave energy dissipates rapidly with depth.",
+      "d": "Wave energy cannot be converted to other forms."
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q352",
+    "id": "oup-ch17-q352",
     "globalId": 352,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following statements regarding radiometric dating is false?",
+    "source": "oup",
+    "chapter": "Chapter 17",
+    "chapterNum": 17,
+    "chapterTitle": "Coastlines and Coastal Management",
+    "text": "Which three agents primarily shape coastlines?",
     "choices": {
-      "a": "Rubidium is incorporated into minerals as they crystallize from a melt",
-      "b": "Argon-40 is the daughter isotope of potassium-40",
-      "c": "Carbon-14 is useful for dating materials up to 70,000 years old",
-      "d": "Sedimentary rocks can be dated more easily than igneous rocks"
+      "a": "Tides, waves, and currents",
+      "b": "Gravity, wind, and convection",
+      "c": "Compression, expansion, and uplift",
+      "d": "Meanders, saltation, and suspension"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Coastlines and Coastal Management",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Coastlines and Coastal Management",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q353",
+    "id": "oup-ch18-q353",
     "globalId": 353,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following radioactive isotopes has the longest half-life?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Which is NOT a major limitation in predicting future mineral resource costs and availability?",
     "choices": {
-      "a": "rubidium-87",
-      "b": "potassium-40",
-      "c": "carbon-14",
-      "d": "uranium-238"
+      "a": "Inability to predict new discoveries of major mineral resources and reserves",
+      "b": "Lack of basic knowledge of the types of rocks and geologic environments that mineral resources are found in",
+      "c": "Inability to predict what technology will be available in the future for extracting minerals",
+      "d": "Lack of understanding about the environmental consequences of extracting minerals"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q354",
+    "id": "oup-ch18-q354",
     "globalId": 354,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following radioactive isotopes has the shortest half-life?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "How are mineral reserves different from mineral resources?",
     "choices": {
-      "a": "rubidium-87",
-      "b": "potassium-40",
-      "c": "carbon-14",
-      "d": "uranium-238"
+      "a": "Mineral reserves are more widespread than mineral resources.",
+      "b": "Mineral reserves contain lower concentrations of elements than mineral resources.",
+      "c": "All mineral reserves are mineral resources, but not all mineral resources are mineral reserves.",
+      "d": "All mineral resources are mineral reserves, but not all mineral reserves are mineral resources."
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q355",
+    "id": "oup-ch18-q355",
     "globalId": 355,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Uranium-238 decays to which of the following daughter isotopes?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "The only method for directly determining the viability of an ore deposit is:",
     "choices": {
-      "a": "rubidium-87",
-      "b": "uranium-235",
-      "c": "lead-206",
-      "d": "nitrogen-14"
+      "a": "Magnetic surveys",
+      "b": "Subsurface drilling",
+      "c": "Geochemical analysis",
+      "d": "Satellite remote sensing"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q356",
+    "id": "oup-ch18-q356",
     "globalId": 356,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Which of the following isotopes is most useful for dating very young wood and charcoal?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "A mineral company is flying a plane with a magnetometer over an area to detect mineral deposits. Which element is this method most likely to detect?",
     "choices": {
-      "a": "rubidium-87",
-      "b": "potassium-40",
-      "c": "carbon-14",
-      "d": "uranium-238"
+      "a": "Iron",
+      "b": "Sulfur",
+      "c": "Silicon",
+      "d": "Carbon"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q357",
+    "id": "oup-ch18-q357",
     "globalId": 357,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "The radon environmental hazard is associated with the radioactive decay of ______ .",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "A mineral resources company decides to conduct a gravity survey of a region. Why would this be a useful method of prospecting?",
     "choices": {
-      "a": "rubidium-87",
-      "b": "potassium-40",
-      "c": "carbon-14",
-      "d": "uranium-238"
+      "a": "Many ore bodies are denser than the surrounding rock.",
+      "b": "Many ore bodies are located close to gravitational nodes.",
+      "c": "Ores generate a smaller gravitational field than the surrounding rock.",
+      "d": "Ores produce cracks in the surrounding rock that generate inverse gravitational fields."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q358",
+    "id": "oup-ch18-q358",
     "globalId": 358,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Human beings evolved during which geologic era?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Metal enrichment in subduction zones is a result of:",
     "choices": {
-      "a": "Cenozoic",
-      "b": "Mesozoic",
-      "c": "Paleozoic",
-      "d": "Precambrian"
+      "a": "Dissolution and precipitation",
+      "b": "Differential melting and density stratification",
+      "c": "Magmatic segregation and mantle convection",
+      "d": "Hydrothermal activity and fluid enrichment of magmas"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q359",
+    "id": "oup-ch18-q359",
     "globalId": 359,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Mammals became abundant during the ________Era?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Stratiform deposits generally result from a combination of:",
     "choices": {
-      "a": "Cenozoic",
-      "b": "Mesozoic",
-      "c": "Paleozoic",
-      "d": "Precambrian"
+      "a": "Igneous processes and metamorphic processes",
+      "b": "Igneous processes and sedimentary processes",
+      "c": "Metamorphic processes and sedimentary processes",
+      "d": "Igneous, metamorphic, and sedimentary processes"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q360",
+    "id": "oup-ch18-q360",
     "globalId": 360,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Large reptiles became abundant during the ________Era?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Which type of mineral deposit commonly forms during the early stages of continental rifting?",
     "choices": {
-      "a": "Cenozoic",
-      "b": "Mesozoic",
-      "c": "Paleozoic",
-      "d": "Precambrian"
+      "a": "Placer deposits",
+      "b": "Stratiform deposits",
+      "c": "Hydrothermal deposits",
+      "d": "Layered igneous complexes"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch8-q361",
+    "id": "oup-ch18-q361",
     "globalId": 361,
-    "source": "oxford",
-    "chapter": "Chapter 8",
-    "chapterNum": 8,
-    "chapterTitle": "Geologic Time",
-    "text": "Land plants appeared during the ________Era?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "A placer deposit forms when:",
     "choices": {
-      "a": "Cenozoic",
-      "b": "Mesozoic",
-      "c": "Paleozoic",
-      "d": "Precambrian"
+      "a": "Minerals precipitate from evaporating ocean water",
+      "b": "Minerals precipitate from magmatically heated water",
+      "c": "Minerals are deposited during metamorphic reactions",
+      "d": "Minerals are deposited when flowing water slows down"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Geologic Time",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Geologic Time",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q362",
+    "id": "oup-ch18-q362",
     "globalId": 362,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "The most important stress opposing a slope's shear stress is imparted by:",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Which determines whether a metallic element becomes concentrated in the liquid fraction during magmatic segregation?",
     "choices": {
-      "a": "running water",
-      "b": "earthquakes",
-      "c": "frost wedging",
-      "d": "gravity"
+      "a": "Its density",
+      "b": "Its conductivity",
+      "c": "Its susceptibility to magnetic fields",
+      "d": "Its compatibility in early crystallizing minerals"
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q363",
+    "id": "oup-ch18-q363",
     "globalId": 363,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Water can encourage mass flow by:",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Which factor is LEAST likely to affect whether a mineral deposit is considered to be an ore deposit?",
     "choices": {
-      "a": "reducing friction between grains",
-      "b": "undercutting a steep slope",
-      "c": "weathering bedrock to clay minerals",
-      "d": "all of the above"
+      "a": "How dense the ore is",
+      "b": "The market value of the element",
+      "c": "The concentration of the element in the ore",
+      "d": "How readily the element can be extracted from the ore"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q364",
+    "id": "oup-ch18-q364",
     "globalId": 364,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "A talus cone is produced by a:",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Aluminum (Al) is a metal, but corundum (Al 2 O 3 ) is considered to be a nonmetallic mineral because:",
     "choices": {
-      "a": "rock fall",
-      "b": "rock glides",
-      "c": "mud flows",
-      "d": "all of the above"
+      "a": "Corundum is not a commercial source of aluminum",
+      "b": "Only native elements are considered to be metallic minerals",
+      "c": "Aluminum is used only for nonmetallic functions in industry",
+      "d": "Oxygen is a nonmetal that counteracts the metallic properties of aluminum"
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q365",
+    "id": "oup-ch18-q365",
     "globalId": 365,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Loose, uncemented geologic material is said to be ______.",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Evaporation plays a key role in the deposition of the nonmetallic minerals that are the primary sources of:",
     "choices": {
-      "a": "liquified",
-      "b": "crystallized",
-      "c": "unconsolidated",
-      "d": "consolidated"
+      "a": "Sand, gravel, and stone",
+      "b": "Salt, sulfur, and diamond",
+      "c": "Corundum, potassium, and iron",
+      "d": "Potassium, phosphorus, and salt"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q366",
+    "id": "oup-ch18-q366",
     "globalId": 366,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following is the most important factor in causing mass movements?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Two main categories of nonmetallic minerals are:",
     "choices": {
-      "a": "temperature",
-      "b": "pressure",
-      "c": "water content",
-      "d": "bulk composition"
+      "a": "Abrasives and medicinal materials",
+      "b": "Industrial materials and pure elements",
+      "c": "Raw chemicals and construction materials",
+      "d": "Raw chemicals and abrasives/gemstones"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q367",
+    "id": "oup-ch18-q367",
     "globalId": 367,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following does not promote mass movement?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Nonmetallic minerals are typically classified by:",
     "choices": {
-      "a": "steep slopes",
-      "b": "forest fires",
-      "c": "heavy rainfall",
-      "d": "all of the above promote mass movement"
+      "a": "Use",
+      "b": "Location",
+      "c": "Reactivity",
+      "d": "Abundance"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q368",
+    "id": "oup-ch18-q368",
     "globalId": 368,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "The process by which masses of rock and soil move downhill under the influence of gravity is called ______ .",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "What determines whether a metal is considered to be abundant or scarce?",
     "choices": {
-      "a": "landsliding",
-      "b": "mass wasting",
-      "c": "hydraulic action",
-      "d": "solifluction"
+      "a": "Whether it is organic or inorganic",
+      "b": "Whether it is renewable or nonrenewable",
+      "c": "How many different forms it occurs in on Earth",
+      "d": "How much it must be concentrated to be economically profitable"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q369",
+    "id": "oup-ch18-q369",
     "globalId": 369,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "A hill consisting of loose, dry sand that slopes at the angle of repose and has no vegetation _______ .",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Why are silicate minerals typically not considered to be ores?",
     "choices": {
-      "a": "is stable unless over steepened by excavation",
-      "b": "may flow if it becomes saturated with water",
-      "c": "will be more stable if vegetation takes root on the hill",
-      "d": "all of the above"
+      "a": "Silicate minerals are not common in Earth’s crust.",
+      "b": "Silicate minerals do not contain metallic elements.",
+      "c": "Metals are found only in their native state on Earth.",
+      "d": "Metals in silicate minerals are too tightly bound to be easily extracted."
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q370",
+    "id": "oup-ch18-q370",
     "globalId": 370,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "One of the most effective ways to stabilize a slope is to:",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Which is NOT a property of metals?",
     "choices": {
-      "a": "remove all excess vegetation",
-      "b": "increase the rate of compaction - add water",
-      "c": "control and remove water",
-      "d": "none of the above"
+      "a": "Brittleness",
+      "b": "Malleability",
+      "c": "Good thermal conductivity",
+      "d": "Good electrical conductivity"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q371",
+    "id": "oup-ch18-q371",
     "globalId": 371,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "The characteristic slope of a pile of dry sand is called the ______ .",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "The main difference between mineral deposits and fossil fuels is that:",
     "choices": {
-      "a": "angle of repose",
-      "b": "strike",
-      "c": "consolidation factor",
-      "d": "dip"
+      "a": "Mineral deposits are inorganic, and fossil fuels are organic.",
+      "b": "Fossil fuels are vital to modern life, but mineral deposits are not.",
+      "c": "Fossil fuels are found underground, but mineral deposits are not.",
+      "d": "Mineral deposits are renewable, and fossil fuels are nonrenewable."
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q372",
+    "id": "oup-ch18-q372",
     "globalId": 372,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following factors affects the maximum angle at which a slope of loose material is stable?",
+    "source": "oup",
+    "chapter": "Chapter 18",
+    "chapterNum": 18,
+    "chapterTitle": "Mineral Exploration & Deposits",
+    "text": "Which is a NOT an example of an industrial material or mineral deposit?",
     "choices": {
-      "a": "the amount of moisture",
-      "b": "the shape of the particles",
-      "c": "the size of the particles",
-      "d": "all of the above"
+      "a": "Coal",
+      "b": "Quartz",
+      "c": "Iron ore",
+      "d": "Diamond"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Mineral Exploration & Deposits",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Mineral Exploration & Deposits",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q373",
+    "id": "oup-ch19-q373",
     "globalId": 373,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Damp sand has a higher angle of repose than dry sand because of _____ .",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "Which is NOT a way that plate tectonics influences energy resources?",
     "choices": {
-      "a": "cementation",
-      "b": "surface tension",
-      "c": "partial melting",
-      "d": "dissolution"
+      "a": "Geothermal energy is most viable in specific plate tectonic settings.",
+      "b": "The amount of solar energy an area receives is determined by plate locations.",
+      "c": "Tidal and hydroelectric power viability depends on terrain, which is influenced by plate tectonic processes.",
+      "d": "Uranium deposits are often associated with granite bodies, which form through plate tectonic processes."
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q374",
+    "id": "oup-ch19-q374",
     "globalId": 374,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Surface tension is greatest when ________ .",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "A state provides tax credits for the use of biomass. Assuming the state defines biomass the same way the text does, which would NOT be eligible for the credit?",
     "choices": {
-      "a": "sand is dry",
-      "b": "sand is moist, but not saturated with water",
-      "c": "sand is saturated with water",
-      "d": "sand is over saturated with water"
+      "a": "Peat",
+      "b": "Wood",
+      "c": "Ethanol",
+      "d": "Garbage"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q375",
+    "id": "oup-ch19-q375",
     "globalId": 375,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following can trigger a landslide?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "How are solar thermal devices different from photovoltaic devices?",
     "choices": {
-      "a": "an earthquake",
-      "b": "a heavy rainstorm",
-      "c": "removal of material from the base of a slope",
-      "d": "all of these"
+      "a": "Solar thermal devices require large amounts of space, but photovoltaic devices are much smaller.",
+      "b": "Solar thermal devices make direct use of sunlight, but photovoltaic devices use sunlight indirectly.",
+      "c": "Solar thermal devices use heat generated by the sun, but photovoltaic devices convert light into electricity.",
+      "d": "Solar thermal devices can work only in sunny areas, but photovoltaic devices can work even in areas that get little sunlight."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q376",
+    "id": "oup-ch19-q376",
     "globalId": 376,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "During an earthquake, water-saturated sand can behave like a liquid, a process called ____ .",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "A green energy company is considering whether it makes sense to pursue tidal power. Which is NOT a valid concern?",
     "choices": {
-      "a": "slurrification",
-      "b": "solifluction",
-      "c": "unconsolidation",
-      "d": "liquefaction"
+      "a": "Tidal power is viable only in coastal areas with a large tidal range.",
+      "b": "Tidal energy generating stations are expensive to build.",
+      "c": "Tidal power pollutes the ocean water near the generating stations.",
+      "d": "Tidal energy generating stations can interfere with tidal flow and harm marine life."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q377",
+    "id": "oup-ch19-q377",
     "globalId": 377,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following statements about mudflows is false?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "A green energy company is investigating locations for a new geothermal power facility. Which location is most likely to be viable, geologically speaking?",
     "choices": {
-      "a": "mudflows tend to move slower than debris flows",
-      "b": "mudflows are most common in semi-arid regions",
-      "c": "mudflows contain large amounts of water",
-      "d": "mudflows can carry large boulders"
+      "a": "Near the Chesapeake Bay",
+      "b": "Along the San Andreas fault zone",
+      "c": "Around Everglades National Park",
+      "d": "Around Yellowstone National Park"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q378",
+    "id": "oup-ch19-q378",
     "globalId": 378,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following mass movements is the fastest?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "A nuclear power company claims that it provides “clean” energy. Which statement supporting this claim is true?",
     "choices": {
-      "a": "mudflows",
-      "b": "debris avalanche",
-      "c": "soil creep",
-      "d": "earthflow"
+      "a": "It uses renewable fuel.",
+      "b": "It uses no inputs of energy.",
+      "c": "It produces no carbon dioxide.",
+      "d": "It produces no harmful byproducts."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q379",
+    "id": "oup-ch19-q379",
     "globalId": 379,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "What is the dominant force that causes mass movement?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "How is the nuclear fission reaction in a power plant controlled?",
     "choices": {
-      "a": "tidal forces",
-      "b": "seismic energy release",
-      "c": "gravity",
-      "d": "wind"
+      "a": "By increasing the turbine rotation rate",
+      "b": "By inserting neutron-absorbing control rods",
+      "c": "By circulating cold water around the fuel rods",
+      "d": "By removing circulating water from the reactor"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q380",
+    "id": "oup-ch19-q380",
     "globalId": 380,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following processes is not strongly influenced by gravity?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "An engineering firm is researching the potential for new sources of nuclear energy. Which characteristic does an isotope NOT have to possess for it to be viable as a fuel for generating nuclear energy?",
     "choices": {
-      "a": "flow of glacial ice",
-      "b": "movement of landslides and debris slides",
-      "c": "movement of water in streams",
-      "d": "all of these are strongly influenced by gravity"
+      "a": "It must be unstable.",
+      "b": "It must be radioactive.",
+      "c": "Its electrons must be in the highest possible energy level.",
+      "d": "Its nucleus must be able to be split by neutron bombardment."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q381",
+    "id": "oup-ch19-q381",
     "globalId": 381,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following statements is false?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "Uranium deposits form when:",
     "choices": {
-      "a": "round debris forms steeper slopes than angular debris",
-      "b": "large debris forms steeper slopes than small debris",
-      "c": "dry debris forms steeper slopes than water-saturated debris",
-      "d": "moist debris forms steeper slopes than dry debris"
+      "a": "Uranium-bearing minerals are dissolved in seawater",
+      "b": "Uranium-bearing solutions encounter reducing conditions",
+      "c": "Uranium-bearing solutions encounter oxidizing conditions",
+      "d": "Uranium-bearing minerals are eroded from mountainsides"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q382",
+    "id": "oup-ch19-q382",
     "globalId": 382,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following situations is least likely to result in mass movement?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "Which form of coal contains the highest percentage of carbon and takes the longest to form?",
     "choices": {
-      "a": "a steep slope",
-      "b": "a slope with loose material saturated with water",
-      "c": "a slope with abundant vegetation",
-      "d": "a slope consisting of fractured and deformed rock"
+      "a": "Peat",
+      "b": "Lignite",
+      "c": "Anthracite",
+      "d": "Bituminous"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q383",
+    "id": "oup-ch19-q383",
     "globalId": 383,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following has the steepest angle of repose?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "Most coal is used for:",
     "choices": {
-      "a": "fine quartz sand",
-      "b": "coarse quartz sand",
-      "c": "angular quartz pebbles",
-      "d": "all of these have the same angle of repose"
+      "a": "Agriculture",
+      "b": "Transportation",
+      "c": "Electricity generation",
+      "d": "Subsurface exploration"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q384",
+    "id": "oup-ch19-q384",
     "globalId": 384,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following situations is most likely to undergo mass wasting?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "A petroleum engineer advises an oil company not to use traditional petroleum wells to produce petroleum from oil shales and tar sands. Why?",
     "choices": {
-      "a": "a dry moderate slope of unconsolidated material",
-      "b": "a wet, moderate slope of unconsolidated material",
-      "c": "a dry, steep slope of unconsolidated material",
-      "d": "a wet, steep slope of unconsolidated material"
+      "a": "Petroleum cannot be extracted from sandstone or shale.",
+      "b": "Petroleum does not flow naturally through oil shales and tar sands.",
+      "c": "Oil shales and tar sands contain hydrocarbons that are denser than the rocks in which they are contained.",
+      "d": "Oil shales and tar sands are not as easily detectable with gravity surveys as conventional petroleum reserves."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q385",
+    "id": "oup-ch19-q385",
     "globalId": 385,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "As the amount of water in a pile of quartz increases, the angle of repose will _______.",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "This diagram shows a:",
     "choices": {
-      "a": "increase",
-      "b": "decrease",
-      "c": "first increase and then decrease",
-      "d": "not change"
+      "a": "Pinch out",
+      "b": "Salt dome",
+      "c": "Structural oil trap",
+      "d": "Stratigraphic oil trap"
     },
     "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Mass Wasting",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch19/q8.jpg",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q386",
+    "id": "oup-ch19-q386",
     "globalId": 386,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following rock types forms the steepest slopes?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "What two conditions must an oil trap have?",
     "choices": {
-      "a": "granite",
-      "b": "shale",
-      "c": "volcanic ash beds",
-      "d": "all of these rock types form steep slopes"
+      "a": "High permeability and low porosity",
+      "b": "High permeability and high porosity",
+      "c": "Impermeability and an even horizontal extent",
+      "d": "Impermeability and the ability to prevent lateral movement of petroleum"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q387",
+    "id": "oup-ch19-q387",
     "globalId": 387,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following slopes is least stable?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "Which condition is required for the formation of petroleum in source rocks?",
     "choices": {
-      "a": "a slope where the sedimentary layers dip parallel to the slope",
-      "b": "a slope where the sedimentary layers are horizontal",
-      "c": "a slope where the sedimentary layers dip perpendicular to the slope",
-      "d": "all of these slopes have the same stability"
+      "a": "Lack of oxygen",
+      "b": "Abundant sunlight",
+      "c": "Rapid circulation of water",
+      "d": "Slow accumulation of sediment"
     },
     "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/profile.gif",
-    "category": "Mass Wasting",
+    "imageUrl": null,
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q388",
+    "id": "oup-ch19-q388",
     "globalId": 388,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Most of the damage associated with the 1964 Anchorage, Alaska earthquake was caused by _______>",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "What is cracking?",
     "choices": {
-      "a": "ground shaking during the earthquake",
-      "b": "a volcanic eruption triggered by the earthquake",
-      "c": "a tsunami (tidal wave) triggered by the earthquake",
-      "d": "landslides triggered by the earthquake"
+      "a": "Distilling crude oil into its components",
+      "b": "Breaking up rock layers that contain petroleum",
+      "c": "Injecting water into rock layers to extract petroleum",
+      "d": "Using chromatography to identify the component of crude oil"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q389",
+    "id": "oup-ch19-q389",
     "globalId": 389,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "In the cross section above of the upper part of the Grand Canyon, units B and D are most likely composed of ________.",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "Petroleum is largely formed from the remains of:",
     "choices": {
-      "a": "granite",
-      "b": "limestone",
-      "c": "sandstone",
-      "d": "shale"
+      "a": "Dinosaurs",
+      "b": "Ancient fish",
+      "c": "Ancient forests",
+      "d": "Microorganisms"
     },
     "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/profile.gif",
-    "category": "Mass Wasting",
+    "imageUrl": null,
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q390",
+    "id": "oup-ch19-q390",
     "globalId": 390,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following processes was the major reason why so many landslides occurred during the 1964 Anchorage, Alaska earthquake?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "What is the principal environmental concern related to the use of fossil fuels for energy?",
     "choices": {
-      "a": "motion along the fault oversteepened slopes",
-      "b": "water-saturated sandy layers became liquified by the ground shaking",
-      "c": "the earthquake tilted the rock layers downhill",
-      "d": "the earthquake caused water to accumulate in the soil"
+      "a": "Mining fossil fuels leads to pollution of groundwater.",
+      "b": "Mining fossil fuels uses more energy than it generates.",
+      "c": "Burning fossil fuels produces CFCs, which destroy the ozone layer.",
+      "d": "Burning fossil fuels increases atmospheric carbon dioxide concentrations."
     },
     "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q391",
+    "id": "oup-ch19-q391",
     "globalId": 391,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "How do geologists classify mass movements?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "What is the dominant source of energy for modern industry and society?",
     "choices": {
-      "a": "by the speed of the mass movement",
-      "b": "by the nature of the material",
-      "c": "by the nature of the movement",
-      "d": "all of these"
+      "a": "Oil",
+      "b": "Coal",
+      "c": "Natural gas",
+      "d": "Nuclear power"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q392",
+    "id": "oup-ch19-q392",
     "globalId": 392,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "How would a debris avalanche be classified in this table?",
+    "source": "oup",
+    "chapter": "Chapter 19",
+    "chapterNum": 19,
+    "chapterTitle": "Energy Resources & Renewable Energy",
+    "text": "A nonrenewable resource is a resource that:",
     "choices": {
-      "a": "box c",
-      "b": "box f",
-      "c": "box i",
-      "d": "box l"
+      "a": "Can never be used up",
+      "b": "Can never be replaced",
+      "c": "Is used faster than it can be replaced",
+      "d": "Is replaced faster than it can be used"
     },
     "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/masswast.gif",
-    "category": "Mass Wasting",
+    "imageUrl": null,
+    "category": "Energy Resources & Renewable Energy",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "Energy Resources & Renewable Energy",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q393",
+    "id": "oup-ch20-q393",
     "globalId": 393,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "How would a mudflow be classified in this table?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Which statement about carbon dioxide is true?",
     "choices": {
-      "a": "box a",
-      "b": "box b",
-      "c": "box g",
-      "d": "box h"
+      "a": "Burning fossil fuels increases atmospheric carbon dioxide levels.",
+      "b": "Global temperatures depend on the total amount of carbon on Earth.",
+      "c": "Human actions have little effect on the amount of carbon in circulation.",
+      "d": "Oceans absorb carbon dioxide much faster than humans add it to the atmosphere."
     },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/masswast.gif",
-    "category": "Mass Wasting",
+    "correctAnswer": "a",
+    "imageUrl": null,
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q394",
+    "id": "oup-ch20-q394",
     "globalId": 394,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "How would a slump be classified in this table?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "The main influence on Earth’s climate over geologic time is:",
     "choices": {
-      "a": "box b",
-      "b": "box e",
-      "c": "box h",
-      "d": "box k"
+      "a": "Plate tectonics",
+      "b": "Human activity",
+      "c": "The water cycle",
+      "d": "Milankovitch cycles"
     },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/masswast.gif",
-    "category": "Mass Wasting",
+    "correctAnswer": "a",
+    "imageUrl": null,
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q395",
+    "id": "oup-ch20-q395",
     "globalId": 395,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "How would creep be classified in this table?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Which is NOT a mechanism by which continental collision decreases carbon dioxide concentrations?",
     "choices": {
-      "a": "box a",
-      "b": "box e",
-      "c": "box g",
-      "d": "box k"
+      "a": "Growth of mountain ice caps",
+      "b": "Increase in ocean surface area",
+      "c": "Cessation of volcanic eruptions",
+      "d": "Increase in erosion of mountains"
     },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/masswast.gif",
-    "category": "Mass Wasting",
+    "correctAnswer": "b",
+    "imageUrl": null,
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q396",
+    "id": "oup-ch20-q396",
     "globalId": 396,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "How would a rock avalanche be classified in this table?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Consider the following diagram of the supercontinent cycle. During which stages would you expect global warming to dominant?",
     "choices": {
-      "a": "box b",
-      "b": "box c",
-      "c": "box e",
-      "d": "box f"
+      "a": "Stages 1 and 2",
+      "b": "Stages 2 and 3",
+      "c": "Stages 3 and 4",
+      "d": "Stages 1 and 4"
     },
     "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/masswast.gif",
-    "category": "Mass Wasting",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch20/q17.jpg",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q397",
+    "id": "oup-ch20-q397",
     "globalId": 397,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "The accumulation of rocks at the base of a cliff is called _______.",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Which is an example of a positive feedback loop?",
     "choices": {
-      "a": "a dune",
-      "b": "soil creep",
-      "c": "an alluvial fan",
-      "d": "talus"
+      "a": "Decreasing temperature ➜increase in ice cover ➜increase in reflection of sunlight ➜decrease in temperature",
+      "b": "Decreasing temperature ➜decrease in plant cover ➜decrease in absorption of carbon dioxide ➜increase in temperature",
+      "c": "Increasing temperature ➜increase in plant cover ➜increase in absorption of carbon dioxide ➜decrease in temperature",
+      "d": "Increasing temperature ➜increase in weathering and erosion ➜increase in marine shell growth ➜decrease in temperature"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q398",
+    "id": "oup-ch20-q398",
     "globalId": 398,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "What is the difference between an earthflow and a debris flow?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "The geologic record shows that over long periods of time, Earth’s climate is dominated by:",
     "choices": {
-      "a": "Earthflows travel faster than a debris flow",
-      "b": "Earthflows travel slower than a debris flow",
-      "c": "Earthflows consist of finer material than debris flows",
-      "d": "Earthflows consist of coarser material than debris flows"
+      "a": "Warming conditions",
+      "b": "Cooling conditions",
+      "c": "Positive climate feedback",
+      "d": "Negative climate feedback"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q399",
+    "id": "oup-ch20-q399",
     "globalId": 399,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "How fast is soil creep?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Under the influence of positive climatic feedback conditions, relatively warm global climate conditions become:",
     "choices": {
-      "a": "a1 to 10 millimeters per year",
-      "b": "1 to 10 meters per year",
-      "c": "1 kilometer per hour",
-      "d": "over 10 kilometers per hour"
+      "a": "Cooler",
+      "b": "Warmer",
+      "c": "Less stable",
+      "d": "More stable"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q400",
+    "id": "oup-ch20-q400",
     "globalId": 400,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Which of the following types of mass movement could a person not outrun?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "The diagram represents:",
     "choices": {
-      "a": "slump",
-      "b": "soil creep",
-      "c": "debris flow",
-      "d": "debris avalanche"
+      "a": "Tilt",
+      "b": "Flux",
+      "c": "Precession",
+      "d": "Eccentricity"
     },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Mass Wasting",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch20/q13.jpg",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q401",
+    "id": "oup-ch20-q401",
     "globalId": 401,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Why are mudflows and debris avalanches common on volcanic slopes?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Which would you expect to observe when Earth’s tilt is at its maximum?",
     "choices": {
-      "a": "because there is abundant unconsolidated volcanic ash",
-      "b": "because earthquakes associated with volcanic eruptions can trigger mass movements",
-      "c": "volcanic eruptions trigger melting of ice and snow",
-      "d": "all of these"
+      "a": "More frequent glaciations",
+      "b": "Warmer summers and colder winters",
+      "c": "Increased overall input of solar radiation",
+      "d": "Less seasonal variation in the polar regions"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q402",
+    "id": "oup-ch20-q402",
     "globalId": 402,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "A slow slide of unconsolidated material that travels as a unit is called ______.",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "A group of scientists is studying climate change. Which are they least likely to be studying?",
     "choices": {
-      "a": "slump",
-      "b": "soil creep",
-      "c": "debris flow",
-      "d": "debris avalanche"
+      "a": "Ice cores",
+      "b": "Coal deposits",
+      "c": "Sunspot records",
+      "d": "Oxygen isotopes"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q403",
+    "id": "oup-ch20-q403",
     "globalId": 403,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Solifluction may occur when ________..",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "What happens to oxygen isotopes in polar ice during periods of higher temperature?",
     "choices": {
-      "a": "the surface layer freezes while the deeper soil remains unfrozen",
-      "b": "the surface soil layer thaws while the deeper soil remains frozen",
-      "c": "rapid downhill movement of unconsolidated material moving as unit",
-      "d": "rapid downhill movement of unconsolidated material moving like a fluid"
+      "a": "The ratio of 18O to 16O increases.",
+      "b": "The ratio of 18O to 16O decreases.",
+      "c": "The ratio of 18O to 16O becomes equal to one.",
+      "d": "The ratio of 18O to 16O becomes equal to zero."
     },
     "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q404",
+    "id": "oup-ch20-q404",
     "globalId": 404,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "_______ only occurs in permafrost regions.",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Which description best fits the pattern of carbon dioxide concentrations measured at the Mauna Loa observatory?",
     "choices": {
-      "a": "soil creep",
-      "b": "liquefaction",
-      "c": "solifluction",
-      "d": "landslides"
+      "a": "A constant level with no fluctuation",
+      "b": "A steady increase with no fluctuation",
+      "c": "Seasonal increases and decreases but overall constant levels",
+      "d": "Seasonal increases and decreases with an overall increasing trend"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q405",
+    "id": "oup-ch20-q405",
     "globalId": 405,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Why are few mass movement preserved in the geologic record?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Carbon is recycled through food chains and the inorganic parts of the carbon cycle. However, energy flows in only one direction through a food chain and is not recycled. This is because:",
     "choices": {
-      "a": "mass movements have only occurred recently due to human activities",
-      "b": "mass movement deposits erode easily",
-      "c": "mass movements were rare in the past due to low rainfall",
-      "d": "mas movement deposits are destroyed by large animals"
+      "a": "Cellular processes convert chemical energy into new matter",
+      "b": "Decomposers transfer energy to space before it can be reused",
+      "c": "Chemical energy is converted to heat at each step in a food chain",
+      "d": "Chemical energy cannot be converted into any other form of energy"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch9-q406",
+    "id": "oup-ch20-q406",
     "globalId": 406,
-    "source": "oxford",
-    "chapter": "Chapter 9",
-    "chapterNum": 9,
-    "chapterTitle": "Mass Wasting",
-    "text": "Mass movements frequently occur at which of the following plate tectonic settings?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Which is a reservoir for inorganic carbon?",
     "choices": {
-      "a": "convergent",
-      "b": "divergent",
-      "c": "transform",
-      "d": "all of the above"
+      "a": "Coal",
+      "b": "Limestone",
+      "c": "Decomposers",
+      "d": "Phytoplankton"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Mass Wasting",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Mass Wasting",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q407",
+    "id": "oup-ch20-q407",
     "globalId": 407,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "A dendritic stream pattern will tend to develop in __________ .",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "The diagram shows a simplified carbon cycle. Which process is represented by “A”?",
     "choices": {
-      "a": "regions underlain by regularly-spaced joints or faults",
-      "b": "regions of folded strata",
-      "c": "along the flanks of isolated volcanoes",
-      "d": "regions of flay-lying sedimentary rocks"
+      "a": "Digestion",
+      "b": "Predation",
+      "c": "Photosynthesis",
+      "d": "Cellular respiration"
     },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Running Water",
+    "correctAnswer": "c",
+    "imageUrl": "https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/static/companion.websites/9780199965557/images/ch20/q6.jpg",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q408",
+    "id": "oup-ch20-q408",
     "globalId": 408,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Point bars are deposited _____________ .",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Which type of solar radiation causes sunburns?",
     "choices": {
-      "a": "on the inside of a meander bend",
-      "b": "on the outside of a meander bend",
-      "c": "at the base of a waterfall",
-      "d": "by turbidity currents"
+      "a": "X-rays",
+      "b": "Visible light",
+      "c": "Infrared radiation",
+      "d": "Ultraviolet radiation"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q409",
+    "id": "oup-ch20-q409",
     "globalId": 409,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "As a river overflows its banks during flood, it drops much of its coarser-grained load immediately, forming landforms called ___________ .",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "How would Earth be different if there were no greenhouse effect?",
     "choices": {
-      "a": "deltas",
-      "b": "alluvial fans",
-      "c": "natural levees",
-      "d": "point bars"
+      "a": "Fewer species would become extinct.",
+      "b": "There would be no acidic precipitation.",
+      "c": "The ozone layer would be much thicker.",
+      "d": "The average temperature would be much lower."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q410",
+    "id": "oup-ch20-q410",
     "globalId": 410,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "A river flows into a quiet lake and begins to form a ____________ .",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Why are nitrogen and oxygen not considered to be greenhouse gases?",
     "choices": {
-      "a": "deltas",
-      "b": "alluvial fans",
-      "c": "natural levees",
-      "d": "point bars"
+      "a": "They reflect both visible light and infrared light.",
+      "b": "They absorb both visible light and infrared light.",
+      "c": "Both visible light and infrared light cause them to react.",
+      "d": "Both visible light and infrared light can pass through them."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q411",
+    "id": "oup-ch20-q411",
     "globalId": 411,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which one of the following generally decreases downstream along the length of a stream?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "How do greenhouse gases cause global warming?",
     "choices": {
-      "a": "channel width",
-      "b": "channel depth",
-      "c": "gradient",
-      "d": "velocity"
+      "a": "They absorb heat radiated from Earth’s surface.",
+      "b": "They reflect solar energy from Earth’s exosphere.",
+      "c": "They produce smog, which traps thermal energy near the ground.",
+      "d": "They damage the ozone layer, allowing more solar energy to enter the atmosphere."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q412",
+    "id": "oup-ch20-q412",
     "globalId": 412,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which of the following statements about fluid flow is false?",
+    "source": "oup",
+    "chapter": "Chapter 20",
+    "chapterNum": 20,
+    "chapterTitle": "The Greenhouse Effect and Global Climate Change",
+    "text": "Which is the strongest evidence for climate change?",
     "choices": {
-      "a": "as the velocity of a stream increases, laminar flow may change to turbulent flow",
-      "b": "the viscosity of most fluids increases as temperature increases",
-      "c": "most streams and rivers are turbulent",
-      "d": "the more viscous the fluid, the more likely the flow is laminar"
+      "a": "A colder-than-average winter",
+      "b": "A warmer-than-average summer",
+      "c": "A pattern of major blizzards affecting several cities in a particular winter",
+      "d": "A pattern of increasing frequency and intensity of storms over many years"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "The Greenhouse Effect and Global Climate Change",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "The Greenhouse Effect and Global Climate Change",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q413",
+    "id": "oup-ch21-q413",
     "globalId": 413,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "What type of flow can transport gravel and cobbles?",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "The surface of Mercury is most similar to the surface of:",
     "choices": {
-      "a": "laminar",
-      "b": "turbulent",
-      "c": "both A and B",
-      "d": "neither A nor B"
+      "a": "Earth",
+      "b": "Venus",
+      "c": "Mars",
+      "d": "The Moon"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q414",
+    "id": "oup-ch21-q414",
     "globalId": 414,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Particles that roll and slide along the river bottom are called _________ .",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "A scientists who studies exoplanets studies:",
     "choices": {
-      "a": "bed load",
-      "b": "suspended load",
-      "c": "dissolved load",
-      "d": "none of the above"
+      "a": "Planets with hard, brittle outer shells",
+      "b": "Planets that orbit stars other than the Sun",
+      "c": "Solar System bodies that are no longer classified as planets",
+      "d": "Solar System bodies that have been captured from other solar systems"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q415",
+    "id": "oup-ch21-q415",
     "globalId": 415,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "What type of material is most likely to be transported as suspended load?",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "In which way are asteroids generally different from comets?",
     "choices": {
-      "a": "clay",
-      "b": "silt",
-      "c": "sand",
-      "d": "depends on the \"energy\" of the stream"
+      "a": "Asteroids have more elliptical orbits.",
+      "b": "Asteroids contain more rock and less ice.",
+      "c": "Asteroids are made entirely of iron and nickel.",
+      "d": "Asteroids originate from much farther out in the Solar System."
     },
-    "correctAnswer": "d",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q416",
+    "id": "oup-ch21-q416",
     "globalId": 416,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Suspended load includes material ___________ .",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Scientists who belong to the Meteoritical Society are most interested in:",
     "choices": {
-      "a": "rolling along on the bottom of the stream",
-      "b": "temporarily or permanently suspended in the flow",
-      "c": "deposited on the bottom of the stream",
-      "d": "rolling along the bottom and suspended in the flow"
+      "a": "How the Sun shines",
+      "b": "Hurricanes and tornadoes",
+      "c": "The cause of the Big Bang",
+      "d": "The age and origin of the Solar System"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q417",
+    "id": "oup-ch21-q417",
     "globalId": 417,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "The speed at which suspended particles become part of the bed load of a stream is called the ____________ .",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Pluto is now considered to be one of many small icy objects in a region of space known as the:",
     "choices": {
-      "a": "discharge velocity",
-      "b": "capacity",
-      "c": "settling velocity",
-      "d": "competence"
+      "a": "Kuiper Belt",
+      "b": "Oort Cloud",
+      "c": "Asteroid Belt",
+      "d": "Inner Solar System"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q418",
+    "id": "oup-ch21-q418",
     "globalId": 418,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Running water erodes solid rock by _________ .",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "What are Saturn’s rings made of?",
     "choices": {
-      "a": "abrasian",
-      "b": "chemical and physical weathering",
-      "c": "undercutting action of currents",
-      "d": "all of the above"
+      "a": "Photons",
+      "b": "Hydrogen and helium gas",
+      "c": "Small chunks of rock, ice, and dust",
+      "d": "Small spheres of metallic hydrogen"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q419",
+    "id": "oup-ch21-q419",
     "globalId": 419,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "At a bend in a river, _________ occurs on the outside of the bend and ________ occurs on the inside of the bend.",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Why do scientists think that Europa and Enceladus are good candidates for life elsewhere in the Solar System?",
     "choices": {
-      "a": "erosion ..... deposition",
-      "b": "deposition ...... erosion",
-      "c": "erosion .......erosion",
-      "d": "deposition ..... deposition"
+      "a": "Both show evidence for liquid water either on or below the surface.",
+      "b": "Both are covered in methane, which is produced by bacteria.",
+      "c": "Both are located in the “goldilocks zone” of the Solar System.",
+      "d": "Both have been explored by spacecraft that could have contaminated the surface."
     },
     "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q420",
+    "id": "oup-ch21-q420",
     "globalId": 420,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which of the following does not determine whether a stream is straight, braided, or meandering?",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Jupiter is most similar in composition to:",
     "choices": {
-      "a": "flow volume",
-      "b": "sediment load",
-      "c": "riverbank erodibility",
-      "d": "length of river"
+      "a": "Earth",
+      "b": "Venus",
+      "c": "The Sun",
+      "d": "The Galilean moons"
     },
-    "correctAnswer": "d",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q421",
+    "id": "oup-ch21-q421",
     "globalId": 421,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "The volume of water flowing past a point in a given time is called the __________.",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "The Jovian planets are dominated by which elements?",
     "choices": {
-      "a": "comptence",
-      "b": "viscosity",
-      "c": "discharge",
-      "d": "capacity"
+      "a": "Iron and nickel",
+      "b": "Silicon and oxygen",
+      "c": "Nitrogen and argon",
+      "d": "Hydrogen and helium"
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q422",
+    "id": "oup-ch21-q422",
     "globalId": 422,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "What is the probability of a 50-year flood occuring next year?",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "A student is building an edible model of Neptune. The model consists of a FireBall candy surrounded by chocolate, surrounded by marshmallow. What does the marshmallow represent?",
     "choices": {
-      "a": "2%",
-      "b": "10%",
-      "c": "50%",
-      "d": "cannot be determined from the information given"
+      "a": "Ices",
+      "b": "Metals",
+      "c": "Liquid hydrogen",
+      "d": "Gaseous helium"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q423",
+    "id": "oup-ch21-q423",
     "globalId": 423,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "The shape of the longitudinal profile of all streams is __________ .",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Which statement best describes the major difference between the Jovian planets and the terrestrial planets?",
     "choices": {
-      "a": "a horizontal line",
-      "b": "a straight line sloping downstream",
-      "c": "a concave upward curve",
-      "d": "a concave downward curve"
+      "a": "The Jovian planets are much younger than the terrestrial planets.",
+      "b": "The Jovian planets are more geologically active than the terrestrial planets.",
+      "c": "The Jovian planets are much larger and less dense than the terrestrial planets.",
+      "d": "The Jovian planets have greater rotational and orbital speeds than the terrestrial planets."
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q424",
+    "id": "oup-ch21-q424",
     "globalId": 424,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "If sea level were to rise, the slope of the longitudinal profile of many rivers would _________ .",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Which statement about plate tectonics on Earth best represents current thinking among geologists?",
     "choices": {
-      "a": "increase",
-      "b": "decrease",
-      "c": "first increase, then decrease",
-      "d": "first decrease, then increase"
+      "a": "Plate tectonics will probably cease within the next century.",
+      "b": "Plate tectonics is inhibited by the existence of continental crust.",
+      "c": "Plate tectonics probably did not begin on Earth until the Cambrian.",
+      "d": "Plate tectonics was probably more rapid in the ancient geologic past than it is today."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q425",
+    "id": "oup-ch21-q425",
     "globalId": 425,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "If a dam is built, sediment will ________ on the upstream side of the dam and sediment will ________ on the downstream side of the dam.",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Olympus Mons is the largest known volcano is the Solar System. It is a hotspot volcano similar to Mauna Loa in Hawaii. Why is Olympus Mons so much bigger than Mauna Loa?",
     "choices": {
-      "a": "accumulate ... accumulate",
-      "b": "accumulate ... erode",
-      "c": "erode ... accumulate",
-      "d": "erode ... erode"
+      "a": "Mars is older than Earth, and Olympus Mons is much older than Mauna Loa.",
+      "b": "Mars’ moons are much smaller than Earth’s Moon and exert less force on the surface.",
+      "c": "There was no plate motion moving the Martian lithosphere over the Olympus Mons hotspot.",
+      "d": "Mars’ longer orbital period results in a slower motion of mantle plumes beneath the lithosphere."
     },
-    "correctAnswer": "b",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q426",
+    "id": "oup-ch21-q426",
     "globalId": 426,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Terraces are remnants of former ___________ .",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Mars is tilted on its rotational axis at an angle similar to Earth. What else does Mars therefore have in common with Earth?",
     "choices": {
-      "a": "floodplains",
-      "b": "rivers",
-      "c": "floodplain deposits",
-      "d": "alluvial fans"
+      "a": "A moon",
+      "b": "Frozen water",
+      "c": "Active volcanoes",
+      "d": "Seasonal changes"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q427",
+    "id": "oup-ch21-q427",
     "globalId": 427,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "What type of drainage pattern would you expect to find on a volcano?",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Which best describes Mercury at night?",
     "choices": {
-      "a": "dendritic",
-      "b": "rectangular",
-      "c": "radial",
-      "d": "radical"
+      "a": "It is very hot because Mercury is so close to the Sun.",
+      "b": "It is very cold because there are glaciers and ice caps on Mercury.",
+      "c": "It is very hot because there are many active volcanoes on Mercury.",
+      "d": "It is very cold because Mercury has no atmosphere to trap the daytime heat."
     },
-    "correctAnswer": "c",
+    "correctAnswer": "d",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q428",
+    "id": "oup-ch21-q428",
     "globalId": 428,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "What type of drainage pattern would you expect to find where rapid weathering along joints in bedrock controls the course of streams?",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Compared to the Jovian planets, the terrestrial planets:",
     "choices": {
-      "a": "dendritic",
-      "b": "rectangular",
-      "c": "radial",
-      "d": "radical"
+      "a": "Are much denser",
+      "b": "Have more moons",
+      "c": "Rotate more quickly on their axes",
+      "d": "Revolve around the Sun more slowly"
     },
-    "correctAnswer": "b",
+    "correctAnswer": "a",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q429",
+    "id": "oup-ch21-q429",
     "globalId": 429,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "A delta is made up of sediments ____________ .",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "There are many more craters on the Moon than on Earth. This is evidence that:",
     "choices": {
-      "a": "deposited at the mouth of a river",
-      "b": "deposited on the inside of a meander loop",
-      "c": "deposited at a mountain front",
-      "d": "deposited on the outside of a meander loop"
+      "a": "The Moon’s crust is more brittle than Earth’s",
+      "b": "The Moon’s gravitational pull is greater than Earth’s",
+      "c": "The Moon has been much less geologically active than Earth over time",
+      "d": "Volcanic explosions were more widespread on the Moon than on Earth"
     },
-    "correctAnswer": "a",
+    "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q430",
+    "id": "oup-ch21-q430",
     "globalId": 430,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which of the following processes is the most important erosional force?",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "In which way are the rocks of the lunar maria different from those that make up Earth’s oceanic crust?",
     "choices": {
-      "a": "streams",
-      "b": "glaciers",
-      "c": "wind",
-      "d": "waves"
+      "a": "The maria are made of lighter-colored, more felsic rocks than those of the oceanic crust.",
+      "b": "The maria are made of much older volcanic rocks than those of the oceanic crust.",
+      "c": "The maria are intrusive, while the rocks of the ocean crust are extrusive.",
+      "d": "The maria are still partially molten, while most of the oceanic crust is solid."
     },
-    "correctAnswer": "a",
+    "correctAnswer": "b",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q431",
+    "id": "oup-ch21-q431",
     "globalId": 431,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "About how much dissolved materials do rivers transport each year?",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Which keeps the Moon in orbit around Earth?",
     "choices": {
-      "a": "2-4 thousand tons",
-      "b": "2-4 million tons",
-      "c": "2-4 billion tons",
-      "d": "2-4 trillion tons"
+      "a": "Earth’s ocean tides",
+      "b": "The magnetic pull between the Moon and Earth’s poles",
+      "c": "The gravitational attraction between the Moon and Earth",
+      "d": "The static electrical forces between the rocks on the Moon and on Earth"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   },
   {
-    "id": "oxford-ch10-q432",
+    "id": "oup-ch21-q432",
     "globalId": 432,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Since humans began to actively affect their environment, how much has sediment transport by streams increased?",
+    "source": "oup",
+    "chapter": "Chapter 21",
+    "chapterNum": 21,
+    "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
+    "text": "Asteroids, meteors, and meteorites are generally thought to represent:",
     "choices": {
-      "a": "10%",
-      "b": "50%",
-      "c": "100%",
-      "d": "200%"
+      "a": "Accumulations of debris from the solar wind",
+      "b": "Fragments of the Moon that were broken off during impacts",
+      "c": "Remnants of the early Solar System that were not incorporated into planets",
+      "d": "Material captured from other nebulae as the Solar System rotates through the galaxy"
     },
     "correctAnswer": "c",
     "imageUrl": null,
-    "category": "Running Water",
+    "category": "Planetary Geology: Terrestrial Planets & Moons",
     "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q433",
-    "globalId": 433,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which of the following flows is most likely to be turbulent?",
-    "choices": {
-      "a": "slow flow in a shallow channel",
-      "b": "fast flow in a shallow channel",
-      "c": "slow flow in a deep channel",
-      "d": "fast flow in a deep channel"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q434",
-    "globalId": 434,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which of the following statements about fluid flow is false?",
-    "choices": {
-      "a": "as the velocity of a stream increases, laminat flow may change to turbulent flow",
-      "b": "the viscosity of most fluids increases as the temperature increases",
-      "c": "most streams and rivers are turbulent",
-      "d": "the more viscous the fluid, the more likely the flow is laminar"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q435",
-    "globalId": 435,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "What type of flow can transport gravel and cobbles?",
-    "choices": {
-      "a": "laminar",
-      "b": "turbulent",
-      "c": "both A and B",
-      "d": "neither A nor B"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q436",
-    "globalId": 436,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "What type of material is most likely to be transported as suspended load?",
-    "choices": {
-      "a": "clay particles",
-      "b": "sand particles",
-      "c": "gravel particles",
-      "d": "all of these are equally likely to be transported as suspended load"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q437",
-    "globalId": 437,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which of the following statements about streams is false?",
-    "choices": {
-      "a": "for the same discharge, laminar flows generally carry more sediment than turbulent flows",
-      "b": "faster currents can carry larger particles than slower currents",
-      "c": "smaller particles settle more slowly than larger particles",
-      "d": "the base level is the lowest level to which a stream can erods"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q438",
-    "globalId": 438,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Gravel-sized particles are transported by rivers as ________.",
-    "choices": {
-      "a": "suspended load",
-      "b": "bed load",
-      "c": "dissolved load",
-      "d": "all of these"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q439",
-    "globalId": 439,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "The intermittent jumping motion of sand grains along a river bottom is called ______.",
-    "choices": {
-      "a": "saltation",
-      "b": "rippling",
-      "c": "suspension",
-      "d": "meandering"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q440",
-    "globalId": 440,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "During turbulen flow, smaller grains will not _________.",
-    "choices": {
-      "a": "be picked up more frequently than large grains",
-      "b": "jump higher than large grains",
-      "c": "settle more quickly than large grains",
-      "d": "travel further than large grains"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q441",
-    "globalId": 441,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which of the following stream velocities will lead to the largest sand dunes?",
-    "choices": {
-      "a": "low",
-      "b": "moderate",
-      "c": "high",
-      "d": "very high"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q442",
-    "globalId": 442,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Potholes in river bottom bedrock are formed by _____.",
-    "choices": {
-      "a": "the impacy of a large rock moved by a strong current which makes a \"crater\"",
-      "b": "the grinding action of a pebble or cobble in a swirling eddy",
-      "c": "cascading water from a waterfall which wears away the rock",
-      "d": "none of the above"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q443",
-    "globalId": 443,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Of the choices show belpw, the most common youthful cross-sectional river valley profile is _____? A B C D",
-    "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "D"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap13f1.gif",
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q444",
-    "globalId": 444,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Of the choices show below, the most common mature cross-sectional river valley profile is _____? A B C D",
-    "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "D"
-    },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap13f1.gif",
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q445",
-    "globalId": 445,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "What is the term for a curved sandbar that forms on the inside curve of a stream?",
-    "choices": {
-      "a": "meander",
-      "b": "point bar",
-      "c": "dune",
-      "d": "oxbow"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q446",
-    "globalId": 446,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "In this figure the arrow is pointing to a(n) _________?",
-    "choices": {
-      "a": "meander",
-      "b": "point bar",
-      "c": "natural levee",
-      "d": "oxbow lake"
-    },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chqp13f2.gif",
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q447",
-    "globalId": 447,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Natural levees are made up of ___________.",
-    "choices": {
-      "a": "silt and clay deposited during a flood",
-      "b": "sand and gravel deposited during a flood",
-      "c": "overlaping point bars",
-      "d": "isolated point bars"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q448",
-    "globalId": 448,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Natural levees are built up by _________.",
-    "choices": {
-      "a": "beavers",
-      "b": "humans",
-      "c": "floods",
-      "d": "erosion"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q449",
-    "globalId": 449,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "For a given river, which of the following floods would have the largest discharge?",
-    "choices": {
-      "a": "a 5-year",
-      "b": "a 20-year flood",
-      "c": "a 100-year",
-      "d": "one cannot be determined from the informaiton given"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q450",
-    "globalId": 450,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which of the following statements regarding floods is true?",
-    "choices": {
-      "a": "a 50-year flood is generally of greater magnitude than a 100-year flood",
-      "b": "a 100-year flood has a 10% chance of occurring in any one year.",
-      "c": "if there is a 20% probability of a flood of a certain height occurring in any one year it is called a 5-year flood",
-      "d": "the recurrence interval of a flood of a certain height does not depend upon the width of the floodplain"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q451",
-    "globalId": 451,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "What is the primary reason sediment is deposited in large cone-shaped deposits at mountain fronts?",
-    "choices": {
-      "a": "because stream valleys widen abruptly at a mountain front",
-      "b": "because stream valleys nattrow abruptly at a mountain front",
-      "c": "because streat valleys get much steeptr a a mountain front",
-      "d": "because stream valeys get less steep at a mountain front"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q452",
-    "globalId": 452,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "River terraces are composed of ________ and form as a result of rapid _______",
-    "choices": {
-      "a": "bedrock .... subsidence",
-      "b": "bedrock ..... uplift",
-      "c": "flood plain deposits ..... subsidence",
-      "d": "flood plain deposits ..... uplift"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q453",
-    "globalId": 453,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "If a stream breaks through a divide and captures drainage from the competing stream it is called",
-    "choices": {
-      "a": "competitive capture",
-      "b": "competitive erosion",
-      "c": "stream piracy",
-      "d": "stream capture"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q454",
-    "globalId": 454,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "This pattern most closely resembles ________ drainage",
-    "choices": {
-      "a": "dendritic",
-      "b": "rectangular",
-      "c": "radial",
-      "d": "trellis"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q455",
-    "globalId": 455,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "In this map view, the stream is flowing _______",
-    "choices": {
-      "a": "from top to bottom",
-      "b": "from bottom to top",
-      "c": "from right to left",
-      "d": "from left to right"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap13f3.gif",
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q456",
-    "globalId": 456,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "A _________ drainage pattern develops where rapid weathering along joints in bedrock controls the course of streams",
-    "choices": {
-      "a": "dendritic",
-      "b": "rectangular",
-      "c": "radial",
-      "d": "trellis"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q457",
-    "globalId": 457,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "How far can large rivers, such as the Amazon, maintain a current out to sea?",
-    "choices": {
-      "a": "meters",
-      "b": "tens of meters",
-      "c": "hundreds of meters",
-      "d": "many kilometers"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q458",
-    "globalId": 458,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "A delta is made up of sediments _________",
-    "choices": {
-      "a": "deposited at the mouth of a river",
-      "b": "deposited on the inside of a meander loop",
-      "c": "deposited at a moutain front",
-      "d": "deposited on the outsideof a meander loop"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q459",
-    "globalId": 459,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Which of the following beds in a lake-delta consists of thin horizontal layers of mud?",
-    "choices": {
-      "a": "topset",
-      "b": "foreset",
-      "c": "bottomset beds",
-      "d": "all of these"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q460",
-    "globalId": 460,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "Why is the Missippi delta so large?",
-    "choices": {
-      "a": "because the Mississippi RIver transports a huge amount of sediment",
-      "b": "because the tides in the GUlf of Mexico are not very strong",
-      "c": "because waves in the Gulf of Mexico are not very strong",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch10-q461",
-    "globalId": 461,
-    "source": "oxford",
-    "chapter": "Chapter 10",
-    "chapterNum": 10,
-    "chapterTitle": "Running Water",
-    "text": "The east coast of North America lacks deltas because ________",
-    "choices": {
-      "a": "waves and tides are too strong",
-      "b": "no rivers empty out along the east coast of North AMerica",
-      "c": "the Applachian Mountains are too erosion resistant",
-      "d": "rivers of the east coast have currents that are too weak to carry much sediment"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Running Water",
-    "tags": [
-      "Running Water",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q462",
-    "globalId": 462,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which of the following reservoirs contains the most water?",
-    "choices": {
-      "a": "atmosphere",
-      "b": "biosphere",
-      "c": "groundwater",
-      "d": "lakes and rivers"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q463",
-    "globalId": 463,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "How much of the Earth's water is stored in underground aquifers?",
-    "choices": {
-      "a": "less than 1%",
-      "b": "about 5%",
-      "c": "about 10%",
-      "d": "about 20%"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q464",
-    "globalId": 464,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "What is the process by which water enters the small pore spaces between particles in soil or rocks",
-    "choices": {
-      "a": "transpiration",
-      "b": "inflitration",
-      "c": "precipation",
-      "d": "sublimation"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q465",
-    "globalId": 465,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which of the following terms is a measure of the amount of water vapor in the air as a proportion of the maximum amount the air could hold at the same temperature?",
-    "choices": {
-      "a": "dew point",
-      "b": "sublimation point",
-      "c": "evaporation rate",
-      "d": "relative humidity"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q466",
-    "globalId": 466,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The percentage of a rock's total volume that is taken up by pore space is called the _______ .",
-    "choices": {
-      "a": "permeability",
-      "b": "recharge",
-      "c": "aquifer",
-      "d": "porosity"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q467",
-    "globalId": 467,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Permeability is __________ .",
-    "choices": {
-      "a": "the ability of a solid to allow fluids to pass through",
-      "b": "the process by which plants release water vapor to the atmosphere",
-      "c": "the amount of water vapor in the air relative to the maximum amount of water vapor the air can hold.",
-      "d": "the percentage of pore space in the rock"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q468",
-    "globalId": 468,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The best groundwater reservoirs have __________ .?",
-    "choices": {
-      "a": "low permeability and low porosity",
-      "b": "low permeability and high porosity",
-      "c": "high permeability and low porosity",
-      "d": "high permeability and high porosity"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q469",
-    "globalId": 469,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The ability of an Earth material to transmit water is a measure of its:",
-    "choices": {
-      "a": "porosity",
-      "b": "aquifer characteristics",
-      "c": "chemical cement",
-      "d": "permeability"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q470",
-    "globalId": 470,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The lowering effect on the water table about the base of the well stem is called a(n):",
-    "choices": {
-      "a": "aquiclude",
-      "b": "artesian surface",
-      "c": "cone of depression",
-      "d": "speleothem"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q471",
-    "globalId": 471,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "A local water table positioned above the regional water table is said to be:",
-    "choices": {
-      "a": "stranded",
-      "b": "perched",
-      "c": "displaced",
-      "d": "depressed"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q472",
-    "globalId": 472,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which of the following statements about the water table is false:",
-    "choices": {
-      "a": "the water table changes when discharge is not balanced by recharge",
-      "b": "the water table is generally flat",
-      "c": "the water table is above the land surface in lakes",
-      "d": "the water table is depressed near high volume pumping wells"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q473",
-    "globalId": 473,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The boundary between the saturated zone and the unsaturated zone is called the______ .",
-    "choices": {
-      "a": "water table",
-      "b": "aquifer",
-      "c": "aquiclude",
-      "d": "porosity"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q474",
-    "globalId": 474,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The infiltration of water into the subsurface is the __________ .",
-    "choices": {
-      "a": "influent",
-      "b": "effluent",
-      "c": "discharge",
-      "d": "recharge"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q475",
-    "globalId": 475,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "What is the term for a relatively impermeable geologic unit?",
-    "choices": {
-      "a": "an artesian",
-      "b": "an aquiclude",
-      "c": "an aquifer",
-      "d": "none of these"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q476",
-    "globalId": 476,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Excessive pumping in relation to recharge can cause ________ .",
-    "choices": {
-      "a": "the water table to decline",
-      "b": "a cone of depression to form",
-      "c": "the well to go dry",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q477",
-    "globalId": 477,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The most abundant, natural acid is:",
-    "choices": {
-      "a": "nitric",
-      "b": "hyrdochloric",
-      "c": "carbonic",
-      "d": "citric"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q478",
-    "globalId": 478,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Most groundwater withdrawn in the United States is used for ________ .",
-    "choices": {
-      "a": "industry",
-      "b": "irrigation",
-      "c": "drinking water",
-      "d": "swimming pools"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q479",
-    "globalId": 479,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "In what types of rock do most caves form?",
-    "choices": {
-      "a": "granite",
-      "b": "shale",
-      "c": "limestone",
-      "d": "sandstone"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q480",
-    "globalId": 480,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Stalactites and stalagmites in caves are composed of ________ .",
-    "choices": {
-      "a": "quartz",
-      "b": "alkali feldspar",
-      "c": "halite",
-      "d": "calcite"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q481",
-    "globalId": 481,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Hard water contains large amounts of __________ .",
-    "choices": {
-      "a": "lead",
-      "b": "sodium",
-      "c": "calcium",
-      "d": "silicon"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q482",
-    "globalId": 482,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Most of the water coming out of continental hot springs is ________ .",
-    "choices": {
-      "a": "meteoric water",
-      "b": "magmatic water",
-      "c": "seawater",
-      "d": "metamorphic water"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q483",
-    "globalId": 483,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "With respect to the Earth's land surface, which of the following expressions is correct?",
-    "choices": {
-      "a": "precipitation = evaporation - runoff",
-      "b": "precipitation = runoff - evaporation",
-      "c": "precipitation = evaporation + runoff",
-      "d": "precipitation = evaporation * runoff"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q484",
-    "globalId": 484,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which one of the following features is a sure sign of karst?",
-    "choices": {
-      "a": "sinkholes",
-      "b": "artesian wells",
-      "c": "cones of depression",
-      "d": "speleothems"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q485",
-    "globalId": 485,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which of the following statements is true?",
-    "choices": {
-      "a": "cool air can hold more water vapor than warm air",
-      "b": "warm air can hold more water than cool air",
-      "c": "cool air and warm air always hold the same amount of water vapor",
-      "d": "air cannot contain water vapor"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q486",
-    "globalId": 486,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which one of the following features is a sure sign of karst?",
-    "choices": {
-      "a": "sinkholes",
-      "b": "artesian wells",
-      "c": "cones of depression",
-      "d": "speleothems"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q487",
-    "globalId": 487,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The diagram above represents a cross section through a coastal mountain range. Which of the following statements is correct?",
-    "choices": {
-      "a": "Region A would receive the most precipitation",
-      "b": "Region B would receive the most precipitation",
-      "c": "Regions C would receive the most precipitation",
-      "d": "Regions A, B, and C would receive about the same amount of precipitation"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap12fig1.gif",
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q488",
-    "globalId": 488,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "What feature might you expect to see developed in region C?",
-    "choices": {
-      "a": "an alluvial fan",
-      "b": "a delta",
-      "c": "a submarine fan",
-      "d": "point bars"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap12fig1.gif",
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q489",
-    "globalId": 489,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "California imports most of its water supply. What is most of the water used for?",
-    "choices": {
-      "a": "agriculture",
-      "b": "domestic irrigation - lawns",
-      "c": "industry",
-      "d": "municipal drinking water"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q490",
-    "globalId": 490,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which of the following regions has the highest average annual rainfall?",
-    "choices": {
-      "a": "northeast US",
-      "b": "southeast US",
-      "c": "southwest US",
-      "d": "central US"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q491",
-    "globalId": 491,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The average annual rainfall in Houston, Texas is _______?",
-    "choices": {
-      "a": "10-20 inches US",
-      "b": "20-30 inches",
-      "c": "30-40 inches",
-      "d": "greater than 40 inches"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q492",
-    "globalId": 492,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "What river carries the most water _______?",
-    "choices": {
-      "a": "Amazon in South America",
-      "b": "Mississippi in US",
-      "c": "Amazon in Africa",
-      "d": "Ganges in Asia"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q493",
-    "globalId": 493,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Groundwater represents how much of the world's fresh water supply?",
-    "choices": {
-      "a": "about 1%",
-      "b": "about 5%",
-      "c": "about 20%",
-      "d": "about 50%"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q494",
-    "globalId": 494,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which of the following rocks has the highest permeability?",
-    "choices": {
-      "a": "an unfractured shale",
-      "b": "a cemented sandstones",
-      "c": "an uncemented sandstone",
-      "d": "all of these rocks have approximately the same permeability"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q495",
-    "globalId": 495,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which of the following materials has the lowest porosity?",
-    "choices": {
-      "a": "shale",
-      "b": "gravel",
-      "c": "granite",
-      "d": "sandstone"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q496",
-    "globalId": 496,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "What is the difference between the saturated and the unsaturated zones of ground water?",
-    "choices": {
-      "a": "the saturated zone has a higher porosity than the unsaturated zone",
-      "b": "the saturated zone has a lower porosity than the unsaturated zone",
-      "c": "the pore spaces in the saturated zone are completely full of water; the pore spaces in the unsaturated zone are not completely full of water.",
-      "d": "the pore spaces in the saturated zone are not completely full of water; the pore spaces in the unsaturated zone are completely full of water"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q497",
-    "globalId": 497,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "The boundary between the saturated zone and the unsaturated zone is called the _____.",
-    "choices": {
-      "a": "water table",
-      "b": "aquifer",
-      "c": "aquilude",
-      "d": "porosity"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap12f2.gif",
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q498",
-    "globalId": 498,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "In the diagram above region A is the _______ .",
-    "choices": {
-      "a": "discharge zone",
-      "b": "recharge zone",
-      "c": "saturated zone",
-      "d": "unsaturated zone"
-    },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap12f2.gif",
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q499",
-    "globalId": 499,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "In the diagram above region B is the _______ .",
-    "choices": {
-      "a": "discharge zone",
-      "b": "recharge zone",
-      "c": "saturated zone",
-      "d": "unsaturated zone"
-    },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap12f2.gif",
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q500",
-    "globalId": 500,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Influent streams are _______",
-    "choices": {
-      "a": "more common in arid regions",
-      "b": "more common in humid regions",
-      "c": "only found in areas of permafrost",
-      "d": "sinkhole"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q501",
-    "globalId": 501,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Excessive pumping in relation to recharge can cause_______",
-    "choices": {
-      "a": "the water table to decline",
-      "b": "a cone of depression",
-      "c": "the well to go dry",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q502",
-    "globalId": 502,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "In what type of rock do most caves form?",
-    "choices": {
-      "a": "granite",
-      "b": "shale",
-      "c": "limestone",
-      "d": "sandstone"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q503",
-    "globalId": 503,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Sinkholes are a possible danger in regions underlain by what type of bedrock?",
-    "choices": {
-      "a": "granite",
-      "b": "sandstone",
-      "c": "shale",
-      "d": "limestone"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q504",
-    "globalId": 504,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Water that is good enough to drink is called ________.",
-    "choices": {
-      "a": "potable water",
-      "b": "groundwater",
-      "c": "surface water",
-      "d": "artesian water"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch11-q505",
-    "globalId": 505,
-    "source": "oxford",
-    "chapter": "Chapter 11",
-    "chapterNum": 11,
-    "chapterTitle": "Groundwater",
-    "text": "Which of the following can contaminate an aquifer?",
-    "choices": {
-      "a": "landfills",
-      "b": "agricultural regions",
-      "c": "gas stations",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Groundwater",
-    "tags": [
-      "Groundwater",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q506",
-    "globalId": 506,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following depositional features would you look for to assess whether an area had undergone glaciation?",
-    "choices": {
-      "a": "horns, aretes or cols",
-      "b": "hanging valleys",
-      "c": "terminal moraines",
-      "d": "all of the above"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q507",
-    "globalId": 507,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following erosional features would you look for to assess whether an area had undergone glaciation?",
-    "choices": {
-      "a": "horns, aretes or cols",
-      "b": "hanging valleys",
-      "c": "waterfalls",
-      "d": "all of the above"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q508",
-    "globalId": 508,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Active continental glaciation may produce world-wide transgressions lasting several tens of millions of years?",
-    "choices": {
-      "a": "yes",
-      "b": "no"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q509",
-    "globalId": 509,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Glaciation forms by ___________ of snow.",
-    "choices": {
-      "a": "burial and metamorphism of snow",
-      "b": "melting and refreezing",
-      "c": "erosion and deposition",
-      "d": "precipitation and melting"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q510",
-    "globalId": 510,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Valley glaciers are also known as _________ glaciers.",
-    "choices": {
-      "a": "lowland",
-      "b": "upland",
-      "c": "alpine",
-      "d": "gorge"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q511",
-    "globalId": 511,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "High latitudes are cold because ___________ .",
-    "choices": {
-      "a": "there are fewer hours of sunlight than at the equator",
-      "b": "there is more snow than at the equator",
-      "c": "the angle between the Sun's rays and the Earth's surface is different than at the equator",
-      "d": "the Earth's poles are further from the Sun than the Earth's equator"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q512",
-    "globalId": 512,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "At the equator, at what altitude does the snow line lie?",
-    "choices": {
-      "a": "less than 1000 meters",
-      "b": "about 2500 meters",
-      "c": "about 5000 meters",
-      "d": "about 7500 meters"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q513",
-    "globalId": 513,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following lists is written in the order of increasing metamorphism?",
-    "choices": {
-      "a": "snow ... granular ice ... firn ... glacial ice",
-      "b": "snow ... firn ... glacial ice ... granular ice",
-      "c": "snow ... firn ... granular ice ... glacial ice",
-      "d": "snow ... granular ice ... glacial ice ... firn"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q514",
-    "globalId": 514,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following refers to the total amount of ice lost from a glacier each year?",
-    "choices": {
-      "a": "meltage",
-      "b": "accumulation",
-      "c": "sublimation",
-      "d": "ablation"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q515",
-    "globalId": 515,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "The transformation from ice to gaseous water vapor is called _________ .",
-    "choices": {
-      "a": "melting",
-      "b": "sublimation",
-      "c": "boiling",
-      "d": "condensation"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q516",
-    "globalId": 516,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following is not a form of ablation?",
-    "choices": {
-      "a": "melting",
-      "b": "sublimation",
-      "c": "calving",
-      "d": "all of these are processes contributing to ablation"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q517",
-    "globalId": 517,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Cold, dry glaciers move ___________",
-    "choices": {
-      "a": "mostly by plastic flow",
-      "b": "mostly by basal slip",
-      "c": "by both basal slip and plastic flow",
-      "d": "by neither basal slip nor plastic flow"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q518",
-    "globalId": 518,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "What is the name for an amphitheater-like hollow that forms at the head of a glacier?",
-    "choices": {
-      "a": "kettle",
-      "b": "moraine",
-      "c": "cirque",
-      "d": "horn"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q519",
-    "globalId": 519,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following can be used to determine the direction a continental glacier moved?",
-    "choices": {
-      "a": "striations",
-      "b": "roches mountonees",
-      "c": "drumlins",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q520",
-    "globalId": 520,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "In a continental glacier, ice flows ________ .",
-    "choices": {
-      "a": "from the edges to the center",
-      "b": "from the center to the edges",
-      "c": "from north to south",
-      "d": "from south to north"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q521",
-    "globalId": 521,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Varve deposits are formed when ________ is deposited in the summer and _____ is deposited in the winter",
-    "choices": {
-      "a": "coarse silt ... fine clay",
-      "b": "gravel ... sand",
-      "c": "fine clay ... sand",
-      "d": "coarse silt ... gravel"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q522",
-    "globalId": 522,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following agents of erosion deposits the most poorly sorted sediment?",
-    "choices": {
-      "a": "wind",
-      "b": "ice",
-      "c": "streams",
-      "d": "ocean currents"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q523",
-    "globalId": 523,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "When two cirques at the heads of adjacent valleys meet at the mountaintop, the produce a sharp, jagged crest called a(n) __________ .",
-    "choices": {
-      "a": "arete",
-      "b": "fjord",
-      "c": "drumlin",
-      "d": "moraine"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q524",
-    "globalId": 524,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following are not water-laid deposits associated with glaciers?",
-    "choices": {
-      "a": "moraines",
-      "b": "kames",
-      "c": "eskers",
-      "d": "varves"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q525",
-    "globalId": 525,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Kettles are formed by ___________ .",
-    "choices": {
-      "a": "meltwater streams running through glacial tunnels",
-      "b": "large blocks of ice left by a glacier in its outwash plain",
-      "c": "seasonal deposition of coarse and fine sediment",
-      "d": "melting permafrost"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q526",
-    "globalId": 526,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "During the peak of the last ice age, sea level was about ______ lower than sea level today.",
-    "choices": {
-      "a": "1 meter lower",
-      "b": "10 meters lower",
-      "c": "100 meters lower",
-      "d": "1000 meters lower"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q527",
-    "globalId": 527,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "How many distinct glaciations affected North America during the Pleistocene?",
-    "choices": {
-      "a": "one",
-      "b": "two",
-      "c": "three",
-      "d": "four"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q528",
-    "globalId": 528,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "The recent ice ages occurred during the ______ Epoch.",
-    "choices": {
-      "a": "Pliocene",
-      "b": "Permian",
-      "c": "Pleistocene",
-      "d": "Paleozoic"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q529",
-    "globalId": 529,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Widespread glacial erosion and sedimentation do not affect _________.",
-    "choices": {
-      "a": "water discharge and sediment loads of major river systems",
-      "b": "desertification of semi-arid lands",
-      "c": "quantity of sediment delivered to the oceans",
-      "d": "erosion and sedimentation in coastal areas on shallow continental shelves"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q530",
-    "globalId": 530,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Large masses of ice on land that show evidence of movement are called ______.",
-    "choices": {
-      "a": "ice packs",
-      "b": "glaciers",
-      "c": "icebergs",
-      "d": "all of these"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q531",
-    "globalId": 531,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Ice covers what percentage of the Antarctic continent?",
-    "choices": {
-      "a": "50%",
-      "b": "75%",
-      "c": "90%",
-      "d": "100%"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q532",
-    "globalId": 532,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "A deposit of snow contains approximately 90% air. Glacial ice, which forms from snow, contains approximately _______ air.",
-    "choices": {
-      "a": "90%",
-      "b": "50%",
-      "c": "25%",
-      "d": "less than 20%"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q533",
-    "globalId": 533,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "If accumulation exceeds ablation then _______..",
-    "choices": {
-      "a": "the glacial ice will flow downhill but the end of the glacier will move uphill",
-      "b": "the glacial ice will flow downhill and the end of the glacier will move downhill",
-      "c": "the glacial ice will flow uphill and the end of the glacier will move uphill",
-      "d": "the glacial ice will flow uphill but the end of the glacier will move downhill"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q534",
-    "globalId": 534,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Crevasses form because _________.",
-    "choices": {
-      "a": "the glacial surface partially melts, leaving holes and cracks",
-      "b": "glacial meltwater erodes small valleys as glacial rivers flow",
-      "c": "low confining pressure at the surface causes cracks as the ice flows",
-      "d": "a glacial calving process has not been completed"
-    },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap15fig1.gif",
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q535",
-    "globalId": 535,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "In this cross-section of a glacier, the arrows point to _______..",
-    "choices": {
-      "a": "ablation surfaces",
-      "b": "blocks of bedrock",
-      "c": "crevasses",
-      "d": "ice streams"
-    },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap15fig2.gif",
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q536",
-    "globalId": 536,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "If the relative length of the arrows represents relative speed of flow, the flow pattern shown here is most likely that of ____________..",
-    "choices": {
-      "a": "a valley glacier",
-      "b": "a continental glacier",
-      "c": "either a valley glacier or a continental glacier",
-      "d": "neither a valley nor a continental glacier"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q537",
-    "globalId": 537,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Striations or glacial groves would form __________ to the direction of movement shown above.",
-    "choices": {
-      "a": "perpendicular",
-      "b": "parallel",
-      "c": "either perpendicular or parallel",
-      "d": "all of the above"
-    },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap15fig3.gif",
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q538",
-    "globalId": 538,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "What is the term for a sudden period of fast movement of a valley glacier?",
-    "choices": {
-      "a": "sublimation",
-      "b": "surge",
-      "c": "firn",
-      "d": "drift"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q539",
-    "globalId": 539,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "The cross-sectional diagram depicts a __________.",
-    "choices": {
-      "a": "roche-moutonee",
-      "b": "drumlin",
-      "c": "kame",
-      "d": "esker"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap15fig3.gif",
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q540",
-    "globalId": 540,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "A hanging valley is ____________.",
-    "choices": {
-      "a": "a valley with more than three tributaries feeding into it.",
-      "b": "a valley with many loose rocks in its walls ready for a landslide",
-      "c": "a valley with its floor high above the main valley floor",
-      "d": "a valley feeding into many fjords"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q541",
-    "globalId": 541,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Erratics are ___________.",
-    "choices": {
-      "a": "cross beds which do not match the overall outwash cross-bedding scheme",
-      "b": "large boulders deposited randomly by glaciers",
-      "c": "valleys with glacial striations that oppose the striations in adjacent valleys",
-      "d": "conflicting dates of glaciation obtained by dating organic matter found in glacial deposits"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q542",
-    "globalId": 542,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which feature forms where two lateral moraines merge?",
-    "choices": {
-      "a": "end moraine",
-      "b": "medial moraine",
-      "c": "ground moraines",
-      "d": "eskers"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q543",
-    "globalId": 543,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following is a glacial deposit and not a glacial erosional feature?",
-    "choices": {
-      "a": "a cirque",
-      "b": "a moraine",
-      "c": "an arete",
-      "d": "a horn"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q544",
-    "globalId": 544,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Large, streamlined hills of till and bedrock that form in come areas subjected to continental glaciation are called _________.",
-    "choices": {
-      "a": "aretes",
-      "b": "kame",
-      "c": "eskers",
-      "d": "drumlins"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q545",
-    "globalId": 545,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Which of the following would be best for a sand and gravel pit?",
-    "choices": {
-      "a": "arete",
-      "b": "kame",
-      "c": "varve",
-      "d": "a drumlin"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q546",
-    "globalId": 546,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "The Earth is expected to go back into a period of glaciation over the next ______ years.",
-    "choices": {
-      "a": "100",
-      "b": "1,000",
-      "c": "10,000",
-      "d": "100,000"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q547",
-    "globalId": 547,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Approximately how thick was the ice cap that covered northern North America during the last ice age?",
-    "choices": {
-      "a": "300 meters",
-      "b": "1,000 meters",
-      "c": "3,000 meters",
-      "d": "10,000 meters"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q548",
-    "globalId": 548,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "The degree of ellipticity of Earth's orbit around the sun is called ______.",
-    "choices": {
-      "a": "ellipticality",
-      "b": "eccentricity",
-      "c": "ovality",
-      "d": "precession"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q549",
-    "globalId": 549,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "Precession describes________.",
-    "choices": {
-      "a": "the movement of ice sheets away from the poles",
-      "b": "the movement of glacial ice through winding valleys",
-      "c": "the wobble of the Earth's axis of rotation",
-      "d": "the changes in climate as the Earth warms or cools"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch12-q550",
-    "globalId": 550,
-    "source": "oxford",
-    "chapter": "Chapter 12",
-    "chapterNum": 12,
-    "chapterTitle": "Glaciers and Glaciation",
-    "text": "The Little Ice Age of 1400-1650 AD is characterized as such in part because______.",
-    "choices": {
-      "a": "the Red Sea froze over",
-      "b": "the Baltic Sea froze over",
-      "c": "the Dead Sea froze over",
-      "d": "the Atlantic Ocean froze over"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Glaciers and Glaciation",
-    "tags": [
-      "Glaciers and Glaciation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q551",
-    "globalId": 551,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Geologic processes powered by the wind are called __________ processes.",
-    "choices": {
-      "a": "barchan",
-      "b": "coriolis",
-      "c": "eolian",
-      "d": "yardang"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q552",
-    "globalId": 552,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Turbulence of air increases in proportion to the ___________ of the air flow.",
-    "choices": {
-      "a": "volume",
-      "b": "velocity",
-      "c": "acceleration",
-      "d": "distance"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q553",
-    "globalId": 553,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Due to the Coriolis effect, any current of air or water is deflected to the ____ in the northern hemisphere and to the _____ in the southern hemisphere.",
-    "choices": {
-      "a": "east ... east",
-      "b": "east ... west",
-      "c": "west ... east",
-      "d": "west ... west"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q554",
-    "globalId": 554,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "The Earth rotates from _______ to _______ .",
-    "choices": {
-      "a": "west ... east",
-      "b": "east ... west",
-      "c": "north .... south",
-      "d": "south ... north"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q555",
-    "globalId": 555,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Sand grains saltating in air can jump higher than sand grains saltating in water because ___________ .",
-    "choices": {
-      "a": "water is less dense than air",
-      "b": "air is less viscous than water",
-      "c": "wind velocity is faster than water velocity",
-      "d": "grains are suspended in air longer than they are in water"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q556",
-    "globalId": 556,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Which of the following is an important source of dust?",
-    "choices": {
-      "a": "volcanic dust from eruptions",
-      "b": "clay minerals from soils",
-      "c": "organic sources, including charcoal, pollen and bacteria",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q557",
-    "globalId": 557,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Cross beds in a lithified dune dip to the west. During deposition of the sand, the prevailing winds were probably from the __________ .",
-    "choices": {
-      "a": "east",
-      "b": "west",
-      "c": "north",
-      "d": "south"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q558",
-    "globalId": 558,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Large dune fields, or seas of sands, are called _______ .",
-    "choices": {
-      "a": "draas",
-      "b": "barchans",
-      "c": "regs",
-      "d": "ergs"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q559",
-    "globalId": 559,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Deserts with a pebble surface are called _________ .",
-    "choices": {
-      "a": "draas",
-      "b": "barchans",
-      "c": "regs",
-      "d": "ergs"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q560",
-    "globalId": 560,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Which of the following are not related to wind erosion?",
-    "choices": {
-      "a": "loess",
-      "b": "ventifact",
-      "c": "deflation",
-      "d": "blowout"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q561",
-    "globalId": 561,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "The loess deposited in the upper Mississippi Valley was derived primarily from ________ .",
-    "choices": {
-      "a": "volcanic dust",
-      "b": "desert regions lying to the west",
-      "c": "glacial deposits",
-      "d": "coastal sand dunes"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q562",
-    "globalId": 562,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Why does volcanic dust tend to travel further than wind-blown dust derived from the continents?",
-    "choices": {
-      "a": "because volcanic dust is erupted high into the atmosphere",
-      "b": "because volcanic dust is less dense than dust derived from the continents",
-      "c": "because volcanic dust is composed of quartz whereas dust derived from the continents is composed of feldspar",
-      "d": "all of these"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q563",
-    "globalId": 563,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "The Great Basin and Mojave deserts of western North America exist primarily _________ .",
-    "choices": {
-      "a": "because they lie near the equator",
-      "b": "because they lie thousands of kilometers from the ocean",
-      "c": "because they lie in the rainshadow of coastal mountains",
-      "d": "all of these"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q564",
-    "globalId": 564,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Much of a desert's surface consists of sand, gravel, and rock rubble because _________ .",
-    "choices": {
-      "a": "clay minerals form slowly in a desert environment",
-      "b": "wind blows away clay and soil before it can accumulate to great thickness",
-      "c": "vegetation is sparse and cannot prevent erosion of soil",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q565",
-    "globalId": 565,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Which of the following would you least expect to find in a desert?",
-    "choices": {
-      "a": "playa lakes",
-      "b": "rounded, soil-covered hills",
-      "c": "steep river valleys and gorges",
-      "d": "dune fields"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q566",
-    "globalId": 566,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Which of the following is not a wind deposit?",
-    "choices": {
-      "a": "pediment",
-      "b": "sand dune",
-      "c": "loess",
-      "d": "all of these are wind deposits"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q567",
-    "globalId": 567,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "A broad, gently-sloping platform of bedrock that is left behind as a mountain front is eroded is called a(n) ___________ .",
-    "choices": {
-      "a": "pediment",
-      "b": "alluvial fan",
-      "c": "mesa",
-      "d": "erg"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q568",
-    "globalId": 568,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Wind speeds of 117 kilometers per hour or more constitute a _______",
-    "choices": {
-      "a": "moderate to strong breeze",
-      "b": "moderate to strong gale",
-      "c": "whole gale to storm",
-      "d": "hurricane"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q569",
-    "globalId": 569,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "In temperate zones of the Earth between 30o and 60 o latitude, the prevailing winds come from the ________.",
-    "choices": {
-      "a": "north",
-      "b": "south",
-      "c": "east",
-      "d": "west"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q570",
-    "globalId": 570,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "In the figure above, the letters A through D represent wind names. Which of the following is false?",
-    "choices": {
-      "a": "A and B represent the \"westerlies\"",
-      "b": "A and C represent \"trade winds\"",
-      "c": "C and D represent \"trade winds\"",
-      "d": "none of these statements are false"
-    },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/cpa14fig1.gif",
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q571",
-    "globalId": 571,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Ripples are generally oriented ________ to the current direction",
-    "choices": {
-      "a": "parallel",
-      "b": "30 degrees",
-      "c": "45 degrees",
-      "d": "perpendicular"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q572",
-    "globalId": 572,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "In a large dust storm, approximately how much dust can 1 cubic kilometer of air carry?",
-    "choices": {
-      "a": "1 ton",
-      "b": "10 tons",
-      "c": "100 tons",
-      "d": "1000 tons"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q573",
-    "globalId": 573,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Fine-grained dust particles from the eruption of Mr. Pinatubo remained in the atmosphere for how long?",
-    "choices": {
-      "a": "1 - 2 months",
-      "b": "3 - 4 months",
-      "c": "1 -2 years",
-      "d": "3 - 4 years"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q574",
-    "globalId": 574,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "White Sands National Monument contains sand dunes made up of _________?",
-    "choices": {
-      "a": "quartz",
-      "b": "gypsum",
-      "c": "organic sources including pollen and bacteria",
-      "d": "feldspar"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q575",
-    "globalId": 575,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "What is the primary cause of frosting on the surface of quartz sand grains?",
-    "choices": {
-      "a": "impacts with other sand grains",
-      "b": "abrasion by air currents",
-      "c": "slow dissolution by due",
-      "d": "none of these"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q576",
-    "globalId": 576,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Which of the following statements is false?",
-    "choices": {
-      "a": "wind is a more effective erosion agent in wet climates",
-      "b": "wind is a more effective erosion agent in dry climates",
-      "c": "wind is an equally effective erosion agent in wet and dry climates",
-      "d": "wind does not cause erosion"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q577",
-    "globalId": 577,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "The process by which the ground surface is lowered by wind erosion is called _______.",
-    "choices": {
-      "a": "deflation",
-      "b": "inflation",
-      "c": "ablation",
-      "d": "none of these"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q578",
-    "globalId": 578,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Which of the following will not accelerate deflation?",
-    "choices": {
-      "a": "established vegetation",
-      "b": "construction",
-      "c": "motor vehicle tracks",
-      "d": "plowing"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q579",
-    "globalId": 579,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "How does desert pavement form?",
-    "choices": {
-      "a": "by intense chemical weathering",
-      "b": "by stream erosion",
-      "c": "by intense mechanical weathering",
-      "d": "by wind erosion"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q580",
-    "globalId": 580,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Yardangs are:",
-    "choices": {
-      "a": "sand dunes arranged in long, parallel rows",
-      "b": "eroded bedrock with long, parallel grooves",
-      "c": "long, parallel ridges eroded by dust",
-      "d": "none of these"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q581",
-    "globalId": 581,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Which of the following promote the development of sand dunes?",
-    "choices": {
-      "a": "strong winds",
-      "b": "a supply of loose sand",
-      "c": "dry climate",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q582",
-    "globalId": 582,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Sand will accumulate ___________.",
-    "choices": {
-      "a": "on the lee side (downwind) side of a boulder",
-      "b": "on the windward side (upwind) of a boulder",
-      "c": "on both the lee side and the windward side of a boulder",
-      "d": "boulders cannot cause sand to accumulate"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap14fig2.gif",
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q583",
-    "globalId": 583,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Given the relative positions of the sand dune and rock shown here, the wind direction is predominantly ___________",
-    "choices": {
-      "a": "north to south to north",
-      "b": "east to west",
-      "c": "west to east"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q584",
-    "globalId": 584,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "The steeper, downwind side of a sand dune is called a _________.",
-    "choices": {
-      "a": "sand drift",
-      "b": "ventifact",
-      "c": "slip face",
-      "d": "streamline"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q585",
-    "globalId": 585,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "A cross bed preserved in an eolian sandstone represents _________.",
-    "choices": {
-      "a": "the top of a former sand dune",
-      "b": "the bottom of a former sand dune",
-      "c": "the upwind side of a former sand dune",
-      "d": "the downwind side of a former sand dune"
-    },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap14fig3.gif",
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q586",
-    "globalId": 586,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "This sand dune is a _______ dune",
-    "choices": {
-      "a": "barchan",
-      "b": "transverse",
-      "c": "blowout",
-      "d": "linear"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q587",
-    "globalId": 587,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "The wind direction which would create this dune is __________.",
-    "choices": {
-      "a": "north to south",
-      "b": "south to north",
-      "c": "east to west",
-      "d": "west to east"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q588",
-    "globalId": 588,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "In a barchan dune, the points of the crescent point ______ and the slip face is the ________ downwind curve of this dune",
-    "choices": {
-      "a": "upwind .... concave",
-      "b": "upwind .... convex",
-      "c": "downwind .... concave",
-      "d": "downwind ..... convex"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q589",
-    "globalId": 589,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Sand dunes behind beaches are typically_______.",
-    "choices": {
-      "a": "barchan",
-      "b": "transverse",
-      "c": "barchans",
-      "d": "linear dunes"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q590",
-    "globalId": 590,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "During erosion loess tends to break off __________.",
-    "choices": {
-      "a": "in horizontal layers",
-      "b": "in vertical sheets",
-      "c": "along irregular cracks",
-      "d": "slowly, grain by grain"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q591",
-    "globalId": 591,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Which of the following is not related to wind erosion?",
-    "choices": {
-      "a": "loess",
-      "b": "ventifacts",
-      "c": "deflation",
-      "d": "blowouts"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q592",
-    "globalId": 592,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Long sand ridges that are more or less parallel to the prevailing wind are called ______.",
-    "choices": {
-      "a": "barchan dunes",
-      "b": "linear dunes",
-      "c": "transverse dunes",
-      "d": "blowouts"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q593",
-    "globalId": 593,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Through geologic time the interior of Australia has changed from a moist, humid climate to a desert because",
-    "choices": {
-      "a": "plate collisions have built mountains near the coast line which block moisture-bearing winds from the continent's interior",
-      "b": "Australia has moved northward into an arid, subtropical zone",
-      "c": "Australia has moved southward out of the part of the more humid trade winds",
-      "d": "the continent has grown through volcanic activity making the interior too far away from moisture-bearing winds"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q594",
-    "globalId": 594,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Radar imaging from the space shuttle Endeavor has provided evidence that the Sahara Desert __________.",
-    "choices": {
-      "a": "has always been an arid environment",
-      "b": "was once tropical with many different types of vegetation",
-      "c": "once had an extensive system of river channels which are now dry",
-      "d": "has sand dunes in excess of 300 m in height"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q595",
-    "globalId": 595,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "The transformation of semi-arid regions into deserts is called _______.",
-    "choices": {
-      "a": "deflation",
-      "b": "deforestation",
-      "c": "detoxification",
-      "d": "desertification"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q596",
-    "globalId": 596,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "What minerals are responsible for the orange-brown colors of weathered surfaces in the desert?",
-    "choices": {
-      "a": "quartz",
-      "b": "alkali feldspar",
-      "c": "iron oxides",
-      "d": "all of these"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q597",
-    "globalId": 597,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "Approximately what percentage of the world's deserts are covered with sand?",
-    "choices": {
-      "a": "5%",
-      "b": "20%",
-      "c": "50%",
-      "d": "100%"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q598",
-    "globalId": 598,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "A wadi is a ________",
-    "choices": {
-      "a": "shallow lake",
-      "b": "playa with salt sediments",
-      "c": "dry wash",
-      "d": "flood deposits"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch13-q599",
-    "globalId": 599,
-    "source": "oxford",
-    "chapter": "Chapter 13",
-    "chapterNum": 13,
-    "chapterTitle": "Deserts and Winds",
-    "text": "A mesa is __________",
-    "choices": {
-      "a": "flood deposit in a small dry wash",
-      "b": "a flat plateau surrounded by steep cliffs",
-      "c": "mountain showing horizontal sedimentary layering",
-      "d": "a pediment with an alluvial fan cover"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Deserts and Winds",
-    "tags": [
-      "Deserts and Winds",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q600",
-    "globalId": 600,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Oceans cover approximately __________ percent of the Earth's surface.",
-    "choices": {
-      "a": "30",
-      "b": "50",
-      "c": "70",
-      "d": "90"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q601",
-    "globalId": 601,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The height of an ocean wave increases as _________ .",
-    "choices": {
-      "a": "the wind speed increases",
-      "b": "the wind blows for longer times",
-      "c": "the distance over which the wind flows over the water increases",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q602",
-    "globalId": 602,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The distance between two wave crests is called the ___________ .",
-    "choices": {
-      "a": "wavelength",
-      "b": "wave height",
-      "c": "throw",
-      "d": "period"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q603",
-    "globalId": 603,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Waves cause small particles floating on the surface to move in _________ .",
-    "choices": {
-      "a": "horizontal elliptical orbits",
-      "b": "vertical elliptical orbits",
-      "c": "horizontal circular orbits",
-      "d": "vertical circular orbit"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q604",
-    "globalId": 604,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The orbital motion of water particles due to surface waves stops at a depth _________ .",
-    "choices": {
-      "a": "of about twice the wavelength",
-      "b": "equal to the wavelength",
-      "c": "of about one-half of the wavelength",
-      "d": "of about one-tenth the wavelength"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q605",
-    "globalId": 605,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Waves run up onto the beach forming a _________, and run back down as ________.",
-    "choices": {
-      "a": "swash ... backwash",
-      "b": "wave ... swash",
-      "c": "front swash ... retroswash",
-      "d": "wave ... backwash"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q606",
-    "globalId": 606,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "As waves approach a beach, the rows of waves gradually bend to a direction more parallel to the short. This change in direction is called ___________ .",
-    "choices": {
-      "a": "longshore drift",
-      "b": "swash",
-      "c": "tidal surge",
-      "d": "wave refraction"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q607",
-    "globalId": 607,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "____________ refers to the movement of sand grains along the beach.",
-    "choices": {
-      "a": "Wave refraction",
-      "b": "Turbidity current",
-      "c": "Longshore drift",
-      "d": "Ebb tide"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q608",
-    "globalId": 608,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "How many high tides are there in a day?",
-    "choices": {
-      "a": "1",
-      "b": "2",
-      "c": "3",
-      "d": "4"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q609",
-    "globalId": 609,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "What causes the tides?",
-    "choices": {
-      "a": "wind",
-      "b": "seismicity",
-      "c": "ocean currents",
-      "d": "gravity"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q610",
-    "globalId": 610,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "A tsunami is ______________ .",
-    "choices": {
-      "a": "a tidal surge caused by a storm",
-      "b": "a large wave caused by an undersea event",
-      "c": "an earthquake which causes a large wave",
-      "d": "an undersea landslide"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q611",
-    "globalId": 611,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The muddy or sandy areas that are exposed during low tide, but are flooded at high tide are called ________ .",
-    "choices": {
-      "a": "estuaries",
-      "b": "tidal flats",
-      "c": "surf zones",
-      "d": "passive margins"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q612",
-    "globalId": 612,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Which of the following landforms are caused by wave erosion?",
-    "choices": {
-      "a": "barrier islands",
-      "b": "stacks",
-      "c": "estuaries",
-      "d": "submarine canyons"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q613",
-    "globalId": 613,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "A coastal body of water connected to the ocean and supplied with fresh water from a river is a(n) __________ .",
-    "choices": {
-      "a": "river",
-      "b": "atoll",
-      "c": "spit",
-      "d": "estuary"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q614",
-    "globalId": 614,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Deep valleys eroded into the continental slope and shelf are called __________ .",
-    "choices": {
-      "a": "estuaries",
-      "b": "submarine canyons",
-      "c": "oceanic trenches",
-      "d": "abyssal valleys"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q615",
-    "globalId": 615,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Where is the ocean floor deepest?",
-    "choices": {
-      "a": "in rift valleys",
-      "b": "in the abyssal plain",
-      "c": "in submarine canyons",
-      "d": "in oceanic trenches"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q616",
-    "globalId": 616,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "At what plate boundary setting is the ocean floor deepest?",
-    "choices": {
-      "a": "divergent",
-      "b": "subduction",
-      "c": "continent - continent collision",
-      "d": "transform"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q617",
-    "globalId": 617,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Which of the following is an active continental margin?",
-    "choices": {
-      "a": "the east coast of North America",
-      "b": "the Gulf Coast of Texas",
-      "c": "the west coast of South America",
-      "d": "the west coast of Africa"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q618",
-    "globalId": 618,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "What type of currents erode and deposit fine-grained sediments on the continental slope and rise?",
-    "choices": {
-      "a": "tidal currents",
-      "b": "turbidity currents",
-      "c": "longshore currents",
-      "d": "river currents"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q619",
-    "globalId": 619,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Large fan-shaped deposits of fine-grained sediments that accumulate on the continental rise are called __________ .",
-    "choices": {
-      "a": "submarine fans",
-      "b": "atolls",
-      "c": "alluvial fans",
-      "d": "spits"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q620",
-    "globalId": 620,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Most volcanic activity on the seafloor takes place on ________ .",
-    "choices": {
-      "a": "continental shelves",
-      "b": "abyssal plains",
-      "c": "continental rises",
-      "d": "mid-ocean ridges"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q621",
-    "globalId": 621,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Black smokers are enriched in ___________ .",
-    "choices": {
-      "a": "carbon dioxide and metals",
-      "b": "dissolved hydrogen sulfide and metals",
-      "c": "oxygen and metals",
-      "d": "nitrogen and metals"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q622",
-    "globalId": 622,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Pelagic sediments ___________ .",
-    "choices": {
-      "a": "are fine-grained",
-      "b": "are deposited far from continental margins",
-      "c": "settle very slowly to the seafloor",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q623",
-    "globalId": 623,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Pelagic sediments consist of ___________ .",
-    "choices": {
-      "a": "reddish-brown clays derived from the continents",
-      "b": "foraminiferal oozes",
-      "c": "silica oozes",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q624",
-    "globalId": 624,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The shells of diatoms and radiolaria, which accumulate on the abyssal plain, are composed of ____________ .",
-    "choices": {
-      "a": "calcium carbonate",
-      "b": "sodium chloride",
-      "c": "iron sulfide",
-      "d": "silica"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q625",
-    "globalId": 625,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Ripples in the ocean grow to full-sized waves when the wind reaches a speed of about ______ per hour.",
-    "choices": {
-      "a": "3 meters",
-      "b": "30 meters",
-      "c": "3 kilometers",
-      "d": "30 kilometers"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q626",
-    "globalId": 626,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "In this diagram, the wavelength is the distance ________.",
-    "choices": {
-      "a": "A - B",
-      "b": "A - C",
-      "c": "A - D",
-      "d": "3A - E"
-    },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap17fig1.gif",
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q627",
-    "globalId": 627,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "In this diagram, the distance F to H is called the ________.",
-    "choices": {
-      "a": "crest height",
-      "b": "trough height",
-      "c": "wave height",
-      "d": "total displacement"
-    },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap17fig1.gif",
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q628",
-    "globalId": 628,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Which of the following equations correctly relates the velocity (V) to the wavelength (L) and period (T)?",
-    "choices": {
-      "a": "V = L * T",
-      "b": "V = L/T",
-      "c": "V = L+T",
-      "d": "V = L-T"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q629",
-    "globalId": 629,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "When a wave gets close to shore, water particles near the bottom move in ______ orbits.",
-    "choices": {
-      "a": "circular",
-      "b": "elliptical",
-      "c": "irregular",
-      "d": "rectangular"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q630",
-    "globalId": 630,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The surf zone lies in the ______ part of the beach.",
-    "choices": {
-      "a": "offshore",
-      "b": "foreshore",
-      "c": "backshore",
-      "d": "all of these"
-    },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap17fig2.gif",
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q631",
-    "globalId": 631,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The area labeled X is called the __________.",
-    "choices": {
-      "a": "foreshore",
-      "b": "surf zone",
-      "c": "swash zone",
-      "d": "backshore"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q632",
-    "globalId": 632,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The area labeled Y is called the __________.",
-    "choices": {
-      "a": "foreshore",
-      "b": "surf zone",
-      "c": "swash zone",
-      "d": "backshore"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q633",
-    "globalId": 633,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The area labeled X and Y is called the __________.",
-    "choices": {
-      "a": "foreshore",
-      "b": "surf zone",
-      "c": "swash zone",
-      "d": "backshore"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q634",
-    "globalId": 634,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "If sand input is greater than sand output in a beach's sand budget, the beach will ________.",
-    "choices": {
-      "a": "be long, wide and sandy",
-      "b": "have large sand dunes",
-      "c": "have a large tidal flat",
-      "d": "have high cliffs"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q635",
-    "globalId": 635,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Planar rocky surfaces that form in the surf zone as a result of wave erosion are called ________.",
-    "choices": {
-      "a": "stacks",
-      "b": "backshores",
-      "c": "wave-cut terraces",
-      "d": "barrier islands"
-    },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap17fig3.gif",
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q636",
-    "globalId": 636,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "What do we call long offshore sandbars",
-    "choices": {
-      "a": "stacks",
-      "b": "estuaries",
-      "c": "dorks",
-      "d": "barrier islands"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q637",
-    "globalId": 637,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Sea-level changes by geologic studies of _________.",
-    "choices": {
-      "a": "stacks",
-      "b": "estuaries",
-      "c": "wave-cut terraces",
-      "d": "beaches"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q638",
-    "globalId": 638,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The area W is called the __________.",
-    "choices": {
-      "a": "abyssal plain",
-      "b": "continental slope",
-      "c": "shoreline",
-      "d": "continental shelf"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q639",
-    "globalId": 639,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The area X is called the __________.",
-    "choices": {
-      "a": "ocean trough",
-      "b": "continental slope",
-      "c": "shoreline",
-      "d": "continental rise"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q640",
-    "globalId": 640,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The area Y is called the __________.",
-    "choices": {
-      "a": "ocean trough",
-      "b": "continental slope",
-      "c": "shoreline",
-      "d": "continental rise"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q641",
-    "globalId": 641,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The area Z is called the __________.",
-    "choices": {
-      "a": "abyssal plain",
-      "b": "continental slope",
-      "c": "shoreline",
-      "d": "continental rise"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q642",
-    "globalId": 642,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "The Mid-Atlantic Ridge would stand __________ the abyssal plain",
-    "choices": {
-      "a": "above",
-      "b": "beneath",
-      "c": "at the same elevation as",
-      "d": "could be all of the above"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q643",
-    "globalId": 643,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "A seamount is _________",
-    "choices": {
-      "a": "a coral reef above a submerged volcano",
-      "b": "a small rise in the seafloor",
-      "c": "an extinct submerged volcano",
-      "d": "a hill adjacent to a spreading center"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q644",
-    "globalId": 644,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Turbidity currents are most likely to be found __________.",
-    "choices": {
-      "a": "where rivers empty into oceans",
-      "b": "on the continental slope",
-      "c": "on the abyssal plains away from the continental rise",
-      "d": "on the continental rise"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q645",
-    "globalId": 645,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "Superheated water approximately _______ degrees centigrade spouts from the hot springs on the East Pacific Rise",
-    "choices": {
-      "a": "4",
-      "b": "40",
-      "c": "400",
-      "d": "4000"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch14-q646",
-    "globalId": 646,
-    "source": "oxford",
-    "chapter": "Chapter 14",
-    "chapterNum": 14,
-    "chapterTitle": "Shorelines",
-    "text": "A volume of seawater equal to the volume of the oceans cycles through submarine hydrothermal systems roughly every _________.",
-    "choices": {
-      "a": "year",
-      "b": "5,000 years",
-      "c": "10 million years",
-      "d": "one billion years"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Shorelines",
-    "tags": [
-      "Shorelines",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q647",
-    "globalId": 647,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "The dip of a unit represents the ___________ .",
-    "choices": {
-      "a": "direction of intersection of the rock layer an a horizontal surface",
-      "b": "part of the unit which has been eroded",
-      "c": "angle at which the bed inclines from the horizontal",
-      "d": "tilt of the rock unit before deformation"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q648",
-    "globalId": 648,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "If you are flying in an airplane and you look down at the landscape, you are seeing a ___________ view of the Earth.",
-    "choices": {
-      "a": "map",
-      "b": "cross-sectional",
-      "c": "lateral",
-      "d": "horizontal"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q649",
-    "globalId": 649,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "If look at a vertical face of a cliff or a roadcut, you are seeing a ___________ view of the Earth.",
-    "choices": {
-      "a": "map",
-      "b": "cross-sectional",
-      "c": "lateral",
-      "d": "horizontal"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q650",
-    "globalId": 650,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Which of the following types of tectonic forces tends to push two sides of a body in opposite directions so that they slide horizontally past one another?",
-    "choices": {
-      "a": "tensional forces",
-      "b": "shearing forces",
-      "c": "compressive forces",
-      "d": "none of these"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q651",
-    "globalId": 651,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What type of forces dominate at divergent plate margins?",
-    "choices": {
-      "a": "tensional forces",
-      "b": "shearing forces",
-      "c": "compressive forces",
-      "d": "none of these"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q652",
-    "globalId": 652,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What type of forces dominate at convergent plate margins?",
-    "choices": {
-      "a": "tensional forces",
-      "b": "shearing forces",
-      "c": "compressive forces",
-      "d": "none of these"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q653",
-    "globalId": 653,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "The angle at which a sedimentary bed is inclined from the horizontal is called the _____.",
-    "choices": {
-      "a": "anticline",
-      "b": "strike",
-      "c": "syncline",
-      "d": "dip"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q654",
-    "globalId": 654,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Which of the following is not a tectonic force responsible for folding or faulting rocks?",
-    "choices": {
-      "a": "compressive force",
-      "b": "tensional force",
-      "c": "shear force",
-      "d": "all of these are tectonic forces"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q655",
-    "globalId": 655,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "The two sides of a fold are called its ________ .",
-    "choices": {
-      "a": "anticlines",
-      "b": "synclines",
-      "c": "limbs",
-      "d": "axial planes"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q656",
-    "globalId": 656,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "At convergent plate boundaries one would expect to find _______.",
-    "choices": {
-      "a": "folds",
-      "b": "faults",
-      "c": "folds and faults",
-      "d": "neither folds or faults"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q657",
-    "globalId": 657,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "At divergent plate boundaries one would expect to find _______.",
-    "choices": {
-      "a": "folds",
-      "b": "faults",
-      "c": "folds and faults",
-      "d": "neither folds or faults"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q658",
-    "globalId": 658,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "At transform plate boundaries one would expect to find _______.",
-    "choices": {
-      "a": "folds",
-      "b": "faults",
-      "c": "folds and faults",
-      "d": "neither folds or faults"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q659",
-    "globalId": 659,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Which of the following statements about rock deformation is false?",
-    "choices": {
-      "a": "deep crustal rocks are more likely to deform ductily than shallow crustal rocks",
-      "b": "hotter rocks are more likely to deform ductily than cooler rocks",
-      "c": "most sedimentary rocks are more deformable than igneous rocks",
-      "d": "rocks under low confining pressure are more likely to deform ductily than rocks under high confining pressure"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q660",
-    "globalId": 660,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "The biggest difference between rock deformation experiments conducted in a laboratory and rock deformation that occurs naturally is that _______.",
-    "choices": {
-      "a": "the temperatures are much lower in laboratory experiments than in nature",
-      "b": "the pressures are much lower in laboratory experiments than in nature",
-      "c": "the time of deformation is much shorter in laboratory experiments than in nature",
-      "d": "real rocks are not used in laboratory experiments as they are in nature"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q661",
-    "globalId": 661,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Laboratory experiments indicate that ________.",
-    "choices": {
-      "a": "most igneous rocks are more deformable than most sedimentary rocks",
-      "b": "most igneous rocks are less deformable than most sedimentary rocks",
-      "c": "basement rocks are more ductile than young sediments",
-      "d": "young sediments are very brittle and not easily deformed"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q662",
-    "globalId": 662,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "An overturned fold is characterized by ___________ .",
-    "choices": {
-      "a": "two limbs at right angles to one another",
-      "b": "two limbs dipping in the same direction - with one tilted beyond vertical",
-      "c": "two limbs dipping in opposite directions",
-      "d": "two limbs not parallel to each other"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q663",
-    "globalId": 663,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What types of tectonic forces cause faulting?",
-    "choices": {
-      "a": "compressive forces",
-      "b": "tensional forces",
-      "c": "shearing forces",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q664",
-    "globalId": 664,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Which of the following is an example of a fault where the motion is primarily horizontal?",
-    "choices": {
-      "a": "a strike slip fault",
-      "b": "a right-lateral fault",
-      "c": "a transform fault",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q665",
-    "globalId": 665,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What types of faults are associated with shearing forces?",
-    "choices": {
-      "a": "normal faults",
-      "b": "reverse faults",
-      "c": "strike-slip",
-      "d": "all of these"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q666",
-    "globalId": 666,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What type of fault is characterized by the rocks above the fault plane moving downward relative to the rocks below the fault plane?",
-    "choices": {
-      "a": "normal faults",
-      "b": "reverse faults",
-      "c": "strike-slip",
-      "d": "all of these"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q667",
-    "globalId": 667,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "How many angular measurements does it take to describe the orientation of fault surface?",
-    "choices": {
-      "a": "1",
-      "b": "2",
-      "c": "3",
-      "d": "4"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q668",
-    "globalId": 668,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "A sample of marble has deformed as a brittle substance during a laboratory experiment. If we wish our next sample of marble to deform plastically rather than as a brittle substance, we should conduct our next experiment at _________.",
-    "choices": {
-      "a": "lower temperatures and lower confining pressures",
-      "b": "lower temperatures and higher confining pressures",
-      "c": "higher temperatures and lower confining pressures",
-      "d": "higher temperatures and higher confining pressures"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q669",
-    "globalId": 669,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Which of the following conditions would favor folding rather than faulting?",
-    "choices": {
-      "a": "low temperatures and low confining pressures",
-      "b": "low temperatures and high confining pressures",
-      "c": "high temperatures and low confining pressures",
-      "d": "high temperatures and high confining pressures"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q670",
-    "globalId": 670,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Which factor does not affect whether folding is severe or gentle",
-    "choices": {
-      "a": "the magnitude of the applied forces",
-      "b": "length of time the force was applied",
-      "c": "age of the rock units",
-      "d": "the ability of the rocks to resist deformation"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q671",
-    "globalId": 671,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Upfolds or arches of layered rock are called:",
-    "choices": {
-      "a": "anticlines",
-      "b": "faults",
-      "c": "synclines",
-      "d": "unconformities"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q672",
-    "globalId": 672,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Downfolds or basins of layered rock are called:",
-    "choices": {
-      "a": "anticlines",
-      "b": "faults",
-      "c": "synclines",
-      "d": "unconformities"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q673",
-    "globalId": 673,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "A broad circular or oval upward bulge of rock layers is called a(n) _____",
-    "choices": {
-      "a": "anticline",
-      "b": "syncline",
-      "c": "basin",
-      "d": "dome"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q674",
-    "globalId": 674,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "If the sedimentary rocks on a geologic map form a zigzag pattern, the underlying structure probably consists of _________.",
-    "choices": {
-      "a": "horizontal anticlines and synclines",
-      "b": "plunging anticlines and synclines",
-      "c": "domes and basin",
-      "d": "strike slip faults"
-    },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap10fig1.gif",
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q675",
-    "globalId": 675,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "The structure shown above is a(n) ________.",
-    "choices": {
-      "a": "anticline",
-      "b": "syncline",
-      "c": "basin",
-      "d": "dome"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap10fig1.gif",
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q676",
-    "globalId": 676,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "The structure shown above is a(n) ________.",
-    "choices": {
-      "a": "horizontal and symmetric",
-      "b": "horizontal and asymmetric",
-      "c": "plunging and symmetric",
-      "d": "plunging and asymmetric"
-    },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap10fig1.gif",
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q677",
-    "globalId": 677,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What type of fault is characterized by the rocks above the fault plane moving upward relative to the rocks below the fault plane?",
-    "choices": {
-      "a": "normal",
-      "b": "strike slip",
-      "c": "reverse",
-      "d": "all of these"
-    },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap10fig1.gif",
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q678",
-    "globalId": 678,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "A fault plane strikes north-south and dips steeply to the west. Geologic observations indicate that most of the fault movement was vertical and that Mesozoic rocks occur east of the fault and Paleozoic rocks occur west of the fault. What type of fault is this?",
-    "choices": {
-      "a": "normal",
-      "b": "a right lateral strike slip",
-      "c": "reverse",
-      "d": "all of these"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q679",
-    "globalId": 679,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What type of fault is characterized by movement both along strike and along dip?",
-    "choices": {
-      "a": "oblique-slip",
-      "b": "strike slip",
-      "c": "reverse",
-      "d": "normal"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q680",
-    "globalId": 680,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "An oblique-slip fault suggests _______",
-    "choices": {
-      "a": "tensional forces only",
-      "b": "compressive forces only",
-      "c": "shear forces only",
-      "d": "shear forces combined with compressive or tensional forces"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q681",
-    "globalId": 681,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Strike-slip faults ________.",
-    "choices": {
-      "a": "have primarily horizontal movement",
-      "b": "have primarily vertical movement",
-      "c": "have no appreciable displacement",
-      "d": "are low angle reverse faults"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q682",
-    "globalId": 682,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Which two measurements describe the orientation of a fault plane at a given location?",
-    "choices": {
-      "a": "axis and plane",
-      "b": "strike and dip",
-      "c": "lateral and thrust",
-      "d": "trend and plunge"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q683",
-    "globalId": 683,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Dip-slip faults are associated with ________ forces.",
-    "choices": {
-      "a": "shearing",
-      "b": "tensional",
-      "c": "compressive",
-      "d": "tensional and compressive"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q684",
-    "globalId": 684,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What type of fault is a thrust fault?",
-    "choices": {
-      "a": "low-angle normal fault",
-      "b": "low-angle reverse fault",
-      "c": "high-angle reverse fault",
-      "d": "low-angle strike-slip fault"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q685",
-    "globalId": 685,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Overthrusts are caused by large-scale _______ forces.",
-    "choices": {
-      "a": "shearing",
-      "b": "tensional",
-      "c": "compressive",
-      "d": "shear combined with tensional and compressive"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q686",
-    "globalId": 686,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Which of the following features is formed in a region affected by tensional tectonic forces?",
-    "choices": {
-      "a": "an anticline",
-      "b": "a thrust fault",
-      "c": "a strike-slip fault",
-      "d": "a rift valley"
-    },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap10fig2.gif",
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q687",
-    "globalId": 687,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "The Red Sea is an example of a(n) _________.",
-    "choices": {
-      "a": "anticline",
-      "b": "strike-slip fault basin",
-      "c": "rift valley",
-      "d": "horst block mountain"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q688",
-    "globalId": 688,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What type of structure is shown on the map?",
-    "choices": {
-      "a": "a faulted syncline",
-      "b": "a faulted anticline",
-      "c": "a folded strike-slip fault",
-      "d": "the structure cannot be determined from the information given"
-    },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap10fig2.gif",
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q689",
-    "globalId": 689,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Which way do the sedimentary layers dip - assuming the structure is not overturned?",
-    "choices": {
-      "a": "toward the east",
-      "b": "toward the west",
-      "c": "toward the center of the map",
-      "d": "east and west"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q690",
-    "globalId": 690,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "What type of fault is depicted on the geologic map?",
-    "choices": {
-      "a": "a normal fault",
-      "b": "a reverse fault",
-      "c": "a right-lateral fault",
-      "d": "a left-lateral fault"
-    },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap10fig2.gif",
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch15-q691",
-    "globalId": 691,
-    "source": "oxford",
-    "chapter": "Chapter 15",
-    "chapterNum": 15,
-    "chapterTitle": "Crustal Deformation",
-    "text": "Why is unit A wider north of the fault than it is south of the fault?",
-    "choices": {
-      "a": "deeper levels of the structure are exposed on the north side of the fault",
-      "b": "faulting has thinned unit A south of the fault.",
-      "c": "unit A had a variable thickness prior to faulting",
-      "d": "erosion has removed most of unit A south of the fault."
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap10fig2.gif",
-    "category": "Crustal Deformation",
-    "tags": [
-      "Crustal Deformation",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q692",
-    "globalId": 692,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following describes the build up and release of stress during an earthquake?",
-    "choices": {
-      "a": "the Modified Mercalli Scale",
-      "b": "the elastic rebound theory",
-      "c": "the principle of superposition",
-      "d": "the travel time difference"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q693",
-    "globalId": 693,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "The amount of ground displacement in a earthquake is called the _________ .",
-    "choices": {
-      "a": "epicenter",
-      "b": "dip",
-      "c": "slip",
-      "d": "focus"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q694",
-    "globalId": 694,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "The point where movement occurred which triggered the earthquake is the _______ .",
-    "choices": {
-      "a": "dip",
-      "b": "epicenter",
-      "c": "focus",
-      "d": "strike"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q695",
-    "globalId": 695,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following sequences correctly lists the different arrivals from first to last?",
-    "choices": {
-      "a": "P waves ... S waves .... Surface waves",
-      "b": "Surface waves ... P waves .... S waves",
-      "c": "P waves ... Surface waves ... S waves",
-      "d": "S waves ... P waves .... Surface waves"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q696",
-    "globalId": 696,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "How do rock particles move during the passage of a P wave through the rock?",
-    "choices": {
-      "a": "back and forth parallel to the direction of wave travel",
-      "b": "back and forth perpendicular to the direction of wave travel",
-      "c": "in a rolling circular motion",
-      "d": "the particles do not move"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q697",
-    "globalId": 697,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Detailed studies of what earthquake allowed researchers to develop the elastic rebound theory?.",
-    "choices": {
-      "a": "the 1906 San Francisco earthquake",
-      "b": "the 1964 Anchorage, Alaska earthquake",
-      "c": "the 1755 Lisbon, Portugal earthquake",
-      "d": "the 1985 Mexico CIty earthquake"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q698",
-    "globalId": 698,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "How many seismograph stations are needed to locate the epicenter of an earthquake?",
-    "choices": {
-      "a": "1",
-      "b": "2",
-      "c": "3",
-      "d": "4"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q699",
-    "globalId": 699,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Earthquakes can occur with _________ faulting.",
-    "choices": {
-      "a": "normal",
-      "b": "reverse",
-      "c": "thrust",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q700",
-    "globalId": 700,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Approximately what percentage of earthquakes occur at plate boundaries?",
-    "choices": {
-      "a": "25%",
-      "b": "50%",
-      "c": "75%",
-      "d": "90%"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q701",
-    "globalId": 701,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which type of faulting would be least likely to occur along the mid-Atlantic ridge?",
-    "choices": {
-      "a": "normal",
-      "b": "reverse",
-      "c": "transform",
-      "d": "all of these could occur"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q702",
-    "globalId": 702,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "How often do magnitude 8 earthquakes occur?",
-    "choices": {
-      "a": "about 5 to 10 times per year",
-      "b": "about once a year",
-      "c": "about every 5 to 10 years",
-      "d": "about every 50 to 100 years"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q703",
-    "globalId": 703,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "The bulk modulus measures ______________.",
-    "choices": {
-      "a": "the resistance to flow of a liquid",
-      "b": "the resistance to change in color",
-      "c": "the resistance to change in volume",
-      "d": "the resistance to change in shape"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q704",
-    "globalId": 704,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "The shear modulus measures _____________ .",
-    "choices": {
-      "a": "the resistance to flow of a liquid",
-      "b": "the resistance to change in shape",
-      "c": "the resistance to change in volume of a liquid",
-      "d": "the resistance to change in volume of a solid"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q705",
-    "globalId": 705,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "If only density increases with increasing depth within the Earth, the velocity of a P wave should ___________ .",
-    "choices": {
-      "a": "stay the same",
-      "b": "increase",
-      "c": "decrease"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q706",
-    "globalId": 706,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "If a P wave were to go from a solid to a liquid - what would happen to its velocity?",
-    "choices": {
-      "a": "stay the same",
-      "b": "increase",
-      "c": "decrease to 0.0",
-      "d": "decrease"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q707",
-    "globalId": 707,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "If an S wave were to go from a solid to a liquid - what would happen to its velocity?",
-    "choices": {
-      "a": "stay the same",
-      "b": "increase",
-      "c": "decrease to 0.0",
-      "d": "decrease"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q708",
-    "globalId": 708,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which boundary marks a change from 100% solid to 100% liquid?",
-    "choices": {
-      "a": "mantle ... outer core",
-      "b": "lithosphere ... asthenosphere",
-      "c": "crust ... mantle",
-      "d": "none of these"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q709",
-    "globalId": 709,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Body waves consist of the:",
-    "choices": {
-      "a": "P waves only",
-      "b": "S waves only",
-      "c": "P and S waves",
-      "d": "Surface waves"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q710",
-    "globalId": 710,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "With increasing travel time the difference in arrival times between the P and the S waves _________",
-    "choices": {
-      "a": "increases",
-      "b": "decreases",
-      "c": "stays constant",
-      "d": "none of the above"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q711",
-    "globalId": 711,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Earthquake A has a Richter magnitude of 7 as compared with earthquake B's 6. The amount of ground motion is one measure of earthquake intensity.",
-    "choices": {
-      "a": "A is 10X more intense than B",
-      "b": "A is 1000 more intense than B",
-      "c": "Richter magnitude does not measure intensity",
-      "d": "B is 0.01X as intense than A"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q712",
-    "globalId": 712,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "In general, the most destructive earthquake waves are the __________ .",
-    "choices": {
-      "a": "P waves",
-      "b": "S waves",
-      "c": "Surface waves",
-      "d": "Q waves"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q713",
-    "globalId": 713,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Where is the focus with respect to the epicenter:",
-    "choices": {
-      "a": "directly below the epicenter",
-      "b": "directly above the epicenter",
-      "c": "in the P wave shadow zone",
-      "d": "in the S wave shadow zone"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap18fig1.gif",
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q714",
-    "globalId": 714,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Point A, where slip initiated during the earthquake, is called the ________.",
-    "choices": {
-      "a": "dip",
-      "b": "epicenter",
-      "c": "focus",
-      "d": "scarp"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q715",
-    "globalId": 715,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Point B is called the earthquake ________.",
-    "choices": {
-      "a": "dip",
-      "b": "epicenter",
-      "c": "focus",
-      "d": "scarp"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q716",
-    "globalId": 716,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Point C is called the _________",
-    "choices": {
-      "a": "epicenter",
-      "b": "fault scarp",
-      "c": "seismic wave",
-      "d": "dip of the earthquake"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q717",
-    "globalId": 717,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "What type of faulting is illustrated in this diagram?",
-    "choices": {
-      "a": "normal",
-      "b": "reverse",
-      "c": "thrust",
-      "d": "abnormal"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap18fig2.gif",
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q718",
-    "globalId": 718,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "What causes the up-and-down wiggles on the seismogram show above?",
-    "choices": {
-      "a": "variations in air pressure",
-      "b": "ground vibrations",
-      "c": "tsunami waves",
-      "d": "electromagnetic pulses"
-    },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap18fig2.gif",
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q719",
-    "globalId": 719,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which set of waves are probably the surface waves?",
-    "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "They are all surface waves"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q720",
-    "globalId": 720,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which set of waves are the P waves?",
-    "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "They are all P waves"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q721",
-    "globalId": 721,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which set of waves are the S waves?",
-    "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "They are all S waves"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q722",
-    "globalId": 722,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "The difference in arrival times between which pair of waves can be used to determine the distance to the epicenter?",
-    "choices": {
-      "a": "A and C",
-      "b": "A and B",
-      "c": "None of the above"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q723",
-    "globalId": 723,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "How do rock particles move during the passage of a P wave through the rock?",
-    "choices": {
-      "a": "back and forth parallel to the direction of wave travel",
-      "b": "perpendicular to the direction of wave travel",
-      "c": "in a rolling elliptical motion",
-      "d": "in a rolling circular motion"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q724",
-    "globalId": 724,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "How do rock particles move during the passage of a S wave through the rock?",
-    "choices": {
-      "a": "back and forth parallel to the direction of wave travel",
-      "b": "perpendicular to the direction of wave travel",
-      "c": "in a rolling elliptical motion",
-      "d": "in a rolling circular motion"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q725",
-    "globalId": 725,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Who developed the procedure used to measure the size of an earthquake?",
-    "choices": {
-      "a": "Charles Richter",
-      "b": "Edward Sheridan",
-      "c": "James Hutton",
-      "d": "Art Smith"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q726",
-    "globalId": 726,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "The moment magnitude of an earthquake depends on all of the following except __.",
-    "choices": {
-      "a": "the area of the fault break",
-      "b": "the rigidity of the fault",
-      "c": "the slip on the fault",
-      "d": "the type of faulting"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q727",
-    "globalId": 727,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following measures an earthquake's intensity based on the observed effects on people and structures?",
-    "choices": {
-      "a": "Richter scale",
-      "b": "Modified Mercalli scale",
-      "c": "the Centigrade scale",
-      "d": "the moment magnitude scale"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q728",
-    "globalId": 728,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Shallow earthquakes, less than 20 km deep, are associated with _______.",
-    "choices": {
-      "a": "convergent plate boundaries",
-      "b": "divergent plate boundaries",
-      "c": "transform plate boundaries",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q729",
-    "globalId": 729,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "What type of faulting would be most likely to occur along transform faults?",
-    "choices": {
-      "a": "normal faulting",
-      "b": "reverse faulting",
-      "c": "strike-slip faulting",
-      "d": "all of these"
-    },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap18fig3.gif",
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q730",
-    "globalId": 730,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "What type of earthquakes would most likely occur at point A?",
-    "choices": {
-      "a": "shallow-focus earthquakes caused by normal faulting",
-      "b": "shallow-focus earthquakes caused by strike-slip faulting",
-      "c": "shallow-focus earthquakes caused by thrust faulting",
-      "d": "deep-focus earthquakes caused by thrust faulting"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q731",
-    "globalId": 731,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "What type of earthquakes would most likely occur at point B?",
-    "choices": {
-      "a": "shallow-focus earthquakes caused by normal faulting",
-      "b": "shallow-focus earthquakes caused by strike-slip faulting",
-      "c": "shallow-focus earthquakes caused by thrust faulting",
-      "d": "deep-focus earthquakes caused by thrust faulting"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q732",
-    "globalId": 732,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following did not occur at a plate boundary?",
-    "choices": {
-      "a": "New Madrid, Missouri, 1812",
-      "b": "San Francisco, 1906",
-      "c": "Anchorage, Alaska, 1964",
-      "d": "Loma Prieta, California, 1989"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q733",
-    "globalId": 733,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following can be triggered by an earthquake?",
-    "choices": {
-      "a": "tsunami",
-      "b": "intense ground shaking",
-      "c": "a landslide",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q734",
-    "globalId": 734,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following can trigger a tsunami?",
-    "choices": {
-      "a": "undersea earthquakes",
-      "b": "undersea landslides",
-      "c": "the eruption of an oceanic volcano",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q735",
-    "globalId": 735,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following waves is the slowest?",
-    "choices": {
-      "a": "P waves",
-      "b": "S waves",
-      "c": "Surface waves",
-      "d": "tsunami"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q736",
-    "globalId": 736,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following statements is false?",
-    "choices": {
-      "a": "Most earthquakes occur at plate boundaries",
-      "b": "The time and location of most major earthquakes can be predicted several days in advance",
-      "c": "Earthquakes can be caused by normal, reverse and strike-slip faulting",
-      "d": "P waves travel faster than both S waves and Surface waves"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q737",
-    "globalId": 737,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following observations may indicate a forthcoming destructive earthquake?",
-    "choices": {
-      "a": "An increase in the frequency of smaller earthquakes in the region",
-      "b": "rapid tilting of the ground",
-      "c": "rapid changes in water levels in wells",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch16-q738",
-    "globalId": 738,
-    "source": "oxford",
-    "chapter": "Chapter 16",
-    "chapterNum": 16,
-    "chapterTitle": "Earthquakes",
-    "text": "Which of the following statements best describes the state of earthquake prediction?",
-    "choices": {
-      "a": "scientists can accurately predict the time and location of almost all earthquakes",
-      "b": "scientists can accurately predict the time and location of about 50% of all earthquakes",
-      "c": "scientists can accurately predict when an earthquake will occur, but not where",
-      "d": "scientists can characterize the seismic risk of an area, but can not yet accurately predict most earthquakes"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Earthquakes",
-    "tags": [
-      "Earthquakes",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q739",
-    "globalId": 739,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "What is the approximate distance from the surface to the center of he Earth?",
-    "choices": {
-      "a": "1,000 miles",
-      "b": "4,000 miles",
-      "c": "10,000 miles",
-      "d": "40,000 miles"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q740",
-    "globalId": 740,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "When sesimic waves pass across the boundary between two different materials, ___________.",
-    "choices": {
-      "a": "the waves refract",
-      "b": "the waves reflect",
-      "c": "the waves change in velocity",
-      "d": "all of the above"
-    },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chpa19fig1.gif",
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q741",
-    "globalId": 741,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which region in the Earth is about 85% iron?",
-    "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "D"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q742",
-    "globalId": 742,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which region in the Earth molten?",
-    "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "D"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q743",
-    "globalId": 743,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "In which region of the Earth is conduction the dominant heat transfer mechanism?",
-    "choices": {
-      "a": "A",
-      "b": "B",
-      "c": "C",
-      "d": "D"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q744",
-    "globalId": 744,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "How long does it take a P-wave to travel through the Earth?",
-    "choices": {
-      "a": "1 minute",
-      "b": "5 minutes",
-      "c": "10 minutes",
-      "d": "20 minutes"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q745",
-    "globalId": 745,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following statements is false?",
-    "choices": {
-      "a": "the P-wave shadow zone is larger than the S-wave shadow zone.",
-      "b": "Seismic waves follow curved paths through the interior of the Earth",
-      "c": "P waves travel more slowly in the outer core than in the lower mantle",
-      "d": "Liquids do not transmit S waves"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q746",
-    "globalId": 746,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The S wave shadow zone is caused by the _________ .",
-    "choices": {
-      "a": "the crust-mantle boundary",
-      "b": "the outer core",
-      "c": "the lower mantle",
-      "d": "the inner core"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q747",
-    "globalId": 747,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The S-wave shadow zone extends from _____ to 180 o angular distance from the earthquake focus on one side and from ______ to 180o on the other.",
-    "choices": {
-      "a": "45 degrees",
-      "b": "75 degrees",
-      "c": "105 degrees",
-      "d": "145 degrees"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q748",
-    "globalId": 748,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The boundary between the mantle and the core lies at a depth of approximately ________ .",
-    "choices": {
-      "a": "300 kilometers",
-      "b": "1000 kilometres",
-      "c": "3000 kilometers",
-      "d": "5000 kilometers"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q749",
-    "globalId": 749,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Continental crust can be up to ______ kilometers thick.",
-    "choices": {
-      "a": "5",
-      "b": "35",
-      "c": "65",
-      "d": "100"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q750",
-    "globalId": 750,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Where do P waves travel the fastest?",
-    "choices": {
-      "a": "upper mantle",
-      "b": "lower mantle",
-      "c": "outer core",
-      "d": "inner core"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q751",
-    "globalId": 751,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following statements about the Moho is false?",
-    "choices": {
-      "a": "seismic waves speed up as they pass across the Moho heading downward",
-      "b": "the Moho separates denser rocks below from less dense rocks above",
-      "c": "the Moho separates the crust from the mantle",
-      "d": "the Moho marks the top of a partially molten layer"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q752",
-    "globalId": 752,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "After melting of a continental ice cap, the surface of the continent will tend to __________ .",
-    "choices": {
-      "a": "rise",
-      "b": "sink",
-      "c": "sink or rise depending on the thickness of the ice cap",
-      "d": "remain the same - ice does not weigh that much"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q753",
-    "globalId": 753,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "If the Earth cooled only by conduction, heat from depths greater than ______ kilometers would not yet have reached the surface.",
-    "choices": {
-      "a": "20",
-      "b": "100",
-      "c": "400",
-      "d": "2000"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q754",
-    "globalId": 754,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The mechanical transfer of heat by vibration of atoms and molecules is called __________ .",
-    "choices": {
-      "a": "radiation",
-      "b": "conduction",
-      "c": "magnetism",
-      "d": "convection"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q755",
-    "globalId": 755,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "What drives plate tectonics?",
-    "choices": {
-      "a": "thermal convection",
-      "b": "thermal conduction",
-      "c": "solar energy",
-      "d": "erosion"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q756",
-    "globalId": 756,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "In a deep mine, temperatures increase at the rate of ________ .",
-    "choices": {
-      "a": "3 degrees C per kilometer",
-      "b": "30 degrees C per kilometer",
-      "c": "300 degrees C per kilometer",
-      "d": "1 degree C per kilometer"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q757",
-    "globalId": 757,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Where is the Earth's magnetic field generated?",
-    "choices": {
-      "a": "in the crust",
-      "b": "in the mantle",
-      "c": "in the outer core",
-      "d": "in the inner core"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q758",
-    "globalId": 758,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "At what temperature do materials loose their permanent magnetism?",
-    "choices": {
-      "a": "100 degrees C",
-      "b": "250 degrees C",
-      "c": "400 degrees C",
-      "d": "550 degrees C"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q759",
-    "globalId": 759,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following statements is true?",
-    "choices": {
-      "a": "the Earth's magnetic poles are aligned with the Earth's rotation axis",
-      "b": "the Earth's magnetic poles are inclined approximately 11 degrees from the Earth's rotation axis",
-      "c": "the Earth's magnetic poles are inclined approximately 45 degrees from the Earth's rotation axis",
-      "d": "the Earth's magnetic poles are perpendicular to the Earth's rotation axis"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q760",
-    "globalId": 760,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The Earth's magnetic field reverses itself roughly every ________ .",
-    "choices": {
-      "a": "50 years",
-      "b": "5,000 years",
-      "c": "500,000 years",
-      "d": "50 million years"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q761",
-    "globalId": 761,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Permanent magnetism acquired by minerals in igneous rocks during crystallization is called __________ magnetization.",
-    "choices": {
-      "a": "depositional remnant",
-      "b": "paleoremnant magnetism",
-      "c": "silicate",
-      "d": "thermoremanent magnetism"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q762",
-    "globalId": 762,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following rock types would be most likely to record the magnetic field at the time the rock formed?",
-    "choices": {
-      "a": "an alluvial conglomerate",
-      "b": "a basaltic lava flow",
-      "c": "an evaporite deposit of halite",
-      "d": "a schist"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q763",
-    "globalId": 763,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which one of the following lists most accurately describes oceanic crust?",
-    "choices": {
-      "a": "basaltic - density of 3.0 g/cm3",
-      "b": "granitic - density of 3.0 g/cm3",
-      "c": "quartz arenites - density of 2.6 g/cm3",
-      "d": "basaltic - density of 2.6 g/cc"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q764",
-    "globalId": 764,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The Moho separates:",
-    "choices": {
-      "a": "the outer core from the inner core",
-      "b": "the lithosphere from the asthenosphere",
-      "c": "the asthenosphere from the Mesosphere",
-      "d": "the crust from the mantle"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q765",
-    "globalId": 765,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which one of the following term associations is FALSE?",
-    "choices": {
-      "a": "asthenosphere --- plastic behavior",
-      "b": "lithosphere --- rigid solid",
-      "c": "outer core --- right solid",
-      "d": "continental crust --- rigid solid"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q766",
-    "globalId": 766,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "To induce a positive Bouguer anomaly, a rock unit should have the following property:",
-    "choices": {
-      "a": "transmit only P waves",
-      "b": "be denser than the surrounding materials",
-      "c": "be less dense than the surrounding materials",
-      "d": "be magnetic"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q767",
-    "globalId": 767,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The lithosphere includes:",
-    "choices": {
-      "a": "crust and uppermost, rigid mantle",
-      "b": "outer core and inner core",
-      "c": "asthenosphere and mesosphere",
-      "d": "outer core and lower mantle"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q768",
-    "globalId": 768,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "A cooling magnetic material _________ its magnetic character at its Curie temperature:",
-    "choices": {
-      "a": "gains",
-      "b": "looses",
-      "c": "neither of these happens"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q769",
-    "globalId": 769,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "What region of the Earth takes up the greatest volume?",
-    "choices": {
-      "a": "the crust",
-      "b": "the outer core",
-      "c": "the inner core",
-      "d": "the mantle"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q770",
-    "globalId": 770,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following terms describes the mechanical behavior of a part of the Earth?",
-    "choices": {
-      "a": "the continental crust",
-      "b": "the oceanic crust",
-      "c": "the lithosphere",
-      "d": "the mantle"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q771",
-    "globalId": 771,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The continental crust consists mainly of _________.",
-    "choices": {
-      "a": "granitic rocks",
-      "b": "basaltic rocks",
-      "c": "ultramafic rocks",
-      "d": "gabbroic rocks"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q772",
-    "globalId": 772,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The oceanic crust consists mainly of _________.",
-    "choices": {
-      "a": "granitic rocks",
-      "b": "basaltic rocks",
-      "c": "ultramafic rocks",
-      "d": "gabbroic rocks"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q773",
-    "globalId": 773,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The mantle consists mainly of _________.",
-    "choices": {
-      "a": "granitic rocks",
-      "b": "basaltic rocks",
-      "c": "ultramafic rocks",
-      "d": "gabbroic rocks"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q774",
-    "globalId": 774,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The boundary between the Earth's crust and mantle was first discovered by __________.",
-    "choices": {
-      "a": "analyzing seismic waves",
-      "b": "deep continental drilling",
-      "c": "detailed geologic mapping",
-      "d": "paleomagnetic studies"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q775",
-    "globalId": 775,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "How fast do P-waves travel through granite?",
-    "choices": {
-      "a": "4 kilometers per second",
-      "b": "6 kilometers per second",
-      "c": "8 kilometers per second",
-      "d": "10 kilometers per second"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q776",
-    "globalId": 776,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following statements is false?",
-    "choices": {
-      "a": "the crust-mantle boundary is called the Mohorovicic discontinuity",
-      "b": "the oceanic crust consists of basalt and gabbro",
-      "c": "the crust is less dense than the mantle",
-      "d": "P-waves travel faster in the crust than in the mantle"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q777",
-    "globalId": 777,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "An ophiolite may not include a piece of____________.",
-    "choices": {
-      "a": "continental crust",
-      "b": "oceanic crust",
-      "c": "upper mantle",
-      "d": "the Moho"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q778",
-    "globalId": 778,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following regions consists primarily of olivine and pyroxene?",
-    "choices": {
-      "a": "continental crust",
-      "b": "oceanic crust",
-      "c": "upper mantle",
-      "d": "the core"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q779",
-    "globalId": 779,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following statements is false?",
-    "choices": {
-      "a": "the asthenosphere lies beneath the lithosphere",
-      "b": "the asthenosphere is stronger than the lithosphere",
-      "c": "the asthenosphere rises close to the surface beneath mid-ocean ridges",
-      "d": "the asthenosphere is partially molten"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q780",
-    "globalId": 780,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The lithosphere is approximately _________ kilometers thick",
-    "choices": {
-      "a": "25",
-      "b": "100",
-      "c": "250",
-      "d": "2900"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q781",
-    "globalId": 781,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following statements is true",
-    "choices": {
-      "a": "the lithosphere contains the crust",
-      "b": "the crust contains the lithosphere",
-      "c": "the lithosphere and crust are different terms for the same part of the Earth",
-      "d": "the lithosphere and crust are totally separate parts of the Earth"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q782",
-    "globalId": 782,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The sharp increase in velocity of S-waves at 400 and 670 kilometers depth in the mantle are probably caused by ___________.",
-    "choices": {
-      "a": "changes to more compact mineral structures",
-      "b": "changes in the composition of the mantle",
-      "c": "changes in the temperature of the mantle",
-      "d": "changes in the pressure of the mantle"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q783",
-    "globalId": 783,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "What element makes up most of the Earth's core?",
-    "choices": {
-      "a": "silicon",
-      "b": "oxygen",
-      "c": "iron",
-      "d": "nickle"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q784",
-    "globalId": 784,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "The boundary between the inner core and the outer core lies at a depth of ______ kilometers",
-    "choices": {
-      "a": "700",
-      "b": "2900",
-      "c": "5100",
-      "d": "6400"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q785",
-    "globalId": 785,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "How thick a continental root would be produced by a 3 kilometer thick continental ice sheet?",
-    "choices": {
-      "a": "about 1 kilometers",
-      "b": "about 2 kilometers",
-      "c": "about 10 kilometers",
-      "d": "about 30 kilometers"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q786",
-    "globalId": 786,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following statements best describes the nature of the core-mantle boundary?",
-    "choices": {
-      "a": "the core-mantle boundary is smooth",
-      "b": "the core-mantle boundary is rough with a topography of about 5 kilometers",
-      "c": "the core-mantle boundary is rough with a topography of about 100 kilometers",
-      "d": "the core-mantle boundary is rough with a topography of about 400 kilometers"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch17-q787",
-    "globalId": 787,
-    "source": "oxford",
-    "chapter": "Chapter 17",
-    "chapterNum": 17,
-    "chapterTitle": "Interior of the Earth",
-    "text": "Which of the following statements regarding the inner core is true?",
-    "choices": {
-      "a": "P waves do not travel through the inner core",
-      "b": "Primary S waves (those generated at the focus of an event) travel through the inner core",
-      "c": "P waves travel through the inner core at a higher velocity than S waves travel through the inner core",
-      "d": "the inner core is thought to be a liquid"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Interior of the Earth",
-    "tags": [
-      "Interior of the Earth",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q788",
-    "globalId": 788,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "If there is a hot spot in the asthenosphere beneath Yellowstone, Wyoming, which way will the center of active volcanism appear to have moved in a million years?",
-    "choices": {
-      "a": "East",
-      "b": "West",
-      "c": "North",
-      "d": "South"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q789",
-    "globalId": 789,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "The Gulf Coast of Texas is a(n) _____________ continental margin.",
-    "choices": {
-      "a": "active",
-      "b": "passive",
-      "c": "subduction",
-      "d": "divergent"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q790",
-    "globalId": 790,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "The west coast of Peru is a(n) _______ continental margin.",
-    "choices": {
-      "a": "active",
-      "b": "passive",
-      "c": "transform",
-      "d": "divergent"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q791",
-    "globalId": 791,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "Melange deposits are associated with a _______ plate margin",
-    "choices": {
-      "a": "passive",
-      "b": "shear",
-      "c": "tensional margin",
-      "d": "compressional margin"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q792",
-    "globalId": 792,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "Thrust faults are associated with a _______ plate margin.",
-    "choices": {
-      "a": "passive",
-      "b": "spreading center",
-      "c": "continental/ocean convergent",
-      "d": "transform"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q793",
-    "globalId": 793,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "Silica rich sediments characterize the deep sea floor. The silica could have come from",
-    "choices": {
-      "a": "volcanic debris",
-      "b": "life forms in the ocean",
-      "c": "neither of these is correct",
-      "d": "the first two answers are correct"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q794",
-    "globalId": 794,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "Turbidity currents can occur at both active and passive continental margins (True or False).",
-    "choices": {
-      "a": "True",
-      "b": "False"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q795",
-    "globalId": 795,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "The presence of \"magnetic stripes\" recorded in the oceanic crust reflects __________ .",
-    "choices": {
-      "a": "reversals in polarity of the Earth's magnetic field",
-      "b": "the rate of sea floor spreading",
-      "c": "variation in composition of the oceanic crust",
-      "d": "all of these"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q796",
-    "globalId": 796,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "The width of the \"magnetic stripes\" recorded in the oceanic crust reflects _________ .",
-    "choices": {
-      "a": "reversals in polarity of the Earth's magnetic field",
-      "b": "the rate of sea floor spreading",
-      "c": "variation in composition of the oceanic crust",
-      "d": "all of these"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q797",
-    "globalId": 797,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "Transform faults _____________ .",
-    "choices": {
-      "a": "can offset of spreading centers",
-      "b": "can cut across continental crust",
-      "c": "exhibit horizontal offset",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch18-q798",
-    "globalId": 798,
-    "source": "oxford",
-    "chapter": "Chapter 18",
-    "chapterNum": 18,
-    "chapterTitle": "Sea Floor Spreading",
-    "text": "Ophiolites _________________",
-    "choices": {
-      "a": "are an ancient piece of sea floor",
-      "b": "are emplaced in a compressional setting",
-      "c": "are primarily igneous rocks with a thin sedimentary covering",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Sea Floor Spreading",
-    "tags": [
-      "Sea Floor Spreading",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q799",
-    "globalId": 799,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "What is the name of the Mesozoic supercontinent that consisted of all of the present continents?",
-    "choices": {
-      "a": "Eurasia",
-      "b": "Laurasia",
-      "c": "Pangaea",
-      "d": "Gondwanaland"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q800",
-    "globalId": 800,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "When did the supercontinent Pangaea begin to break apart?",
-    "choices": {
-      "a": "about 10,000 years ago",
-      "b": "about 10 million years ago",
-      "c": "about 200 million years ago",
-      "d": "about 570 million years ago"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q801",
-    "globalId": 801,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "What two scientists proposed the theory of seafloor spreading in he early 1960s?",
-    "choices": {
-      "a": "Charles Darwin and James Hutton",
-      "b": "Harry Hess and Robert Dietz",
-      "c": "John Butler and Arthur Smite",
-      "d": "F. Vine and D. Mathews"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q802",
-    "globalId": 802,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "The theory of plate tectonics was widely accepted by __________ .",
-    "choices": {
-      "a": "the end of the 19th century",
-      "b": "about 1950",
-      "c": "about 1960",
-      "d": "about 1970"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q803",
-    "globalId": 803,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "What age are the fossils of the reptile Mesosaurus found in Africa and South America that suggested that the two continents were once together?",
-    "choices": {
-      "a": "early Cenozoic",
-      "b": "late Mesozoic",
-      "c": "early Mesozoic",
-      "d": "late Paleozoic"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q804",
-    "globalId": 804,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Approximately how many lithospheric plates are there?",
-    "choices": {
-      "a": "about 3",
-      "b": "about 6",
-      "c": "about 12",
-      "d": "about 24"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q805",
-    "globalId": 805,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which plate is being subducted beneath western South America?",
-    "choices": {
-      "a": "the Pacific plate",
-      "b": "the South American plate",
-      "c": "the Nazca plate",
-      "d": "the South Atlantic plate"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q806",
-    "globalId": 806,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "How old are the oldest oceanic crustal basalts?",
-    "choices": {
-      "a": "about 20 million years old",
-      "b": "about 4.0 billion years old",
-      "c": "about 200 million years old",
-      "d": "about 570 million years old"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q807",
-    "globalId": 807,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "New oceanic lithosphere forms at __________ .",
-    "choices": {
-      "a": "divergent plate boundaries",
-      "b": "convergent plate boundaries",
-      "c": "transform plate boundaries",
-      "d": "all of these are possible"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q808",
-    "globalId": 808,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which of the following is not a divergent plate boundary?",
-    "choices": {
-      "a": "the Great Rift Valley of East Africa",
-      "b": "the East Pacific Rise",
-      "c": "the San Andreas fault",
-      "d": "the Mid-Atlantic Ridge"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q809",
-    "globalId": 809,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Partial melting and the production of magma takes place at ________ .",
-    "choices": {
-      "a": "divergent plate boundaries",
-      "b": "ocean-ocean convergent plate boundaries",
-      "c": "ocean-continent plate boundaries",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q810",
-    "globalId": 810,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "At what type of plate boundary do shallow-focus earthquakes occur?",
-    "choices": {
-      "a": "convergent",
-      "b": "divergent",
-      "c": "transform",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q811",
-    "globalId": 811,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "The Hawaiian Islands formed at a _________ .",
-    "choices": {
-      "a": "convergent boundary",
-      "b": "divergent boundary",
-      "c": "transform boundary",
-      "d": "none of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q812",
-    "globalId": 812,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which of the following are not associated with convergent plate margins?",
-    "choices": {
-      "a": "deep-focus earthquakes",
-      "b": "rift valleys",
-      "c": "island arcs",
-      "d": "deep-sea trenches"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q813",
-    "globalId": 813,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "The North American plate is bounded by _________ plate boundaries",
-    "choices": {
-      "a": "convergent",
-      "b": "divergent",
-      "c": "transform",
-      "d": "convergent, divergent, and transform"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q814",
-    "globalId": 814,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "The east coast of North America represents a _________ .",
-    "choices": {
-      "a": "convergent boundary",
-      "b": "divergent boundary",
-      "c": "transform boundary",
-      "d": "non of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q815",
-    "globalId": 815,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "What are ophiolite suites?",
-    "choices": {
-      "a": "fragments of oceanic lithosphere emplaced on a continent",
-      "b": "groups of seafloor magnetic anomalies",
-      "c": "wedge-shaped packages of sediments that form at passive margins",
-      "d": "micro-continents that have traveled a long distance"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q816",
-    "globalId": 816,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Transform faults ___________ .",
-    "choices": {
-      "a": "often offset spreading centers",
-      "b": "can cut across continents",
-      "c": "involve horizontal movement",
-      "d": "all of these"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q817",
-    "globalId": 817,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Stretching stresses, basaltic lavas, and shallow earthquakes are associated with ______ .",
-    "choices": {
-      "a": "subduction zones",
-      "b": "continent/continent convergence",
-      "c": "spreading centers",
-      "d": "transform boundaries"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q818",
-    "globalId": 818,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Compressive stresses, granitic magmas, and intermediate depth earthquakes are associated with __________",
-    "choices": {
-      "a": "subduction zones",
-      "b": "continent/continent convergence",
-      "c": "spreading centers",
-      "d": "transform boundaries"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q819",
-    "globalId": 819,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Shearing stresses and shallow earthquakes are associated with:",
-    "choices": {
-      "a": "subduction zones",
-      "b": "continent/continent convergence",
-      "c": "spreading centers",
-      "d": "transform boundaries"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q820",
-    "globalId": 820,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "If the Atlantic Ocean is widening at a rate of 3 cm per year how far (in kilometers) will it spread in a million years?",
-    "choices": {
-      "a": "300 kilometers",
-      "b": "30 kilometers",
-      "c": "30 miles",
-      "d": "3 kilometers"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q821",
-    "globalId": 821,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "In 50 million years?",
-    "choices": {
-      "a": "150 kilometers",
-      "b": "1000 kilometers",
-      "c": "1500 kilometers",
-      "d": "30 kilometers"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q822",
-    "globalId": 822,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "At convergent plate boundaries where oceanic and continental crust meet _________ .",
-    "choices": {
-      "a": "no associated volcanism occurs",
-      "b": "oceanic crust is subducted",
-      "c": "continental crust is subducted",
-      "d": "oceanic crust is created"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q823",
-    "globalId": 823,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "One remarkable realization associated with the discovery of seafloor spreading was that _____________ .",
-    "choices": {
-      "a": "the crust of the continents is more dense than the crust of the ocean",
-      "b": "the crust of the oceans is very young relative to the age of the crust of the continents",
-      "c": "mountains are more dense than then mantle",
-      "d": "the rotational poles of the Earth have migrated."
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q824",
-    "globalId": 824,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which segment of the Atlantic Ocean opened first?",
-    "choices": {
-      "a": "northern",
-      "b": "southern",
-      "c": "central",
-      "d": "it all opened at the same time"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q825",
-    "globalId": 825,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "If the Pacific plate and the North American plate continue to move in the same sense, Los Angeles and San Francisco will eventually lie at the same latitude",
-    "choices": {
-      "a": "True",
-      "b": "False"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q826",
-    "globalId": 826,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "I once saw a bumper sticker that said \"Reunite Gondwanaland\". Which of the following would not be part of this reconstruction?",
-    "choices": {
-      "a": "Antacrtica",
-      "b": "Australia",
-      "c": "India south of the Himayala",
-      "d": "North America"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q827",
-    "globalId": 827,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Loihi excites geologists because it represents a:",
-    "choices": {
-      "a": "new instrument for detecting volcanic gasses",
-      "b": "new instrument for detecting lava composition",
-      "c": "satellite than can monitor worldwide volcanic activity",
-      "d": "a new volcano that is the youngest in the Hawaiian Island chain."
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q828",
-    "globalId": 828,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which of the following is not a chain of volcanic islands associated with ocean-ocean convergence?",
-    "choices": {
-      "a": "the Aleutian Islands",
-      "b": "the Hawaiian Islands",
-      "c": "the Mariana Islands",
-      "d": "the Philippine Islands"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q829",
-    "globalId": 829,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Volcanic island arcs are associated with __________ .",
-    "choices": {
-      "a": "transform plate boundaries",
-      "b": "divergent plate boundaries",
-      "c": "ocean-ocean convergent plate boundaries",
-      "d": "ocean-continent convergent plate boundaries"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q830",
-    "globalId": 830,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Melange deposits are associated with ______ .",
-    "choices": {
-      "a": "divergent boundaries",
-      "b": "subduction margins",
-      "c": "transform boundaries",
-      "d": "all of these"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q831",
-    "globalId": 831,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which of the following mountains did not form as a result of collision between two continents?",
-    "choices": {
-      "a": "Appalachians",
-      "b": "Urals",
-      "c": "Andes",
-      "d": "Himalayas"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q832",
-    "globalId": 832,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Crustal blocks that occur within orogenic belts whose rocks and structures contrast sharply with adjacent provinces are called ________ .",
-    "choices": {
-      "a": "ophiolites",
-      "b": "sutures",
-      "c": "microplates",
-      "d": "island arcs"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q833",
-    "globalId": 833,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which of the following increases with distance from a mid-ocean ridge?",
-    "choices": {
-      "a": "the age of oceanic lithosphere",
-      "b": "the depth to the sea floor",
-      "c": "the thickness of the lithosphere",
-      "d": "all of the above"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q834",
-    "globalId": 834,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "How many reversals of the Earth's magnetic field are depicted in the diagram?",
-    "choices": {
-      "a": "3",
-      "b": "4",
-      "c": "6",
-      "d": "7"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap20fig1.gif",
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q835",
-    "globalId": 835,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "How fast are C and D spreading apart from each other?",
-    "choices": {
-      "a": "about 2 centimeters per year",
-      "b": "about 5 centimeters per year",
-      "c": "about 10 centimeters per year",
-      "d": "about 100 centimeters per year"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q836",
-    "globalId": 836,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Lines on the seafloor that connect rocks of the same age are called _________.",
-    "choices": {
-      "a": "isograds",
-      "b": "isotopes",
-      "c": "isochrons",
-      "d": "isostasy"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q837",
-    "globalId": 837,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "The east coast of North America represents a ___________.",
-    "choices": {
-      "a": "convergent plate boundary",
-      "b": "divergent plate boundary",
-      "c": "a transform plate boundary",
-      "d": "the east coast of North America is not a plate boundary"
-    },
-    "correctAnswer": "d",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q838",
-    "globalId": 838,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "What are ophiolite suites?",
-    "choices": {
-      "a": "fragments of oceanic lithosphere emplaced on a continent",
-      "b": "groups of seafloor magnetic anomalies",
-      "c": "wedge-shaped packages of sediment that form at passive margins",
-      "d": "micro-continents that have traveled a long distance"
-    },
-    "correctAnswer": "a",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap20fig2.gif",
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q839",
-    "globalId": 839,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which of the following rock types would you least expect to find in layer 1?",
-    "choices": {
-      "a": "chert",
-      "b": "limestone",
-      "c": "sandstone",
-      "d": "shale"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q840",
-    "globalId": 840,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "What type of rocks make up layer 2",
-    "choices": {
-      "a": "basalt",
-      "b": "gabbro",
-      "c": "granite",
-      "d": "ultramafics"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q841",
-    "globalId": 841,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "What type of rocks make up layer 3",
-    "choices": {
-      "a": "basalt",
-      "b": "gabbro",
-      "c": "granite",
-      "d": "ultramafics"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q842",
-    "globalId": 842,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Where is the Moho in this diagram?",
-    "choices": {
-      "a": "between layers 1 and 2",
-      "b": "between layers 2 and 3",
-      "c": "between layer 3 and the ultramafic rocks",
-      "d": "beneath the ultramafics"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q843",
-    "globalId": 843,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which two layers have the same chemical composition?",
-    "choices": {
-      "a": "layers 1 and 2",
-      "b": "layers 1 and 3",
-      "c": "layers 2 and 3",
-      "d": "layer 3 and the ultramafics"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q844",
-    "globalId": 844,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "How wide are the crystal mush zones (magma chambers) beneath mid-ocean ridges?",
-    "choices": {
-      "a": "1 kilometer",
-      "b": "10 kilometers",
-      "c": "100 kilometers",
-      "d": "500 kilometers"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q845",
-    "globalId": 845,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Sedimentary rocks laid down in a slowly subsiding basin along a receding continental margin are called __________.",
-    "choices": {
-      "a": "continental shelf deposits",
-      "b": "ophiolite suites",
-      "c": "melange deposits",
-      "d": "fluvial deposits"
-    },
-    "correctAnswer": "a",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q846",
-    "globalId": 846,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Volcanic island arcs are associated with _________.",
-    "choices": {
-      "a": "transform plate boundaries",
-      "b": "divergent plate boundaries",
-      "c": "ocean-ocean convergent plate boundaries",
-      "d": "ocean-continent convergent plate boundaries"
-    },
-    "correctAnswer": "c",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q847",
-    "globalId": 847,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "What is the topographic feature at A called",
-    "choices": {
-      "a": "oceanic basin",
-      "b": "oceanic rift",
-      "c": "spreading center",
-      "d": "oceanic trench"
-    },
-    "correctAnswer": "d",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap20fig3.gif",
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q848",
-    "globalId": 848,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Feature B, called a __________, consists of chaotically mixed and deformed rocks.",
-    "choices": {
-      "a": "forearc basin",
-      "b": "melange",
-      "c": "suture",
-      "d": "turbidite"
-    },
-    "correctAnswer": "b",
-    "imageUrl": null,
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q849",
-    "globalId": 849,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "What type of metamorphism occurs in region B?",
-    "choices": {
-      "a": "high temperature, low pressure",
-      "b": "low temperature, high pressure",
-      "c": "high temperature, high pressure",
-      "d": "low temperature, low pressure"
-    },
-    "correctAnswer": "b",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap20fig3.gif",
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
-    ],
-    "difficulty": "medium"
-  },
-  {
-    "id": "oxford-ch19-q850",
-    "globalId": 850,
-    "source": "oxford",
-    "chapter": "Chapter 19",
-    "chapterNum": 19,
-    "chapterTitle": "Plate Tectonics",
-    "text": "Which of the following locations could be represented by this diagram??",
-    "choices": {
-      "a": "east coast of Africa",
-      "b": "east coast of South America",
-      "c": "west coast of South America",
-      "d": "east coast of North America"
-    },
-    "correctAnswer": "c",
-    "imageUrl": "https://uh.edu/~jbutler/physical/chap20fig3.gif",
-    "category": "Plate Tectonics",
-    "tags": [
-      "Plate Tectonics",
-      "Oxford"
+      "Planetary Geology: Terrestrial Planets & Moons",
+      "OUP"
     ],
     "difficulty": "medium"
   }
