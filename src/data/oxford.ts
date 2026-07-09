@@ -1,10 +1,10 @@
 import type { Question } from '../types';
 
-export const oupQuestions: Question[] = [
+export const oxfordQuestions: Question[] = [
   {
-    "id": "oup-ch1-q1",
+    "id": "oxford-ch1-q1",
     "globalId": 1,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -21,13 +21,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q2",
+    "id": "oxford-ch1-q2",
     "globalId": 2,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -44,13 +43,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q3",
+    "id": "oxford-ch1-q3",
     "globalId": 3,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -67,13 +65,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q4",
+    "id": "oxford-ch1-q4",
     "globalId": 4,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -90,13 +87,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q5",
+    "id": "oxford-ch1-q5",
     "globalId": 5,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -113,13 +109,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q6",
+    "id": "oxford-ch1-q6",
     "globalId": 6,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -136,13 +131,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q7",
+    "id": "oxford-ch1-q7",
     "globalId": 7,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -159,13 +153,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q8",
+    "id": "oxford-ch1-q8",
     "globalId": 8,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -182,13 +175,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q9",
+    "id": "oxford-ch1-q9",
     "globalId": 9,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -205,13 +197,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q10",
+    "id": "oxford-ch1-q10",
     "globalId": 10,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -228,13 +219,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q11",
+    "id": "oxford-ch1-q11",
     "globalId": 11,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -251,13 +241,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q12",
+    "id": "oxford-ch1-q12",
     "globalId": 12,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -274,13 +263,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q13",
+    "id": "oxford-ch1-q13",
     "globalId": 13,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -297,13 +285,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q14",
+    "id": "oxford-ch1-q14",
     "globalId": 14,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -320,13 +307,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q15",
+    "id": "oxford-ch1-q15",
     "globalId": 15,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -343,13 +329,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q16",
+    "id": "oxford-ch1-q16",
     "globalId": 16,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -366,13 +351,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q17",
+    "id": "oxford-ch1-q17",
     "globalId": 17,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -389,13 +373,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q18",
+    "id": "oxford-ch1-q18",
     "globalId": 18,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -412,13 +395,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q19",
+    "id": "oxford-ch1-q19",
     "globalId": 19,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -435,13 +417,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q20",
+    "id": "oxford-ch1-q20",
     "globalId": 20,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -458,13 +439,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q21",
+    "id": "oxford-ch1-q21",
     "globalId": 21,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -481,13 +461,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q22",
+    "id": "oxford-ch1-q22",
     "globalId": 22,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -504,13 +483,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q23",
+    "id": "oxford-ch1-q23",
     "globalId": 23,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -527,13 +505,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch1-q24",
+    "id": "oxford-ch1-q24",
     "globalId": 24,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 1",
     "chapterNum": 1,
     "chapterTitle": "Earth as a System & Solar System",
@@ -550,13 +527,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earth as a System & Solar System",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q25",
+    "id": "oxford-ch2-q25",
     "globalId": 25,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -573,13 +549,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q26",
+    "id": "oxford-ch2-q26",
     "globalId": 26,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -596,13 +571,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q27",
+    "id": "oxford-ch2-q27",
     "globalId": 27,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -619,13 +593,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q28",
+    "id": "oxford-ch2-q28",
     "globalId": 28,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -642,13 +615,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q29",
+    "id": "oxford-ch2-q29",
     "globalId": 29,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -665,13 +637,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q30",
+    "id": "oxford-ch2-q30",
     "globalId": 30,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -688,13 +659,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q31",
+    "id": "oxford-ch2-q31",
     "globalId": 31,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -711,13 +681,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q32",
+    "id": "oxford-ch2-q32",
     "globalId": 32,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -734,13 +703,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q33",
+    "id": "oxford-ch2-q33",
     "globalId": 33,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -757,13 +725,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q34",
+    "id": "oxford-ch2-q34",
     "globalId": 34,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -780,13 +747,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q35",
+    "id": "oxford-ch2-q35",
     "globalId": 35,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -803,13 +769,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q36",
+    "id": "oxford-ch2-q36",
     "globalId": 36,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -826,13 +791,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q37",
+    "id": "oxford-ch2-q37",
     "globalId": 37,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -849,13 +813,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q38",
+    "id": "oxford-ch2-q38",
     "globalId": 38,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -872,13 +835,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q39",
+    "id": "oxford-ch2-q39",
     "globalId": 39,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -895,13 +857,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q40",
+    "id": "oxford-ch2-q40",
     "globalId": 40,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -918,13 +879,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q41",
+    "id": "oxford-ch2-q41",
     "globalId": 41,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -941,13 +901,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q42",
+    "id": "oxford-ch2-q42",
     "globalId": 42,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -964,13 +923,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q43",
+    "id": "oxford-ch2-q43",
     "globalId": 43,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -987,13 +945,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch2-q44",
+    "id": "oxford-ch2-q44",
     "globalId": 44,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 2",
     "chapterNum": 2,
     "chapterTitle": "Plate Tectonics",
@@ -1010,13 +967,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q45",
+    "id": "oxford-ch3-q45",
     "globalId": 45,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1033,13 +989,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q46",
+    "id": "oxford-ch3-q46",
     "globalId": 46,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1056,13 +1011,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q47",
+    "id": "oxford-ch3-q47",
     "globalId": 47,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1079,13 +1033,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q48",
+    "id": "oxford-ch3-q48",
     "globalId": 48,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1102,13 +1055,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q49",
+    "id": "oxford-ch3-q49",
     "globalId": 49,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1125,13 +1077,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q50",
+    "id": "oxford-ch3-q50",
     "globalId": 50,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1148,13 +1099,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q51",
+    "id": "oxford-ch3-q51",
     "globalId": 51,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1171,13 +1121,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q52",
+    "id": "oxford-ch3-q52",
     "globalId": 52,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1194,13 +1143,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q53",
+    "id": "oxford-ch3-q53",
     "globalId": 53,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1217,13 +1165,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q54",
+    "id": "oxford-ch3-q54",
     "globalId": 54,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1240,13 +1187,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q55",
+    "id": "oxford-ch3-q55",
     "globalId": 55,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1263,13 +1209,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q56",
+    "id": "oxford-ch3-q56",
     "globalId": 56,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1286,13 +1231,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q57",
+    "id": "oxford-ch3-q57",
     "globalId": 57,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1309,13 +1253,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q58",
+    "id": "oxford-ch3-q58",
     "globalId": 58,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1332,13 +1275,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q59",
+    "id": "oxford-ch3-q59",
     "globalId": 59,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1355,13 +1297,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q60",
+    "id": "oxford-ch3-q60",
     "globalId": 60,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1378,13 +1319,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q61",
+    "id": "oxford-ch3-q61",
     "globalId": 61,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1401,13 +1341,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q62",
+    "id": "oxford-ch3-q62",
     "globalId": 62,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1424,13 +1363,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q63",
+    "id": "oxford-ch3-q63",
     "globalId": 63,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1447,13 +1385,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q64",
+    "id": "oxford-ch3-q64",
     "globalId": 64,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1470,13 +1407,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q65",
+    "id": "oxford-ch3-q65",
     "globalId": 65,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1493,13 +1429,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q66",
+    "id": "oxford-ch3-q66",
     "globalId": 66,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1516,13 +1451,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch3-q67",
+    "id": "oxford-ch3-q67",
     "globalId": 67,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 3",
     "chapterNum": 3,
     "chapterTitle": "Minerals: Orderly Expressions of Matter",
@@ -1539,13 +1473,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Minerals: Orderly Expressions of Matter",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q68",
+    "id": "oxford-ch4-q68",
     "globalId": 68,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1562,13 +1495,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q69",
+    "id": "oxford-ch4-q69",
     "globalId": 69,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1585,13 +1517,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q70",
+    "id": "oxford-ch4-q70",
     "globalId": 70,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1608,13 +1539,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q71",
+    "id": "oxford-ch4-q71",
     "globalId": 71,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1631,13 +1561,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q72",
+    "id": "oxford-ch4-q72",
     "globalId": 72,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1654,13 +1583,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q73",
+    "id": "oxford-ch4-q73",
     "globalId": 73,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1677,13 +1605,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q74",
+    "id": "oxford-ch4-q74",
     "globalId": 74,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1700,13 +1627,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q75",
+    "id": "oxford-ch4-q75",
     "globalId": 75,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1723,13 +1649,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q76",
+    "id": "oxford-ch4-q76",
     "globalId": 76,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1746,13 +1671,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q77",
+    "id": "oxford-ch4-q77",
     "globalId": 77,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1769,13 +1693,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q78",
+    "id": "oxford-ch4-q78",
     "globalId": 78,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1792,13 +1715,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q79",
+    "id": "oxford-ch4-q79",
     "globalId": 79,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1815,13 +1737,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q80",
+    "id": "oxford-ch4-q80",
     "globalId": 80,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1838,13 +1759,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q81",
+    "id": "oxford-ch4-q81",
     "globalId": 81,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1861,13 +1781,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q82",
+    "id": "oxford-ch4-q82",
     "globalId": 82,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1884,13 +1803,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q83",
+    "id": "oxford-ch4-q83",
     "globalId": 83,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1907,13 +1825,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q84",
+    "id": "oxford-ch4-q84",
     "globalId": 84,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1930,13 +1847,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q85",
+    "id": "oxford-ch4-q85",
     "globalId": 85,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1953,13 +1869,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q86",
+    "id": "oxford-ch4-q86",
     "globalId": 86,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1976,13 +1891,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch4-q87",
+    "id": "oxford-ch4-q87",
     "globalId": 87,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 4",
     "chapterNum": 4,
     "chapterTitle": "Igneous Rocks & Volcanic Eruptions",
@@ -1999,13 +1913,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Igneous Rocks & Volcanic Eruptions",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q88",
+    "id": "oxford-ch5-q88",
     "globalId": 88,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2022,13 +1935,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q89",
+    "id": "oxford-ch5-q89",
     "globalId": 89,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2045,13 +1957,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q90",
+    "id": "oxford-ch5-q90",
     "globalId": 90,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2068,13 +1979,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q91",
+    "id": "oxford-ch5-q91",
     "globalId": 91,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2091,13 +2001,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q92",
+    "id": "oxford-ch5-q92",
     "globalId": 92,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2114,13 +2023,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q93",
+    "id": "oxford-ch5-q93",
     "globalId": 93,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2137,13 +2045,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q94",
+    "id": "oxford-ch5-q94",
     "globalId": 94,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2160,13 +2067,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q95",
+    "id": "oxford-ch5-q95",
     "globalId": 95,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2183,13 +2089,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q96",
+    "id": "oxford-ch5-q96",
     "globalId": 96,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2206,13 +2111,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q97",
+    "id": "oxford-ch5-q97",
     "globalId": 97,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2229,13 +2133,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q98",
+    "id": "oxford-ch5-q98",
     "globalId": 98,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2252,13 +2155,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q99",
+    "id": "oxford-ch5-q99",
     "globalId": 99,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2275,13 +2177,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q100",
+    "id": "oxford-ch5-q100",
     "globalId": 100,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2298,13 +2199,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q101",
+    "id": "oxford-ch5-q101",
     "globalId": 101,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2321,13 +2221,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q102",
+    "id": "oxford-ch5-q102",
     "globalId": 102,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2344,13 +2243,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q103",
+    "id": "oxford-ch5-q103",
     "globalId": 103,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2367,13 +2265,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q104",
+    "id": "oxford-ch5-q104",
     "globalId": 104,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2390,13 +2287,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q105",
+    "id": "oxford-ch5-q105",
     "globalId": 105,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2413,13 +2309,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q106",
+    "id": "oxford-ch5-q106",
     "globalId": 106,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2436,13 +2331,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q107",
+    "id": "oxford-ch5-q107",
     "globalId": 107,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2459,13 +2353,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch5-q108",
+    "id": "oxford-ch5-q108",
     "globalId": 108,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 5",
     "chapterNum": 5,
     "chapterTitle": "Weathering and Soils",
@@ -2482,13 +2375,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Weathering and Soils",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q109",
+    "id": "oxford-ch6-q109",
     "globalId": 109,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2505,13 +2397,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q110",
+    "id": "oxford-ch6-q110",
     "globalId": 110,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2528,13 +2419,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q111",
+    "id": "oxford-ch6-q111",
     "globalId": 111,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2551,13 +2441,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q112",
+    "id": "oxford-ch6-q112",
     "globalId": 112,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2574,13 +2463,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q113",
+    "id": "oxford-ch6-q113",
     "globalId": 113,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2597,13 +2485,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q114",
+    "id": "oxford-ch6-q114",
     "globalId": 114,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2620,13 +2507,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q115",
+    "id": "oxford-ch6-q115",
     "globalId": 115,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2643,13 +2529,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q116",
+    "id": "oxford-ch6-q116",
     "globalId": 116,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2666,13 +2551,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q117",
+    "id": "oxford-ch6-q117",
     "globalId": 117,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2689,13 +2573,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q118",
+    "id": "oxford-ch6-q118",
     "globalId": 118,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2712,13 +2595,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q119",
+    "id": "oxford-ch6-q119",
     "globalId": 119,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2735,13 +2617,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q120",
+    "id": "oxford-ch6-q120",
     "globalId": 120,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2758,13 +2639,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q121",
+    "id": "oxford-ch6-q121",
     "globalId": 121,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2781,13 +2661,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q122",
+    "id": "oxford-ch6-q122",
     "globalId": 122,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2804,13 +2683,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q123",
+    "id": "oxford-ch6-q123",
     "globalId": 123,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2827,13 +2705,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q124",
+    "id": "oxford-ch6-q124",
     "globalId": 124,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2850,13 +2727,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch6-q125",
+    "id": "oxford-ch6-q125",
     "globalId": 125,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 6",
     "chapterNum": 6,
     "chapterTitle": "Sedimentation and Sedimentary Rocks",
@@ -2873,13 +2749,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Sedimentation and Sedimentary Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q126",
+    "id": "oxford-ch7-q126",
     "globalId": 126,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -2896,13 +2771,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q127",
+    "id": "oxford-ch7-q127",
     "globalId": 127,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -2919,13 +2793,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q128",
+    "id": "oxford-ch7-q128",
     "globalId": 128,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -2942,13 +2815,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q129",
+    "id": "oxford-ch7-q129",
     "globalId": 129,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -2965,13 +2837,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q130",
+    "id": "oxford-ch7-q130",
     "globalId": 130,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -2988,13 +2859,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q131",
+    "id": "oxford-ch7-q131",
     "globalId": 131,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3011,13 +2881,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q132",
+    "id": "oxford-ch7-q132",
     "globalId": 132,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3034,13 +2903,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q133",
+    "id": "oxford-ch7-q133",
     "globalId": 133,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3057,13 +2925,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q134",
+    "id": "oxford-ch7-q134",
     "globalId": 134,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3080,13 +2947,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q135",
+    "id": "oxford-ch7-q135",
     "globalId": 135,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3103,13 +2969,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q136",
+    "id": "oxford-ch7-q136",
     "globalId": 136,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3126,13 +2991,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q137",
+    "id": "oxford-ch7-q137",
     "globalId": 137,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3149,13 +3013,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q138",
+    "id": "oxford-ch7-q138",
     "globalId": 138,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3172,13 +3035,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q139",
+    "id": "oxford-ch7-q139",
     "globalId": 139,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3195,13 +3057,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q140",
+    "id": "oxford-ch7-q140",
     "globalId": 140,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3218,13 +3079,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q141",
+    "id": "oxford-ch7-q141",
     "globalId": 141,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3241,13 +3101,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q142",
+    "id": "oxford-ch7-q142",
     "globalId": 142,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3264,13 +3123,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q143",
+    "id": "oxford-ch7-q143",
     "globalId": 143,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3287,13 +3145,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q144",
+    "id": "oxford-ch7-q144",
     "globalId": 144,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3310,13 +3167,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q145",
+    "id": "oxford-ch7-q145",
     "globalId": 145,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3333,13 +3189,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch7-q146",
+    "id": "oxford-ch7-q146",
     "globalId": 146,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 7",
     "chapterNum": 7,
     "chapterTitle": "Metamorphism and Metamorphic Rocks",
@@ -3356,13 +3211,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Metamorphism and Metamorphic Rocks",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q147",
+    "id": "oxford-ch8-q147",
     "globalId": 147,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3379,13 +3233,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q148",
+    "id": "oxford-ch8-q148",
     "globalId": 148,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3402,13 +3255,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q149",
+    "id": "oxford-ch8-q149",
     "globalId": 149,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3425,13 +3277,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q150",
+    "id": "oxford-ch8-q150",
     "globalId": 150,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3448,13 +3299,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q151",
+    "id": "oxford-ch8-q151",
     "globalId": 151,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3471,13 +3321,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q152",
+    "id": "oxford-ch8-q152",
     "globalId": 152,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3494,13 +3343,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q153",
+    "id": "oxford-ch8-q153",
     "globalId": 153,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3517,13 +3365,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q154",
+    "id": "oxford-ch8-q154",
     "globalId": 154,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3540,13 +3387,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q155",
+    "id": "oxford-ch8-q155",
     "globalId": 155,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3563,13 +3409,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q156",
+    "id": "oxford-ch8-q156",
     "globalId": 156,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3586,13 +3431,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q157",
+    "id": "oxford-ch8-q157",
     "globalId": 157,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3609,13 +3453,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q158",
+    "id": "oxford-ch8-q158",
     "globalId": 158,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3632,13 +3475,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q159",
+    "id": "oxford-ch8-q159",
     "globalId": 159,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3655,13 +3497,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q160",
+    "id": "oxford-ch8-q160",
     "globalId": 160,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3678,13 +3519,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q161",
+    "id": "oxford-ch8-q161",
     "globalId": 161,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3701,13 +3541,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q162",
+    "id": "oxford-ch8-q162",
     "globalId": 162,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3724,13 +3563,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q163",
+    "id": "oxford-ch8-q163",
     "globalId": 163,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3747,13 +3585,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q164",
+    "id": "oxford-ch8-q164",
     "globalId": 164,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3770,13 +3607,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q165",
+    "id": "oxford-ch8-q165",
     "globalId": 165,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3793,13 +3629,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q166",
+    "id": "oxford-ch8-q166",
     "globalId": 166,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3816,13 +3651,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch8-q167",
+    "id": "oxford-ch8-q167",
     "globalId": 167,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 8",
     "chapterNum": 8,
     "chapterTitle": "Geologic Time & Dating",
@@ -3839,13 +3673,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Geologic Time & Dating",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q168",
+    "id": "oxford-ch9-q168",
     "globalId": 168,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -3862,13 +3695,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q169",
+    "id": "oxford-ch9-q169",
     "globalId": 169,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -3885,13 +3717,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q170",
+    "id": "oxford-ch9-q170",
     "globalId": 170,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -3908,13 +3739,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q171",
+    "id": "oxford-ch9-q171",
     "globalId": 171,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -3931,13 +3761,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q172",
+    "id": "oxford-ch9-q172",
     "globalId": 172,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -3954,13 +3783,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q173",
+    "id": "oxford-ch9-q173",
     "globalId": 173,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -3977,13 +3805,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q174",
+    "id": "oxford-ch9-q174",
     "globalId": 174,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4000,13 +3827,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q175",
+    "id": "oxford-ch9-q175",
     "globalId": 175,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4023,13 +3849,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q176",
+    "id": "oxford-ch9-q176",
     "globalId": 176,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4046,13 +3871,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q177",
+    "id": "oxford-ch9-q177",
     "globalId": 177,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4069,13 +3893,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q178",
+    "id": "oxford-ch9-q178",
     "globalId": 178,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4092,13 +3915,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q179",
+    "id": "oxford-ch9-q179",
     "globalId": 179,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4115,13 +3937,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q180",
+    "id": "oxford-ch9-q180",
     "globalId": 180,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4138,13 +3959,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q181",
+    "id": "oxford-ch9-q181",
     "globalId": 181,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4161,13 +3981,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q182",
+    "id": "oxford-ch9-q182",
     "globalId": 182,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4184,13 +4003,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q183",
+    "id": "oxford-ch9-q183",
     "globalId": 183,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4207,13 +4025,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q184",
+    "id": "oxford-ch9-q184",
     "globalId": 184,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4230,13 +4047,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q185",
+    "id": "oxford-ch9-q185",
     "globalId": 185,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4253,13 +4069,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q186",
+    "id": "oxford-ch9-q186",
     "globalId": 186,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4276,13 +4091,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q187",
+    "id": "oxford-ch9-q187",
     "globalId": 187,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4299,13 +4113,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q188",
+    "id": "oxford-ch9-q188",
     "globalId": 188,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4322,13 +4135,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q189",
+    "id": "oxford-ch9-q189",
     "globalId": 189,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4345,13 +4157,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q190",
+    "id": "oxford-ch9-q190",
     "globalId": 190,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4368,13 +4179,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch9-q191",
+    "id": "oxford-ch9-q191",
     "globalId": 191,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 9",
     "chapterNum": 9,
     "chapterTitle": "Plate Tectonics & Plate-Driving Mechanisms",
@@ -4391,13 +4201,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Plate Tectonics & Plate-Driving Mechanisms",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q192",
+    "id": "oxford-ch10-q192",
     "globalId": 192,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4414,13 +4223,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q193",
+    "id": "oxford-ch10-q193",
     "globalId": 193,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4437,13 +4245,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q194",
+    "id": "oxford-ch10-q194",
     "globalId": 194,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4460,13 +4267,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q195",
+    "id": "oxford-ch10-q195",
     "globalId": 195,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4483,13 +4289,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q196",
+    "id": "oxford-ch10-q196",
     "globalId": 196,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4506,13 +4311,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q197",
+    "id": "oxford-ch10-q197",
     "globalId": 197,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4529,13 +4333,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q198",
+    "id": "oxford-ch10-q198",
     "globalId": 198,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4552,13 +4355,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q199",
+    "id": "oxford-ch10-q199",
     "globalId": 199,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4575,13 +4377,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q200",
+    "id": "oxford-ch10-q200",
     "globalId": 200,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4598,13 +4399,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q201",
+    "id": "oxford-ch10-q201",
     "globalId": 201,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4621,13 +4421,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q202",
+    "id": "oxford-ch10-q202",
     "globalId": 202,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4644,13 +4443,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q203",
+    "id": "oxford-ch10-q203",
     "globalId": 203,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4667,13 +4465,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q204",
+    "id": "oxford-ch10-q204",
     "globalId": 204,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4690,13 +4487,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q205",
+    "id": "oxford-ch10-q205",
     "globalId": 205,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4713,13 +4509,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q206",
+    "id": "oxford-ch10-q206",
     "globalId": 206,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4736,13 +4531,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q207",
+    "id": "oxford-ch10-q207",
     "globalId": 207,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4759,13 +4553,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q208",
+    "id": "oxford-ch10-q208",
     "globalId": 208,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4782,13 +4575,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q209",
+    "id": "oxford-ch10-q209",
     "globalId": 209,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4805,13 +4597,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch10-q210",
+    "id": "oxford-ch10-q210",
     "globalId": 210,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 10",
     "chapterNum": 10,
     "chapterTitle": "Mountain Building & Crustal Deformation",
@@ -4828,13 +4619,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mountain Building & Crustal Deformation",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q211",
+    "id": "oxford-ch11-q211",
     "globalId": 211,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -4851,13 +4641,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q212",
+    "id": "oxford-ch11-q212",
     "globalId": 212,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -4874,13 +4663,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q213",
+    "id": "oxford-ch11-q213",
     "globalId": 213,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -4897,13 +4685,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q214",
+    "id": "oxford-ch11-q214",
     "globalId": 214,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -4920,13 +4707,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q215",
+    "id": "oxford-ch11-q215",
     "globalId": 215,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -4943,13 +4729,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q216",
+    "id": "oxford-ch11-q216",
     "globalId": 216,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -4966,13 +4751,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q217",
+    "id": "oxford-ch11-q217",
     "globalId": 217,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -4989,13 +4773,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q218",
+    "id": "oxford-ch11-q218",
     "globalId": 218,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5012,13 +4795,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q219",
+    "id": "oxford-ch11-q219",
     "globalId": 219,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5035,13 +4817,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q220",
+    "id": "oxford-ch11-q220",
     "globalId": 220,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5058,13 +4839,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q221",
+    "id": "oxford-ch11-q221",
     "globalId": 221,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5081,13 +4861,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q222",
+    "id": "oxford-ch11-q222",
     "globalId": 222,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5104,13 +4883,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q223",
+    "id": "oxford-ch11-q223",
     "globalId": 223,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5127,13 +4905,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q224",
+    "id": "oxford-ch11-q224",
     "globalId": 224,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5150,13 +4927,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q225",
+    "id": "oxford-ch11-q225",
     "globalId": 225,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5173,13 +4949,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q226",
+    "id": "oxford-ch11-q226",
     "globalId": 226,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5196,13 +4971,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q227",
+    "id": "oxford-ch11-q227",
     "globalId": 227,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5219,13 +4993,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q228",
+    "id": "oxford-ch11-q228",
     "globalId": 228,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5242,13 +5015,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q229",
+    "id": "oxford-ch11-q229",
     "globalId": 229,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5265,13 +5037,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch11-q230",
+    "id": "oxford-ch11-q230",
     "globalId": 230,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 11",
     "chapterNum": 11,
     "chapterTitle": "Earthquakes & Earth's Interior",
@@ -5288,13 +5059,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Earthquakes & Earth's Interior",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q231",
+    "id": "oxford-ch12-q231",
     "globalId": 231,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5311,13 +5081,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q232",
+    "id": "oxford-ch12-q232",
     "globalId": 232,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5334,13 +5103,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q233",
+    "id": "oxford-ch12-q233",
     "globalId": 233,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5357,13 +5125,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q234",
+    "id": "oxford-ch12-q234",
     "globalId": 234,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5380,13 +5147,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q235",
+    "id": "oxford-ch12-q235",
     "globalId": 235,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5403,13 +5169,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q236",
+    "id": "oxford-ch12-q236",
     "globalId": 236,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5426,13 +5191,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q237",
+    "id": "oxford-ch12-q237",
     "globalId": 237,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5449,13 +5213,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q238",
+    "id": "oxford-ch12-q238",
     "globalId": 238,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5472,13 +5235,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q239",
+    "id": "oxford-ch12-q239",
     "globalId": 239,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5495,13 +5257,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q240",
+    "id": "oxford-ch12-q240",
     "globalId": 240,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5518,13 +5279,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q241",
+    "id": "oxford-ch12-q241",
     "globalId": 241,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5541,13 +5301,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q242",
+    "id": "oxford-ch12-q242",
     "globalId": 242,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5564,13 +5323,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q243",
+    "id": "oxford-ch12-q243",
     "globalId": 243,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5587,13 +5345,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q244",
+    "id": "oxford-ch12-q244",
     "globalId": 244,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5610,13 +5367,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q245",
+    "id": "oxford-ch12-q245",
     "globalId": 245,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5633,13 +5389,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q246",
+    "id": "oxford-ch12-q246",
     "globalId": 246,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5656,13 +5411,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q247",
+    "id": "oxford-ch12-q247",
     "globalId": 247,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5679,13 +5433,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q248",
+    "id": "oxford-ch12-q248",
     "globalId": 248,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5702,13 +5455,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q249",
+    "id": "oxford-ch12-q249",
     "globalId": 249,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5725,13 +5477,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch12-q250",
+    "id": "oxford-ch12-q250",
     "globalId": 250,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 12",
     "chapterNum": 12,
     "chapterTitle": "Mass Wasting: Downslope Movement",
@@ -5748,13 +5499,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mass Wasting: Downslope Movement",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q251",
+    "id": "oxford-ch13-q251",
     "globalId": 251,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5771,13 +5521,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q252",
+    "id": "oxford-ch13-q252",
     "globalId": 252,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5794,13 +5543,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q253",
+    "id": "oxford-ch13-q253",
     "globalId": 253,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5817,13 +5565,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q254",
+    "id": "oxford-ch13-q254",
     "globalId": 254,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5840,13 +5587,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q255",
+    "id": "oxford-ch13-q255",
     "globalId": 255,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5863,13 +5609,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q256",
+    "id": "oxford-ch13-q256",
     "globalId": 256,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5886,13 +5631,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q257",
+    "id": "oxford-ch13-q257",
     "globalId": 257,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5909,13 +5653,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q258",
+    "id": "oxford-ch13-q258",
     "globalId": 258,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5932,13 +5675,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q259",
+    "id": "oxford-ch13-q259",
     "globalId": 259,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5955,13 +5697,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q260",
+    "id": "oxford-ch13-q260",
     "globalId": 260,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -5978,13 +5719,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q261",
+    "id": "oxford-ch13-q261",
     "globalId": 261,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6001,13 +5741,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q262",
+    "id": "oxford-ch13-q262",
     "globalId": 262,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6024,13 +5763,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q263",
+    "id": "oxford-ch13-q263",
     "globalId": 263,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6047,13 +5785,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q264",
+    "id": "oxford-ch13-q264",
     "globalId": 264,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6070,13 +5807,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q265",
+    "id": "oxford-ch13-q265",
     "globalId": 265,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6093,13 +5829,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q266",
+    "id": "oxford-ch13-q266",
     "globalId": 266,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6116,13 +5851,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q267",
+    "id": "oxford-ch13-q267",
     "globalId": 267,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6139,13 +5873,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q268",
+    "id": "oxford-ch13-q268",
     "globalId": 268,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6162,13 +5895,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q269",
+    "id": "oxford-ch13-q269",
     "globalId": 269,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6185,13 +5917,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch13-q270",
+    "id": "oxford-ch13-q270",
     "globalId": 270,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 13",
     "chapterNum": 13,
     "chapterTitle": "Running Water & Hydrologic Cycle",
@@ -6208,13 +5939,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Running Water & Hydrologic Cycle",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q271",
+    "id": "oxford-ch14-q271",
     "globalId": 271,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6231,13 +5961,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q272",
+    "id": "oxford-ch14-q272",
     "globalId": 272,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6254,13 +5983,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q273",
+    "id": "oxford-ch14-q273",
     "globalId": 273,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6277,13 +6005,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q274",
+    "id": "oxford-ch14-q274",
     "globalId": 274,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6300,13 +6027,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q275",
+    "id": "oxford-ch14-q275",
     "globalId": 275,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6323,13 +6049,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q276",
+    "id": "oxford-ch14-q276",
     "globalId": 276,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6346,13 +6071,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q277",
+    "id": "oxford-ch14-q277",
     "globalId": 277,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6369,13 +6093,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q278",
+    "id": "oxford-ch14-q278",
     "globalId": 278,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6392,13 +6115,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q279",
+    "id": "oxford-ch14-q279",
     "globalId": 279,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6415,13 +6137,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q280",
+    "id": "oxford-ch14-q280",
     "globalId": 280,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6438,13 +6159,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q281",
+    "id": "oxford-ch14-q281",
     "globalId": 281,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6461,13 +6181,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q282",
+    "id": "oxford-ch14-q282",
     "globalId": 282,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6484,13 +6203,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q283",
+    "id": "oxford-ch14-q283",
     "globalId": 283,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6507,13 +6225,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q284",
+    "id": "oxford-ch14-q284",
     "globalId": 284,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6530,13 +6247,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q285",
+    "id": "oxford-ch14-q285",
     "globalId": 285,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6553,13 +6269,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q286",
+    "id": "oxford-ch14-q286",
     "globalId": 286,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6576,13 +6291,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q287",
+    "id": "oxford-ch14-q287",
     "globalId": 287,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6599,13 +6313,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q288",
+    "id": "oxford-ch14-q288",
     "globalId": 288,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6622,13 +6335,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q289",
+    "id": "oxford-ch14-q289",
     "globalId": 289,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6645,13 +6357,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch14-q290",
+    "id": "oxford-ch14-q290",
     "globalId": 290,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 14",
     "chapterNum": 14,
     "chapterTitle": "Groundwater: A Vital Resource",
@@ -6668,13 +6379,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Groundwater: A Vital Resource",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q291",
+    "id": "oxford-ch15-q291",
     "globalId": 291,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6691,13 +6401,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q292",
+    "id": "oxford-ch15-q292",
     "globalId": 292,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6714,13 +6423,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q293",
+    "id": "oxford-ch15-q293",
     "globalId": 293,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6737,13 +6445,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q294",
+    "id": "oxford-ch15-q294",
     "globalId": 294,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6760,13 +6467,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q295",
+    "id": "oxford-ch15-q295",
     "globalId": 295,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6783,13 +6489,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q296",
+    "id": "oxford-ch15-q296",
     "globalId": 296,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6806,13 +6511,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q297",
+    "id": "oxford-ch15-q297",
     "globalId": 297,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6829,13 +6533,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q298",
+    "id": "oxford-ch15-q298",
     "globalId": 298,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6852,13 +6555,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q299",
+    "id": "oxford-ch15-q299",
     "globalId": 299,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6875,13 +6577,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q300",
+    "id": "oxford-ch15-q300",
     "globalId": 300,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6898,13 +6599,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q301",
+    "id": "oxford-ch15-q301",
     "globalId": 301,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6921,13 +6621,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q302",
+    "id": "oxford-ch15-q302",
     "globalId": 302,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6944,13 +6643,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q303",
+    "id": "oxford-ch15-q303",
     "globalId": 303,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6967,13 +6665,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q304",
+    "id": "oxford-ch15-q304",
     "globalId": 304,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -6990,13 +6687,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q305",
+    "id": "oxford-ch15-q305",
     "globalId": 305,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -7013,13 +6709,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q306",
+    "id": "oxford-ch15-q306",
     "globalId": 306,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -7036,13 +6731,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q307",
+    "id": "oxford-ch15-q307",
     "globalId": 307,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -7059,13 +6753,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q308",
+    "id": "oxford-ch15-q308",
     "globalId": 308,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -7082,13 +6775,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q309",
+    "id": "oxford-ch15-q309",
     "globalId": 309,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -7105,13 +6797,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q310",
+    "id": "oxford-ch15-q310",
     "globalId": 310,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -7128,13 +6819,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch15-q311",
+    "id": "oxford-ch15-q311",
     "globalId": 311,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 15",
     "chapterNum": 15,
     "chapterTitle": "Glaciers and Glacier Ice",
@@ -7151,13 +6841,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Glaciers and Glacier Ice",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q312",
+    "id": "oxford-ch16-q312",
     "globalId": 312,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7174,13 +6863,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q313",
+    "id": "oxford-ch16-q313",
     "globalId": 313,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7197,13 +6885,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q314",
+    "id": "oxford-ch16-q314",
     "globalId": 314,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7220,13 +6907,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q315",
+    "id": "oxford-ch16-q315",
     "globalId": 315,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7243,13 +6929,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q316",
+    "id": "oxford-ch16-q316",
     "globalId": 316,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7266,13 +6951,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q317",
+    "id": "oxford-ch16-q317",
     "globalId": 317,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7289,13 +6973,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q318",
+    "id": "oxford-ch16-q318",
     "globalId": 318,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7312,13 +6995,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q319",
+    "id": "oxford-ch16-q319",
     "globalId": 319,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7335,13 +7017,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q320",
+    "id": "oxford-ch16-q320",
     "globalId": 320,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7358,13 +7039,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q321",
+    "id": "oxford-ch16-q321",
     "globalId": 321,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7381,13 +7061,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q322",
+    "id": "oxford-ch16-q322",
     "globalId": 322,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7404,13 +7083,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q323",
+    "id": "oxford-ch16-q323",
     "globalId": 323,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7427,13 +7105,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q324",
+    "id": "oxford-ch16-q324",
     "globalId": 324,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7450,13 +7127,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q325",
+    "id": "oxford-ch16-q325",
     "globalId": 325,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7473,13 +7149,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q326",
+    "id": "oxford-ch16-q326",
     "globalId": 326,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7496,13 +7171,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q327",
+    "id": "oxford-ch16-q327",
     "globalId": 327,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7519,13 +7193,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q328",
+    "id": "oxford-ch16-q328",
     "globalId": 328,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7542,13 +7215,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q329",
+    "id": "oxford-ch16-q329",
     "globalId": 329,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7565,13 +7237,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q330",
+    "id": "oxford-ch16-q330",
     "globalId": 330,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7588,13 +7259,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q331",
+    "id": "oxford-ch16-q331",
     "globalId": 331,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7611,13 +7281,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch16-q332",
+    "id": "oxford-ch16-q332",
     "globalId": 332,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 16",
     "chapterNum": 16,
     "chapterTitle": "Deserts, Wind, and Mars Deserts",
@@ -7634,13 +7303,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Deserts, Wind, and Mars Deserts",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q333",
+    "id": "oxford-ch17-q333",
     "globalId": 333,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7657,13 +7325,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q334",
+    "id": "oxford-ch17-q334",
     "globalId": 334,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7680,13 +7347,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q335",
+    "id": "oxford-ch17-q335",
     "globalId": 335,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7703,13 +7369,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q336",
+    "id": "oxford-ch17-q336",
     "globalId": 336,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7726,13 +7391,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q337",
+    "id": "oxford-ch17-q337",
     "globalId": 337,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7749,13 +7413,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q338",
+    "id": "oxford-ch17-q338",
     "globalId": 338,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7772,13 +7435,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q339",
+    "id": "oxford-ch17-q339",
     "globalId": 339,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7795,13 +7457,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q340",
+    "id": "oxford-ch17-q340",
     "globalId": 340,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7818,13 +7479,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q341",
+    "id": "oxford-ch17-q341",
     "globalId": 341,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7841,13 +7501,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q342",
+    "id": "oxford-ch17-q342",
     "globalId": 342,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7864,13 +7523,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q343",
+    "id": "oxford-ch17-q343",
     "globalId": 343,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7887,13 +7545,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q344",
+    "id": "oxford-ch17-q344",
     "globalId": 344,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7910,13 +7567,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q345",
+    "id": "oxford-ch17-q345",
     "globalId": 345,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7933,13 +7589,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q346",
+    "id": "oxford-ch17-q346",
     "globalId": 346,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7956,13 +7611,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q347",
+    "id": "oxford-ch17-q347",
     "globalId": 347,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -7979,13 +7633,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q348",
+    "id": "oxford-ch17-q348",
     "globalId": 348,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -8002,13 +7655,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q349",
+    "id": "oxford-ch17-q349",
     "globalId": 349,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -8025,13 +7677,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q350",
+    "id": "oxford-ch17-q350",
     "globalId": 350,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -8048,13 +7699,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q351",
+    "id": "oxford-ch17-q351",
     "globalId": 351,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -8071,13 +7721,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch17-q352",
+    "id": "oxford-ch17-q352",
     "globalId": 352,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 17",
     "chapterNum": 17,
     "chapterTitle": "Coastlines and Coastal Management",
@@ -8094,13 +7743,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Coastlines and Coastal Management",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q353",
+    "id": "oxford-ch18-q353",
     "globalId": 353,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8117,13 +7765,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q354",
+    "id": "oxford-ch18-q354",
     "globalId": 354,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8140,13 +7787,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q355",
+    "id": "oxford-ch18-q355",
     "globalId": 355,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8163,13 +7809,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q356",
+    "id": "oxford-ch18-q356",
     "globalId": 356,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8186,13 +7831,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q357",
+    "id": "oxford-ch18-q357",
     "globalId": 357,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8209,13 +7853,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q358",
+    "id": "oxford-ch18-q358",
     "globalId": 358,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8232,13 +7875,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q359",
+    "id": "oxford-ch18-q359",
     "globalId": 359,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8255,13 +7897,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q360",
+    "id": "oxford-ch18-q360",
     "globalId": 360,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8278,13 +7919,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q361",
+    "id": "oxford-ch18-q361",
     "globalId": 361,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8301,13 +7941,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q362",
+    "id": "oxford-ch18-q362",
     "globalId": 362,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8324,13 +7963,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q363",
+    "id": "oxford-ch18-q363",
     "globalId": 363,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8347,13 +7985,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q364",
+    "id": "oxford-ch18-q364",
     "globalId": 364,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8370,13 +8007,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q365",
+    "id": "oxford-ch18-q365",
     "globalId": 365,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8393,13 +8029,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q366",
+    "id": "oxford-ch18-q366",
     "globalId": 366,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8416,13 +8051,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q367",
+    "id": "oxford-ch18-q367",
     "globalId": 367,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8439,13 +8073,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q368",
+    "id": "oxford-ch18-q368",
     "globalId": 368,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8462,13 +8095,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q369",
+    "id": "oxford-ch18-q369",
     "globalId": 369,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8485,13 +8117,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q370",
+    "id": "oxford-ch18-q370",
     "globalId": 370,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8508,13 +8139,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q371",
+    "id": "oxford-ch18-q371",
     "globalId": 371,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8531,13 +8161,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch18-q372",
+    "id": "oxford-ch18-q372",
     "globalId": 372,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 18",
     "chapterNum": 18,
     "chapterTitle": "Mineral Exploration & Deposits",
@@ -8554,13 +8183,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Mineral Exploration & Deposits",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q373",
+    "id": "oxford-ch19-q373",
     "globalId": 373,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8577,13 +8205,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q374",
+    "id": "oxford-ch19-q374",
     "globalId": 374,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8600,13 +8227,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q375",
+    "id": "oxford-ch19-q375",
     "globalId": 375,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8623,13 +8249,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q376",
+    "id": "oxford-ch19-q376",
     "globalId": 376,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8646,13 +8271,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q377",
+    "id": "oxford-ch19-q377",
     "globalId": 377,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8669,13 +8293,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q378",
+    "id": "oxford-ch19-q378",
     "globalId": 378,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8692,13 +8315,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q379",
+    "id": "oxford-ch19-q379",
     "globalId": 379,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8715,13 +8337,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q380",
+    "id": "oxford-ch19-q380",
     "globalId": 380,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8738,13 +8359,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q381",
+    "id": "oxford-ch19-q381",
     "globalId": 381,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8761,13 +8381,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q382",
+    "id": "oxford-ch19-q382",
     "globalId": 382,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8784,13 +8403,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q383",
+    "id": "oxford-ch19-q383",
     "globalId": 383,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8807,13 +8425,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q384",
+    "id": "oxford-ch19-q384",
     "globalId": 384,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8830,13 +8447,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q385",
+    "id": "oxford-ch19-q385",
     "globalId": 385,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8853,13 +8469,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q386",
+    "id": "oxford-ch19-q386",
     "globalId": 386,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8876,13 +8491,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q387",
+    "id": "oxford-ch19-q387",
     "globalId": 387,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8899,13 +8513,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q388",
+    "id": "oxford-ch19-q388",
     "globalId": 388,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8922,13 +8535,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q389",
+    "id": "oxford-ch19-q389",
     "globalId": 389,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8945,13 +8557,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q390",
+    "id": "oxford-ch19-q390",
     "globalId": 390,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8968,13 +8579,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q391",
+    "id": "oxford-ch19-q391",
     "globalId": 391,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -8991,13 +8601,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch19-q392",
+    "id": "oxford-ch19-q392",
     "globalId": 392,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 19",
     "chapterNum": 19,
     "chapterTitle": "Energy Resources & Renewable Energy",
@@ -9014,13 +8623,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Energy Resources & Renewable Energy",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q393",
+    "id": "oxford-ch20-q393",
     "globalId": 393,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9037,13 +8645,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q394",
+    "id": "oxford-ch20-q394",
     "globalId": 394,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9060,13 +8667,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q395",
+    "id": "oxford-ch20-q395",
     "globalId": 395,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9083,13 +8689,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q396",
+    "id": "oxford-ch20-q396",
     "globalId": 396,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9106,13 +8711,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q397",
+    "id": "oxford-ch20-q397",
     "globalId": 397,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9129,13 +8733,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q398",
+    "id": "oxford-ch20-q398",
     "globalId": 398,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9152,13 +8755,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q399",
+    "id": "oxford-ch20-q399",
     "globalId": 399,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9175,13 +8777,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q400",
+    "id": "oxford-ch20-q400",
     "globalId": 400,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9198,13 +8799,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q401",
+    "id": "oxford-ch20-q401",
     "globalId": 401,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9221,13 +8821,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q402",
+    "id": "oxford-ch20-q402",
     "globalId": 402,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9244,13 +8843,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q403",
+    "id": "oxford-ch20-q403",
     "globalId": 403,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9267,13 +8865,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q404",
+    "id": "oxford-ch20-q404",
     "globalId": 404,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9290,13 +8887,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q405",
+    "id": "oxford-ch20-q405",
     "globalId": 405,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9313,13 +8909,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q406",
+    "id": "oxford-ch20-q406",
     "globalId": 406,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9336,13 +8931,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q407",
+    "id": "oxford-ch20-q407",
     "globalId": 407,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9359,13 +8953,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q408",
+    "id": "oxford-ch20-q408",
     "globalId": 408,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9382,13 +8975,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q409",
+    "id": "oxford-ch20-q409",
     "globalId": 409,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9405,13 +8997,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q410",
+    "id": "oxford-ch20-q410",
     "globalId": 410,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9428,13 +9019,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q411",
+    "id": "oxford-ch20-q411",
     "globalId": 411,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9451,13 +9041,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch20-q412",
+    "id": "oxford-ch20-q412",
     "globalId": 412,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 20",
     "chapterNum": 20,
     "chapterTitle": "The Greenhouse Effect and Global Climate Change",
@@ -9474,13 +9063,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "The Greenhouse Effect and Global Climate Change",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q413",
+    "id": "oxford-ch21-q413",
     "globalId": 413,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9497,13 +9085,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q414",
+    "id": "oxford-ch21-q414",
     "globalId": 414,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9520,13 +9107,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q415",
+    "id": "oxford-ch21-q415",
     "globalId": 415,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9543,13 +9129,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q416",
+    "id": "oxford-ch21-q416",
     "globalId": 416,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9566,13 +9151,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q417",
+    "id": "oxford-ch21-q417",
     "globalId": 417,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9589,13 +9173,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q418",
+    "id": "oxford-ch21-q418",
     "globalId": 418,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9612,13 +9195,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q419",
+    "id": "oxford-ch21-q419",
     "globalId": 419,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9635,13 +9217,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q420",
+    "id": "oxford-ch21-q420",
     "globalId": 420,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9658,13 +9239,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q421",
+    "id": "oxford-ch21-q421",
     "globalId": 421,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9681,13 +9261,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q422",
+    "id": "oxford-ch21-q422",
     "globalId": 422,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9704,13 +9283,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q423",
+    "id": "oxford-ch21-q423",
     "globalId": 423,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9727,13 +9305,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q424",
+    "id": "oxford-ch21-q424",
     "globalId": 424,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9750,13 +9327,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q425",
+    "id": "oxford-ch21-q425",
     "globalId": 425,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9773,13 +9349,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q426",
+    "id": "oxford-ch21-q426",
     "globalId": 426,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9796,13 +9371,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q427",
+    "id": "oxford-ch21-q427",
     "globalId": 427,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9819,13 +9393,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q428",
+    "id": "oxford-ch21-q428",
     "globalId": 428,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9842,13 +9415,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q429",
+    "id": "oxford-ch21-q429",
     "globalId": 429,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9865,13 +9437,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q430",
+    "id": "oxford-ch21-q430",
     "globalId": 430,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9888,13 +9459,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q431",
+    "id": "oxford-ch21-q431",
     "globalId": 431,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9911,13 +9481,12 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   },
   {
-    "id": "oup-ch21-q432",
+    "id": "oxford-ch21-q432",
     "globalId": 432,
-    "source": "oup",
+    "source": "oxford",
     "chapter": "Chapter 21",
     "chapterNum": 21,
     "chapterTitle": "Planetary Geology: Terrestrial Planets & Moons",
@@ -9934,7 +9503,6 @@ export const oupQuestions: Question[] = [
     "tags": [
       "Planetary Geology: Terrestrial Planets & Moons",
       "OUP"
-    ],
-    "difficulty": "medium"
+    ]
   }
 ];
