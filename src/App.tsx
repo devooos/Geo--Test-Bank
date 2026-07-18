@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useMemo, useRef } from 'react';
+import { Analytics } from "@vercel/analytics/react";
 import { motion, AnimatePresence } from 'motion/react';
 import html2canvas from 'html2canvas';
 import { 
@@ -982,10 +983,11 @@ export default function App() {
 
       {/* FOOTER BAR */}
       <footer className="bg-white border-t border-slate-200 py-6 px-8 text-center text-xs text-slate-500 font-medium">
-        <p>© 2026 Geo# Geology Study Platform. All rights reserved.</p>
-        <p className="mt-1 text-[11px] text-slate-400">Questions curated from J. Butler physical geology materials, Oxford University Press study supplements, and Examveda Remote Sensing banks.</p>
+        <p>© 2026 Geo# Geology Test Bank. AASH S'26</p>
+        <p className="mt-1 text-[11px] text-slate-400">Questions curated from J. Butler, Oxford University Press, and Examveda Remote Sensing banks.</p>
       </footer>
     </div>
+    <Analytics />
   );
 }
 
