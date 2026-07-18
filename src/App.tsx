@@ -13,7 +13,7 @@ import type { Question } from './types';
 const getProxiedImageUrl = (url: string | null): string => {
   if (!url) return '';
   if (url.startsWith('/') || url.startsWith('data:')) return url;
-  return `${encodeURIComponent(url)}`;
+  return `https://images.weserv.nl/?url=${encodeURIComponent(url)}`;
 };
 
 export default function App() {
