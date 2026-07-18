@@ -7,6 +7,7 @@ import {
   Compass, BookOpen, Award, CheckCircle2, XCircle, X, Filter, Check, 
   ExternalLink, FileText, Sparkles, HelpCircle, Download
 } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 import { allQuestions } from './data/questions';
 import type { Question } from './types';
 
@@ -985,6 +986,9 @@ export default function App() {
         <p>© 2026 Geo# Geology Study Platform. All rights reserved.</p>
         <p className="mt-1 text-[11px] text-slate-400">Questions curated from J. Butler physical geology materials, Oxford University Press study supplements, and Examveda Remote Sensing banks.</p>
       </footer>
+      
+      {/* Vercel Web Analytics */}
+      <Analytics />
     </div>
   );
 }
